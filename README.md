@@ -4,13 +4,13 @@
 [OSINT Framework](https://osintframework.com/)
 
 ## Bookmark Collections
--[awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
--[Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
--[Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
--[OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
--[The Ultimate OSINT Collection - Hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
--[The OSINT Rainbow](https://start.me/p/xbEwoa/09-industry-professionals)
--[TOOLKIT - Bruno Mortier](https://start.me/p/W1AXYo/toolkit)
+-[awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)\
+-[Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)\
+-[Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)\
+-[OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)\
+-[The Ultimate OSINT Collection - Hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)\
+-[The OSINT Rainbow](https://start.me/p/xbEwoa/09-industry-professionals)\
+-[TOOLKIT - Bruno Mortier](https://start.me/p/W1AXYo/toolkit)\
 
 
 ## Forensics
