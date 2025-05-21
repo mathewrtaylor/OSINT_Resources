@@ -1,7 +1,12 @@
 # OSINT_Resources
  A Listing of OSINT Resources
 
-[OSINT Framework](https://osintframework.com/)
+-   [OSINT Framework](https://osintframework.com/)
+
+
+## Blogs
+-   [OSINT Me](https://www.osintme.com/)
+
 
 ## Bookmark Collections
 -   [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
@@ -15,6 +20,7 @@
 ## Forensics
 -   [Stegosaurus](https://github.com/AngelKitty/stegosaurus)
 -   [How to Extract Text from a Face-Down Paper Using GIMP for OSINT Investigations](https://www.youtube.com/watch?v=ljiRh-nOP1Y)
+-   [Email Header Analyzer, RFC822 Parser](https://mxtoolbox.com/EmailHeaders.aspx)
 
 
 ## Online Content Creators
@@ -42,6 +48,15 @@
 -   [WhatsMyName Web](https://whatsmyname.app/)
 
 
+## Tools
+-   [Build a Reconnaissance Tool](https://sundowndev.medium.com/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
+-   [IMEI Check](https://www.imei24.com/)
+-   [mitaka Browser Extension](https://github.com/ninoseki/mitaka)
+-   [ProtOSINT](https://github.com/pixelbubble/ProtOSINT)
+-   [Shodan Queries](https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/)
+-   [skiptracer](https://gitlab.com/illwill/skiptracer)
+
+
 ## Training
 -   [Open Source Investigation](https://www.youtube.com/watch?v=02KE_n_JqV4&list=PLnOD5ptd113Iwn7EumiBqaOgSZ7WRR1rv)
 -   [OSINT At Home - Tutorials on Digital Research, Verification and Open Source Investigations](https://youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy)
@@ -50,8 +65,10 @@
 -   [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
 -   [SANS OSINT Courses](https://www.youtube.com/watch?v=e7GTwmCX_Ws&list=PLOSJSv0hbPZBXT4kuRv_e8BP0TyOGc_W5)
 
-## Tools
+## Tools Training
 -   [Expert OSINT Tools: Free, Powerful Bookmarklets for Digital Investigators](https://www.youtube.com/watch?v=XmG-OQMyDtQ)
 -   [How To: Conduct Person of Interest Investigations with Maltego - Official Tutorial (2024)](https://www.youtube.com/watch?v=aXktQ3epQvw)
+-   [PhoneInfoga Tutorial](https://www.youtube.com/watch?v=17gXMDtIhHU)
+-   [skiptracer Tutorial](https://www.youtube.com/watch?v=Ls0SH9MZMCs)
 -   [SOCMINT Made Simple: Social Media Research Without Logging In](https://www.youtube.com/watch?v=TeL1gDpE9QM)
 -   [Tips for Conducting OSINT Investigations in the EU with GDPR](https://www.youtube.com/watch?v=HY-8o90xak4)
