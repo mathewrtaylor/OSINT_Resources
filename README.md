@@ -3,7 +3,7 @@
 
 [OSINT Framework](https://osintframework.com/)
 
-### Bookmark Collections
+## Bookmark Collections
 [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
 [Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
@@ -13,12 +13,12 @@
 [TOOLKIT - Bruno Mortier](https://start.me/p/W1AXYo/toolkit)
 
 
-### Forensics
+## Forensics
 [Stegosaurus](https://github.com/AngelKitty/stegosaurus)
 [How to Extract Text from a Face-Down Paper Using GIMP for OSINT Investigations](https://www.youtube.com/watch?v=ljiRh-nOP1Y)
 
 
-### Online Content Creators
+## Online Content Creators
 [0x4rk0](https://www.youtube.com/@0x4rk0)
 [Authentic8](https://www.youtube.com/@Authentic8Silo)
 [Bendobrown](https://www.youtube.com/@Bendobrown)
@@ -33,7 +33,7 @@
 [UK OSINT Community](https://www.youtube.com/@UKOSINT)
 
 
-### Search Engines
+## Search Engines
 [Certificate Search](https://crt.sh/)
 [DNS recon & research](https://dnsdumpster.com/)
 [Dual Maps](https://data.mashedworld.com/dualmaps/map.htm)
@@ -43,7 +43,7 @@
 [WhatsMyName Web](https://whatsmyname.app/)
 
 
-### Training
+## Training
 [Open Source Investigation](https://www.youtube.com/watch?v=02KE_n_JqV4&list=PLnOD5ptd113Iwn7EumiBqaOgSZ7WRR1rv)
 [OSINT At Home - Tutorials on Digital Research, Verification and Open Source Investigations](https://youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy)
 [OSINT for ICS/OT Cyber Security - 10 Hours](https://www.youtube.com/watch?v=e7GTwmCX_Ws&list=PLOSJSv0hbPZBXT4kuRv_e8BP0TyOGc_W5)
