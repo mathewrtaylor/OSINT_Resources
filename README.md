@@ -19,7 +19,7 @@
 
 
 ### Online Content Creators
-[0x4rk0]](https://www.youtube.com/@0x4rk0)
+[0x4rk0](https://www.youtube.com/@0x4rk0)
 [Authentic8](https://www.youtube.com/@Authentic8Silo)
 [Bendobrown](https://www.youtube.com/@Bendobrown)
 [Cyber Intel with Gary Ruddell](https://www.youtube.com/@CyberIntelWithGaryRuddell)
