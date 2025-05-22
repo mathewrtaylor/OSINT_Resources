@@ -104,7 +104,7 @@
 -   [Temp Phone Number for SMS](https://quackr.io/)
 ***
 -   [Face Generation](https://thispersondoesnotexist.com/)
-    [Headshot Generator](https://generated.photos/faces)
+-   [Headshot Generator](https://generated.photos/faces)
 ***
 -   [Fake Resume Generator](https://github.com/jsonresume/jsonresume-fake)
 -   [Resume Creator](https://thisresumedoesnotexist.com/)
