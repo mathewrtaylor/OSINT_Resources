@@ -13,11 +13,15 @@
 -   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
 -   [Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
 -   [Dating Apps and Hook up sites for Investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
+-   [osint-notes](https://github.com/teal33t/osint-notes)
+-   [OSINT-Resources](https://github.com/msmith150/OSINT-Resources?tab=readme-ov-file)
 -   [OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
+-   [OSINT Tools for the Darkweb](https://github.com/apurvsinghgautam/dark-web-osint-tools)
 -   [OSINT Cheatsheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)
 -   [The Ultimate OSINT Collection - Hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 -   [The OSINT Rainbow](https://start.me/p/xbEwoa/09-industry-professionals)
 -   [TOOLKIT - Bruno Mortier](https://start.me/p/W1AXYo/toolkit)
+-   [ouTube-Video-OSINT](https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT)
 
 
 ## Forensics
@@ -65,31 +69,47 @@
 
 
 ## Tools
+-   [Auto-Recon](https://github.com/whitehacker0/Auto-Recon)
 -   [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+-   [Brahmastra_OSINT](https://github.com/connedigital/Brahmastra_OSINT)
 -   [Build a Reconnaissance Tool](https://sundowndev.medium.com/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
 -   [Depixelization](https://github.com/spipm/Depixelization_poc)
 -   [IMEI Check](https://www.imei24.com/)
+-   [IntelOwl](https://github.com/intelowlproject/IntelOwl)
+-   [IPAnalyzer](https://github.com/s-r-e-e-r-a-j/IPAnalyzer)
 -   [maigret](https://github.com/soxoj/maigret)
 -   [mitaka Browser Extension](https://github.com/ninoseki/mitaka)
 -   [mosint](https://github.com/alpkeskin/mosint)
 -   [o365chk](https://github.com/nixintel/o365chk/)
 -   [Osintgram](https://github.com/Datalux/Osintgram/)
+-   [PNIX](https://github.com/PrathamSinghal001/PNIX)
 -   [ProtOSINT](https://github.com/pixelbubble/ProtOSINT)
 -   [Private Proxies](https://www.privateproxyreviews.com/)
+-   [spotify_monitor](https://github.com/misiektoja/spotify_monitor)
 -   [Shodan Queries](https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/)
 -   [Sherlock](https://github.com/2FXXD/sherlock)
 -   [skiptracer](https://gitlab.com/illwill/skiptracer)
 -   [toutatis](https://github.com/alpkeskin/mosint)
+-   [WebSift](https://github.com/s-r-e-e-r-a-j/WebSift)
+
 
 ### Sock Tools
 -   [Name Generator](https://www.fakenamegenerator.com/)
+
 -   [SMS Verification](https://verifywithsms.com/)
 -   [SMS Verification Service](https://juicysms.com/)
 -   [Text Verifcation](https://www.textverified.com/)
 -   [Temp Phone Number for SMS](https://quackr.io/)
+
 -   [Face Generation](https://thispersondoesnotexist.com/)
     [Headshot Generator](https://generated.photos/faces)
+
 -   [Resume Creator](https://thisresumedoesnotexist.com/)
+
+-   [Ezzocard](https://ezzocard.com/anonymous-payments/)
+-   [Virtual Credit Cards](https://www.privacy.com/)
+-   
+
 
 
 
