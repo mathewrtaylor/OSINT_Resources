@@ -95,17 +95,20 @@
 
 ### Sock Tools
 -   [Name Generator](https://www.fakenamegenerator.com/)
-
+-   [Random Name Generator](https://www.behindthename.com/random/)
+-   [Business Name Generator](https://logo.com/business-name-generator)
+***
 -   [SMS Verification](https://verifywithsms.com/)
 -   [SMS Verification Service](https://juicysms.com/)
 -   [Text Verifcation](https://www.textverified.com/)
 -   [Temp Phone Number for SMS](https://quackr.io/)
-
+***
 -   [Face Generation](https://thispersondoesnotexist.com/)
     [Headshot Generator](https://generated.photos/faces)
-
+***
+-   [Fake Resume Generator](https://github.com/jsonresume/jsonresume-fake)
 -   [Resume Creator](https://thisresumedoesnotexist.com/)
-
+***
 -   [Ezzocard](https://ezzocard.com/anonymous-payments/)
 -   [Virtual Credit Cards](https://www.privacy.com/)
 
