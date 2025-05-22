@@ -12,10 +12,13 @@
 -   [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 -   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
 -   [Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
+-   [Dating Apps and Hook up sites for Investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
 -   [OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
+-   [OSINT Cheatsheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)
 -   [The Ultimate OSINT Collection - Hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 -   [The OSINT Rainbow](https://start.me/p/xbEwoa/09-industry-professionals)
 -   [TOOLKIT - Bruno Mortier](https://start.me/p/W1AXYo/toolkit)
+
 
 ## Forensics
 -   [Stegosaurus](https://github.com/AngelKitty/stegosaurus)
@@ -47,17 +50,54 @@
 -   [Intelligence X](https://intelx.io/tools)
 -   [WhatsMyName Web](https://whatsmyname.app/)
 
+## Sock Puppets
+-   [The Art of the Sock](https://www.secjuice.com/the-art-of-the-sock-osint-humint/)
+-   [The Puppeteer](https://www.osintcurio.us/2018/12/27/the-puppeteer/)
+-   [Introduction to Setting up Sock Puppets for OSINT](https://www.youtube.com/watch?v=3KPO58wkw7M)
+-   [Creating Sock Puppet Accounts](https://www.youtube.com/watch?v=Zf155HW5Qp0)
+-   [One Sock Puppet creation Methodology](https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/)
+-   [Sockpuppet Account Creation - My Process](https://garrettmickley.com/sockpuppet-account-creation/)
+-   [Create a Believable Fake Account](https://www.wikihow.com/Create-a-Fake-Facebook-Profile)
+-   [From Sock Puppets to Puppet Masters](https://christina-lekati.medium.com/from-sock-puppets-to-puppet-masters-a78a0c89609c)
+-   [An Evening With The Puppet Masters](https://www.youtube.com/watch?v=EEeJcZhxAf4)
+-   [Signs you're following a Fake Twitter Account](https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/)
+-   [How to Keep Facebook From Detecting Fake Accounts](https://www.vice.com/en/article/surveillance-company-explains-how-to-keep-facebook-from-detecting-fake-accounts-in-leaked-manual/)
+
 
 ## Tools
+-   [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 -   [Build a Reconnaissance Tool](https://sundowndev.medium.com/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
+-   [Depixelization](https://github.com/spipm/Depixelization_poc)
 -   [IMEI Check](https://www.imei24.com/)
+-   [maigret](https://github.com/soxoj/maigret)
 -   [mitaka Browser Extension](https://github.com/ninoseki/mitaka)
+-   [mosint](https://github.com/alpkeskin/mosint)
+-   [o365chk](https://github.com/nixintel/o365chk/)
+-   [Osintgram](https://github.com/Datalux/Osintgram/)
 -   [ProtOSINT](https://github.com/pixelbubble/ProtOSINT)
+-   [Private Proxies](https://www.privateproxyreviews.com/)
 -   [Shodan Queries](https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/)
+-   [Sherlock](https://github.com/2FXXD/sherlock)
 -   [skiptracer](https://gitlab.com/illwill/skiptracer)
+-   [toutatis](https://github.com/alpkeskin/mosint)
+
+### Sock Tools
+-   [Name Generator](https://www.fakenamegenerator.com/)
+-   [SMS Verification](https://verifywithsms.com/)
+-   [SMS Verification Service](https://juicysms.com/)
+-   [Text Verifcation](https://www.textverified.com/)
+-   [Temp Phone Number for SMS](https://quackr.io/)
+-   [Face Generation](https://thispersondoesnotexist.com/)
+    [Headshot Generator](https://generated.photos/faces)
+-   [Resume Creator](https://thisresumedoesnotexist.com/)
+
+
+
+
 
 
 ## Training
+-   [Introduction to OSINT](https://www.youtube.com/watch?v=PNeCqw8OLeA)
 -   [Open Source Investigation](https://www.youtube.com/watch?v=02KE_n_JqV4&list=PLnOD5ptd113Iwn7EumiBqaOgSZ7WRR1rv)
 -   [OSINT At Home - Tutorials on Digital Research, Verification and Open Source Investigations](https://youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy)
 -   [OSINT for ICS/OT Cyber Security - 10 Hours](https://www.youtube.com/watch?v=e7GTwmCX_Ws&list=PLOSJSv0hbPZBXT4kuRv_e8BP0TyOGc_W5)
