@@ -45,6 +45,10 @@
 -   [UK OSINT Community](https://www.youtube.com/@UKOSINT)
 
 
+## Recommended Reading
+-   [Recommended Reading](./Recommended_Reading.md)
+
+
 ## Search Engines
 -   [Certificate Search](https://crt.sh/)
 -   [DNS recon & research](https://dnsdumpster.com/)
