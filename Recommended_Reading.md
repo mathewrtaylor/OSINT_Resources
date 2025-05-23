@@ -52,23 +52,6 @@
 4. **Real-Case Investigations** – Includes walkthroughs of high-profile cases, translating theory into actionable workflows.
 5. **Tool-Based Recon Mastery** – Explores the application of common and niche OSINT tools for mapping digital footprints across the surface, deep, and dark web.
 ***
-## Hunting Cyber Criminals: A Hacker's Guide to Online Intelligence Gathering Tools and Techniques
-
-- **Author:** Vinny Troia  
-- **Publishing Date:** February 11, 2020  
-- **ISBN:** 978-1119540922  
-- **Goodreads URL:** [https://www.goodreads.com/book/show/51003303-hunting-cyber-criminals](https://www.goodreads.com/book/show/51003303-hunting-cyber-criminals)  
-- **Abbreviated Publisher's Summary:**  
-  This book provides an insider's look at how cybercriminals operate and how to track them using open-source tools. With a blend of hacker perspective and investigator discipline, Troia outlines detailed methods for deanonymizing threat actors, analyzing darknet behavior, and performing digital manhunts.
-
-### Investigator’s Summary (OSINT Perspective):
-
-1. **Threat Actor Profiling** – Troia breaks down the mindset and infrastructure of cybercriminals, offering valuable psychological and technical insight.
-2. **Deanonymization Techniques** – Hands-on examples of tracing identities through leaked data, social engineering artifacts, and infrastructure analysis.
-3. **Dark Web Intelligence** – Offers practical strategies for navigating and extracting value from forums, marketplaces, and hidden services.
-4. **Real-Case Investigations** – Includes walkthroughs of high-profile cases, translating theory into actionable workflows.
-5. **Tool-Based Recon Mastery** – Explores the application of common and niche OSINT tools for mapping digital footprints across the surface, deep, and dark web.
-***
 ## Critical Thinking for Strategic Intelligence
 
 - **Authors:** Katherine Hibbs Pherson, Randolph H. Pherson  
