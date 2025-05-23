@@ -86,3 +86,20 @@
 4. **Collaboration Frameworks** – Enhances multi-analyst efforts through methods like Structured Brainstorming and Cross-Impact Matrix.
 5. **Applied Utility** – Techniques like Indicators & Signposts and Indicators Validator are directly useful for tracking adversary digital behavior over time.
 ***
+## OSINT Investigations: The Guide for Intelligence Analysts and Investigators
+
+- **Author:** Tyler Hatch  
+- **Publishing Date:** April 24, 2023  
+- **ISBN:** 978-1999491837  
+- **Goodreads URL:** [https://www.goodreads.com/book/show/124906070-osint-investigations](https://www.goodreads.com/book/show/124906070-osint-investigations)  
+- **Abbreviated Publisher's Summary:**  
+  This field guide bridges the gap between theoretical OSINT concepts and their real-world application. Tailored for investigators and analysts, it covers practical workflows, ethical considerations, and the use of both automated tools and manual techniques to collect, verify, and act on open-source information.
+
+### Investigator’s Summary (OSINT Perspective):
+
+1. **Tactical Playbook** – Delivers field-ready processes for investigations involving social media, digital footprints, and domain infrastructure.
+2. **Workflow Integration** – Focuses on embedding OSINT techniques within broader investigative or legal frameworks—ideal for cross-functional cases.
+3. **Tool-Supported Tactics** – Explores automation options and toolchains to streamline repetitive data gathering and validation.
+4. **Investigator’s Lens** – Written by a digital forensics professional, the content maintains a grounded, law-enforcement-aligned perspective.
+5. **Case-Focused Ethics** – Tackles ethical and legal boundaries in OSINT—especially relevant in cases involving surveillance, privacy, and attribution.
+***
