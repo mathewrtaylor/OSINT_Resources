@@ -10,6 +10,7 @@
 
 ## Bookmark Collections
 -   [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
+-   [awesome_Threat-Hunting](https://github.com/threat-hunting/awesome_Threat-Hunting)
 -   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
 -   [Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
 -   [Dating Apps and Hook up sites for Investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
@@ -78,6 +79,7 @@
 -   [Brahmastra_OSINT](https://github.com/connedigital/Brahmastra_OSINT)
 -   [Build a Reconnaissance Tool](https://sundowndev.medium.com/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
 -   [Depixelization](https://github.com/spipm/Depixelization_poc)
+-   [HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)
 -   [IMEI Check](https://www.imei24.com/)
 -   [IntelOwl](https://github.com/intelowlproject/IntelOwl)
 -   [IPAnalyzer](https://github.com/s-r-e-e-r-a-j/IPAnalyzer)
@@ -85,7 +87,9 @@
 -   [mitaka Browser Extension](https://github.com/ninoseki/mitaka)
 -   [mosint](https://github.com/alpkeskin/mosint)
 -   [o365chk](https://github.com/nixintel/o365chk/)
+-   [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)
 -   [Osintgram](https://github.com/Datalux/Osintgram/)
+-   [osint_toolkit](https://github.com/dev-lu/osint_toolkit)
 -   [PNIX](https://github.com/PrathamSinghal001/PNIX)
 -   [ProtOSINT](https://github.com/pixelbubble/ProtOSINT)
 -   [Private Proxies](https://www.privateproxyreviews.com/)

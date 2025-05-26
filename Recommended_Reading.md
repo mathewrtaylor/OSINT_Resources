@@ -103,3 +103,21 @@
 4. **Investigator’s Lens** – Written by a digital forensics professional, the content maintains a grounded, law-enforcement-aligned perspective.
 5. **Case-Focused Ethics** – Tackles ethical and legal boundaries in OSINT—especially relevant in cases involving surveillance, privacy, and attribution.
 ***
+## The Cyber Intelligence Analyst's Cookbook
+
+- **Author:** Adam Pennington  
+- **Publishing Date:** November 10, 2022  
+- **ISBN:** 978-1801818214  
+- **Goodreads URL:** [https://www.goodreads.com/book/show/77473251-the-cyber-intelligence-analyst-s-cookbook](https://www.goodreads.com/book/show/77473251-the-cyber-intelligence-analyst-s-cookbook)  
+- **Abbreviated Publisher's Summary:**  
+  This hands-on guide offers practical recipes for cyber threat intelligence analysts, covering tradecraft in data collection, threat modeling, and reporting. It balances offensive and defensive perspectives while equipping analysts with repeatable processes to identify, analyze, and respond to threats.
+
+### Investigator’s Summary (OSINT Perspective):
+
+1. **Recipe-Based Learning** – The modular format allows quick adoption of techniques for malware attribution, infrastructure mapping, and actor profiling.
+2. **Threat Intelligence Alignment** – Ideal for integrating OSINT findings into structured CTI reports and enterprise security workflows.
+3. **TTP Correlation** – Enables mapping of behaviors to frameworks like MITRE ATT&CK, enhancing threat classification and reporting accuracy.
+4. **Automation-Ready Tactics** – Many workflows are easily scriptable, reducing the time-to-insight for bulk data or recurring investigations.
+5. **Red/Blue Balance** – Teaches analysts to think like both attackers and defenders—crucial for proactive intelligence gathering and prediction.
+[URL](https://github.com/open-source-rs/The-Cyber-Intelligence-Analyst-Cookbook)
+***
