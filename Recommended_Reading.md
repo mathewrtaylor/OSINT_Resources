@@ -118,6 +118,6 @@
 2. **Threat Intelligence Alignment** – Ideal for integrating OSINT findings into structured CTI reports and enterprise security workflows.
 3. **TTP Correlation** – Enables mapping of behaviors to frameworks like MITRE ATT&CK, enhancing threat classification and reporting accuracy.
 4. **Automation-Ready Tactics** – Many workflows are easily scriptable, reducing the time-to-insight for bulk data or recurring investigations.
-5. **Red/Blue Balance** – Teaches analysts to think like both attackers and defenders—crucial for proactive intelligence gathering and prediction.
+5. **Red/Blue Balance** – Teaches analysts to think like both attackers and defenders—crucial for proactive intelligence gathering and prediction.\
 [URL](https://github.com/open-source-rs/The-Cyber-Intelligence-Analyst-Cookbook)
 ***
