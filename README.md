@@ -2,6 +2,7 @@
  A Listing of OSINT Resources
 
 -   [OSINT Framework](https://osintframework.com/)
+-   [Malfrat's OSINT Map](https://map.malfrats.industries/)
 
 
 ## Blogs
@@ -14,6 +15,7 @@
 -   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
 -   [Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
 -   [Dating Apps and Hook up sites for Investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
+-   [Mastering Threat Intelligence Platforms](https://start.me/p/gGj8gn/mastering-threat-intelligence-platforms)
 -   [osint-notes](https://github.com/teal33t/osint-notes)
 -   [OSINT-Resources](https://github.com/msmith150/OSINT-Resources?tab=readme-ov-file)
 -   [OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
