@@ -26,12 +26,28 @@ Verify LLCs, corporations, and registered agents through official Secretary of S
 <details>
 <summary><strong>State Secretary of State Business Search Links</strong></summary>
 
-- [Alabama](https://arc-sos.state.al.us/cgi/corpname.mbr/input)
-- [California](https://bizfileonline.sos.ca.gov/search/business)
-- [Delaware](https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx)
-- [Florida](http://search.sunbiz.org/)
-- [Texas](https://mycpa.cpa.state.tx.us/coa/)
-- [View full 50-state list →](https://www.nass.org/business-services/sos-business-entity-search)
+-   [Alabama](https://arc-sos.state.al.us/cgi/corpname.mbr/input)
+-   [Alaska](https://www.commerce.alaska.gov/cbp/main/search/entities)
+-   [Arizona](https://azsos.gov/business)
+-   [Arkansas](https://www.ark.org/corp-search/index.php)
+-   [California](https://bizfileonline.sos.ca.gov/search/business)
+-   [Colorado](https://www.sos.state.co.us/biz/BusinessEntityCriteriaExt.do)
+-   [Connecticut](https://service.ct.gov/business/s/onlinebusinesssearch?language=en_US)
+-   [Delaware](https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx)
+-   [Florida](http://search.sunbiz.org/)
+-   [Georgia](https://ecorp.sos.ga.gov/businesssearch/)
+-   [Hawaii](https://hbe.ehawaii.gov/documents/search.html)
+-   [Idaho](https://sos.idaho.gov/business-services-resources/)
+-   [Illinois](https://apps.ilsos.gov/businessentitysearch/)
+-   [Indiana](https://bsd.sos.in.gov/publicbusinesssearch)
+-   [Iowa](https://sos.iowa.gov/search/business/search.aspx)
+-   [Kansas](https://www.sos.ks.gov/eforms/BusinessEntity/Search.aspx)
+-   [Kentucky](https://www.sos.ky.gov/bus/business-filings/OnlineServices/Pages/default.aspx)
+-   [Louisiana](https://coraweb.sos.la.gov/CommercialSearch/CommercialSearch.aspx)
+-   [Maine](https://apps3.web.maine.gov/nei-sos-icrs/ICRS?MainPage=x)
+
+
+
 
 </details>
 
