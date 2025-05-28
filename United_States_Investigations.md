@@ -77,8 +77,6 @@ Verify LLCs, corporations, and registered agents through official Secretary of S
 -   [Wisconsin](https://apps.dfi.wi.gov/apps/corpsearch/search.aspx)
 -   [Wyoming](https://wyobiz.wyo.gov/business/filingsearch.aspx)
 
-
-
 </details>
 
 ---
@@ -91,9 +89,58 @@ Check the licensing status of contractors, medical professionals, and more.
 <summary><strong>Examples</strong></summary>
 
 - [National Plan and Provider Enumeration (NPI Registry - Healthcare)](https://npiregistry.cms.hhs.gov/)
-- [California Department of Consumer Affairs License Lookup](https://search.dca.ca.gov/)
-- [Texas Occupational License Lookup](https://www.tdlr.texas.gov/tools_search/)
 - [Multi-State Nurse License Verification (NURSYS)](https://www.nursys.com/)
+
+-   [Alabama](https://ot.alabama.gov/licensee.aspx)
+-   [Alaska](https://www.commerce.alaska.gov/cbp/main/search/professional)
+-   [Arizona](https://btr.az.gov/public/registered-professional-search)
+-   [Arkansas](https://labor.arkansas.gov/resources/rosters/)
+-   [California](https://search.dca.ca.gov/)
+-   [Colorado]()
+-   [Connecticut]()
+-   [Delaware]()
+-   [Florida]()
+-   [Georgia]()
+-   [Hawaii]()
+-   [Idaho]()
+-   [Illinois]()
+-   [Indiana]()
+-   [Iowa]()
+-   [Kansas]()
+-   [Kentucky]()
+-   [Louisiana]()
+-   [Maine]()
+-   [Maryland]()
+-   [Massachusetts]()
+-   [Michigan]()
+-   [Minnesota]()
+-   [Mississippi]()
+-   [Missouri]()
+-   [Montana]()
+-   [Nebraska]()
+-   [Nevada]()
+-   [New Hampshire]()
+-   [New Jersey]()
+-   [New Mexico]()
+-   [New York]()
+-   [North Carolina]()
+-   [North Dakota]()
+-   [Ohio]()
+-   [Oklahoma]()
+-   [Oregon]()
+-   [Pennsylvania]()
+-   [Rhode Island]()
+-   [South Carolina]()
+-   [South Dakota]()
+-   [Tennessee]()
+-   [Texas](https://www.tdlr.texas.gov/tools_search/)
+-   [Utah]()
+-   [Vermont]()
+-   [Virginia]()
+-   [Washington]()
+-   [West Virginia]()
+-   [Wisconsin]()
+-   [Wyoming]()
 
 </details>
 
