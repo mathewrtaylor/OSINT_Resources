@@ -7,17 +7,23 @@
 
 ## Blogs
 -   [OSINT Me](https://www.osintme.com/)
+-   [Sector035](https://sector035.nl/articles/category:week-in-osint)
 
 
 ## Bookmark Collections
 -   [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 -   [awesome_Threat-Hunting](https://github.com/threat-hunting/awesome_Threat-Hunting)
 -   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
+-   [Canadian OSINT](https://start.me/p/RMwN6v/canada-osint)
 -   [Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
+-   [Datajournalism Resources](https://github.com/r3mlab/datajournalism-resources)
 -   [Dating Apps and Hook up sites for Investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
+-   [https://inteltechniques.com/tools/index.html](https://inteltechniques.com/tools/index.html)
 -   [Mastering Threat Intelligence Platforms](https://start.me/p/gGj8gn/mastering-threat-intelligence-platforms)
+-   [MetaOSINT](https://metaosint.github.io/chart)
 -   [*new* Osint Deck](https://osintdeck.org/)
 -   [osint-notes](https://github.com/teal33t/osint-notes)
+-   [OSINT Portal](https://osintportal.com/)
 -   [OSINT-Resources](https://github.com/msmith150/OSINT-Resources?tab=readme-ov-file)
 -   [OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
 -   [OSINT Tools for the Darkweb](https://github.com/apurvsinghgautam/dark-web-osint-tools)
@@ -77,54 +83,11 @@
 
 
 ## Tools
--   [Auto-Recon](https://github.com/whitehacker0/Auto-Recon)
--   [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
--   [Brahmastra_OSINT](https://github.com/connedigital/Brahmastra_OSINT)
--   [Build a Reconnaissance Tool](https://sundowndev.medium.com/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
--   [Depixelization](https://github.com/spipm/Depixelization_poc)
--   [HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)
--   [IMEI Check](https://www.imei24.com/)
--   [IntelOwl](https://github.com/intelowlproject/IntelOwl)
--   [IPAnalyzer](https://github.com/s-r-e-e-r-a-j/IPAnalyzer)
--   [maigret](https://github.com/soxoj/maigret)
--   [mitaka Browser Extension](https://github.com/ninoseki/mitaka)
--   [mosint](https://github.com/alpkeskin/mosint)
--   [o365chk](https://github.com/nixintel/o365chk/)
--   [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)
--   [Osintgram](https://github.com/Datalux/Osintgram/)
--   [osint_toolkit](https://github.com/dev-lu/osint_toolkit)
--   [PNIX](https://github.com/PrathamSinghal001/PNIX)
--   [ProtOSINT](https://github.com/pixelbubble/ProtOSINT)
--   [Private Proxies](https://www.privateproxyreviews.com/)
--   [spotify_monitor](https://github.com/misiektoja/spotify_monitor)
--   [Shodan Queries](https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/)
--   [Sherlock](https://github.com/2FXXD/sherlock)
--   [skiptracer](https://gitlab.com/illwill/skiptracer)
--   [toutatis](https://github.com/alpkeskin/mosint)
--   [WebSift](https://github.com/s-r-e-e-r-a-j/WebSift)
-
-
-### Sock Tools
--   [Name Generator](https://www.fakenamegenerator.com/)
--   [Random Name Generator](https://www.behindthename.com/random/)
--   [Business Name Generator](https://logo.com/business-name-generator)
-***
--   [SMS Verification](https://verifywithsms.com/)
--   [SMS Verification Service](https://juicysms.com/)
--   [Text Verifcation](https://www.textverified.com/)
--   [Temp Phone Number for SMS](https://quackr.io/)
-***
--   [Face Generation](https://thispersondoesnotexist.com/)
--   [Headshot Generator](https://generated.photos/faces)
-***
--   [Fake Resume Generator](https://github.com/jsonresume/jsonresume-fake)
--   [Resume Creator](https://thisresumedoesnotexist.com/)
-***
--   [Ezzocard](https://ezzocard.com/anonymous-payments/)
--   [Virtual Credit Cards](https://www.privacy.com/)
+-   [Tools](./Tools.md)
 
 
 ## Training
+-   [GeoGuessr](https://www.geoguessr.com/)
 -   [Introduction to OSINT](https://www.youtube.com/watch?v=PNeCqw8OLeA)
 -   [Open Source Investigation](https://www.youtube.com/watch?v=02KE_n_JqV4&list=PLnOD5ptd113Iwn7EumiBqaOgSZ7WRR1rv)
 -   [OSINT At Home - Tutorials on Digital Research, Verification and Open Source Investigations](https://youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy)
