@@ -5,6 +5,7 @@
 -   [Build a Reconnaissance Tool](https://sundowndev.medium.com/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
 -   [BuiltWith](https://builtwith.com/)
 -   [Depixelization](https://github.com/spipm/Depixelization_poc)
+-   [GitHub User Profile Stats](https://profile-summary-for-github.com/search)
 -   [HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)
 -   [Have I Been Pwned](https://haveibeenpwned.com/)
 -   [IMEI Check](https://www.imei24.com/)

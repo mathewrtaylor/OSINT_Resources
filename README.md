@@ -40,6 +40,14 @@
 -   [Email Header Analyzer, RFC822 Parser](https://mxtoolbox.com/EmailHeaders.aspx)
 
 
+## Investigation Resources by GEO
+-   [Belarus](https://unishka.substack.com/p/osint-of-belarus)
+-   [Nigeria](https://unishka.substack.com/p/osint-of-nigeria)
+-   [Qatar](https://unishka.substack.com/p/osint-of-qatar)
+-   [Syria](https://unishka.substack.com/p/osint-of-syria)
+-   [UAE](https://unishka.substack.com/p/osint-of-uae)
+
+
 ## Online Content Creators
 -   [0x4rk0](https://www.youtube.com/@0x4rk0)
 -   [Authentic8](https://www.youtube.com/@Authentic8Silo)
