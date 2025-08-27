@@ -44,6 +44,7 @@
 
 ### Image Tools
 -   [EasyZoom](https://www.easyzoom.com/popular)
+-   [Eagle Eye](https://github.com/ThoughtfulDev/EagleEye?ref=osint-team-open-source-intelligence-blog)
 -   [ExifTool](https://exiftool.org/)
 -   [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
 -   [FotoForensics](https://fotoforensics.com/)

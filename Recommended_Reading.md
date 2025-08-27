@@ -95,6 +95,23 @@
 - **Abbreviated Publisher's Summary:**  
   This hands-on guide offers practical recipes for cyber threat intelligence analysts, covering tradecraft in data collection, threat modeling, and reporting. It balances offensive and defensive perspectives while equipping analysts with repeatable processes to identify, analyze, and respond to threats.
 
+## Hiding Behind the Keyboard: Uncovering Covert Communication Methods with Forensic Analysis
+
+- **Author:** Brett Shavers & John Bair  
+- **Publishing Date:** March 11, 2016  
+- **ISBN:** 978‑0128033401 (print) / 978‑0128033524 (eBook)  
+- **Goodreads URL:** *(Not available via current sources)*  
+- **Abbreviated Publisher's Summary:**  
+  This book exposes modern covert electronic communication methods used by cybercriminals—such as TAILS, TOR, social media, and gaming platforms—and equips investigators with the forensic techniques needed to detect and analyze them. It includes practical examples and court cases to illustrate how anonymity tools are deployed and how they can be unraveled. :contentReference[oaicite:0]{index=0}
+
+### Investigator’s Summary (OSINT Perspective):
+
+1. **Covert Channel Exposure** – Reveals how adversaries exploit anonymity platforms like TAILS and TOR, offering insight into detecting hidden digital interactions.  
+2. **Investigative Forensics Playbook** – Supplies actionable methods for uncovering concealed communications—valuable for tracing encrypted or obfuscated messaging.  
+3. **Case-based Understanding** – Uses real-world examples and case studies to make covert techniques more tangible, enhancing field readiness.  
+4. **Dual‑Use Awareness** – Balances understanding of legitimate privacy tools with forensic strategies, supporting both defensive and investigative OLINT tasks.  
+5. **Emerging Tech Adaptation** – Highlights non-traditional vectors like social media and gaming tech—critical for staying ahead of evolving threat landscapes.  
+
 ### Investigator’s Summary (OSINT Perspective):
 
 1. **Recipe-Based Learning** – The modular format allows quick adoption of techniques for malware attribution, infrastructure mapping, and actor profiling.

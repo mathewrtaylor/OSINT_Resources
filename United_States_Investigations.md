@@ -101,6 +101,7 @@ Check the licensing status of contractors, medical professionals, and more.
 -   [Delaware](https://delpros.delaware.gov/OH_VerifyLicense)
 -   [Florida](https://www.myfloridalicense.com/wl11.asp?mode=0&SID=)
 -   [Georgia](https://sos.ga.gov/licensing-division-license-lookup)
+-   [Hawaii](https://mypvl.dcca.hawaii.gov/public-license-search/)
 
 
 </details>

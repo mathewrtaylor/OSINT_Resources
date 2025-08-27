@@ -6,7 +6,12 @@
 
 
 ## Blogs
+-   [Authentic8](https://www.authentic8.com/blog)
+-   [bellingcat](https://www.bellingcat.com/category/news/)
+-   [inteltechniques](https://inteltechniques.com/blog/)
+-   [OSINT Industries](https://www.osint.industries/blog/the-intel-hub)
 -   [OSINT Me](https://www.osintme.com/)
+-   [Social Links](https://blog.sociallinks.io/)
 -   [Sector035](https://sector035.nl/articles/category:week-in-osint)
 
 
