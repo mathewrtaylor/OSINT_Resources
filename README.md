@@ -108,6 +108,7 @@
 -   [OSINT Training Course – Open Source Intelligence Training](https://www.youtube.com/watch?v=ZDtQ0bapigg)
 -   [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
 -   [SANS OSINT Courses](https://www.youtube.com/watch?v=e7GTwmCX_Ws&list=PLOSJSv0hbPZBXT4kuRv_e8BP0TyOGc_W5)
+-   [Detect AI Image Generation](https://gijn.org/resource/guide-detecting-ai-generated-content/)
 
 ## Tools Training
 -   [Expert OSINT Tools: Free, Powerful Bookmarklets for Digital Investigators](https://www.youtube.com/watch?v=XmG-OQMyDtQ)
