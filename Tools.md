@@ -26,7 +26,13 @@
 -   [Islamic-Republic-Influence-Networks](https://github.com/goldenowlosint/Islamic-Republic-Influence-Networks)
     - 📊 OSINT dataset of 10,700+ Twitter/X accounts linked to Islamic Republic influence networks. Metadata-only for CIB research & network analysis.
     - Created by [goldenowlosint](https://github.com/goldenowlosint) on 2026-01-14
+-   [Login-Trace](https://github.com/surya404root/Login-Trace)
+    - Advanced OSINT Email Footprint Scanner for Termux & Linux.
+    - Created by [surya404root](https://github.com/surya404root) on 2026-01-29
 -   [maigret](https://github.com/soxoj/maigret)
+-   [Midins_Titan-Osint_Tool](https://github.com/Med0-n/Midins_Titan-Osint_Tool)
+    - MIDINS TITANis a lightweight, local-first OSINT intelligent whiteboard. It is designed for investigators who need a fast, private, and professional way to map digital evidence and infrastructure without the complexity of bloated software.
+    - Created by [Med0-n](https://github.com/Med0-n) on 2026-02-04  
 -   [mitaka Browser Extension](https://github.com/ninoseki/mitaka)
 -   [mosint](https://github.com/alpkeskin/mosint)
 -   [nmap](https://nmap.org/)
