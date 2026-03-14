@@ -20,6 +20,9 @@
     - Created by [unicodeveloper](https://github.com/unicodeveloper) on 2026-01-22
 -   [HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)
 -   [Have I Been Pwned](https://haveibeenpwned.com/)
+-   [honeyplot](https://github.com/greylensresearch/honeyplot)
+     - Honeyplot is a browser-based tool for mapping relationships between entities, built for open-source researchers, investigative journalists and analysts.
+     - Created by [greylensresearch](https://github.com/greylensresearch) on 2026-03-05
 -   [IMEI Check](https://www.imei24.com/)
 -   [IntelOwl](https://github.com/intelowlproject/IntelOwl)
 -   [IPAnalyzer](https://github.com/s-r-e-e-r-a-j/IPAnalyzer)
@@ -35,7 +38,16 @@
     - Created by [Med0-n](https://github.com/Med0-n) on 2026-02-04  
 -   [mitaka Browser Extension](https://github.com/ninoseki/mitaka)
 -   [mosint](https://github.com/alpkeskin/mosint)
+-   [nameintel](https://github.com/pawanhirumina/nameintel)
+    - A powerful Python-based OSINT (Open Source Intelligence) tool for investigating usernames, extracting file metadata, and performing reverse image searches.
+    - Created by [pawanhirumina](https://github.com/pawanhirumina) on 2026-02-16
 -   [nmap](https://nmap.org/)
+-   [NUMBER-OSINT](https://github.com/Athexblackhat/NUMBER-OSINT)
+    - The Advanced Phone Number Intelligence Tool v2.0 is a comprehensive Open Source Intelligence (OSINT) framework designed for professional security researchers, investigators, and authorized personnel to gather detailed intelligence on phone numbers.
+    - Created by [Athexblackhat](https://github.com/Athexblackhat) on 2026-02-23
+-   [Nyxera-Eye](https://github.com/NyxeraLabs/Nyxera-Eye)
+    - Nyxera Eye is an IoT and ICS attack surface intelligence platform for authorized security research and defensive operations.  It combines OSINT ingestion, service fingerprinting, vulnerability intelligence, and operator-facing investigation surfaces into one workflow-oriented product.
+    - Created by [NyxeraLabs](https://github.com/NyxeraLabs) on 2026-03-09
 -   [o365chk](https://github.com/nixintel/o365chk/)
 -   [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)
 -   [Osintgram](https://github.com/Datalux/Osintgram/)
@@ -62,12 +74,30 @@
 -   [TelespotXX](https://github.com/thumpersecure/TelespotXX)
     - Telespot , TelespotX, and Telespotter ... all in ONE web app for easier use for all OSINT Specialists.
     - Created by [thumpersecure](https://github.com/thumpersecure) on 2026-01-06
+-   [threat-intelligence-enrichment-tool](https://github.com/Eyespy-ctrl/threat-intelligence-enrichment-tool)
+    - Threat Intelligence enrichment platform integrating multiple intelligence sources for IP,URL and Domain investigation.
+    - Created by [Eyespy-ctrl](https://github.com/Eyespy-ctrl) on 2026-03-08
 -   [Universal-News-Scraper](https://github.com/Ilias1988/Universal-News-Scraper)
     - A robust CLI news scraper and aggregator. Features topic auto-discovery (via Bing RSS), anti-blocking logic, keyword/date filtering, and JSON/CSV export. Built with Python & Rich.
     - Created by [Ilias1988](https://github.com/Ilias1988) on 2026-01-21
 -   [URL and Website Scanner](https://urlscan.io/)
 -   [Wayback Machine](https://web.archive.org/)
 -   [WebSift](https://github.com/s-r-e-e-r-a-j/WebSift)
+
+### Tool Sets
+- [OSINT-map](https://github.com/Cyb3r-Pony/OSINT-map)
+    - Interactive intelligence gathering framework featuring OSINT, threat intelligence, and cyber investigation tools with real-time search, category filtering, and a neon cyberpunk UI.
+  - Created by [Cyb3r-Pony](https://github.com/Cyb3r-Pony) on 2026-02-26
+- [phantom-osint-terminal](https://github.com/Dectuple-Solution/phantom-osint-terminal)
+    - PHANTOM — OSINT Intelligence Terminal - A beautiful web-based UI for running OSINT investigations on Kali Linux.
+    - Created by [Dectuple-Solution](https://github.com/Dectuple-Solution) on 2026-03-11
+- [TraceLaunchKit](https://github.com/lafortex/TraceLaunchKit)
+    - Automated Debian OSINT + OPSEC investigation environment that installs, configures, and organizes hundreds of open-source intelligence and digital forensics tools into a investigative workstation.
+    - Created by [lafortex](https://github.com/lafortex) on 2026-03-07
+- [solar-boom](https://github.com/isopaXIII/solar-boom)
+    - SOLAR-BOOM OSINT Framework is a powerful terminal-based tool designed for network intelligence, domain investigation, and infrastructure analysis using publicly available data. Built in Python, it provides fast and modular reconnaissance capabilities for researchers and security enthusiasts.
+    - Created by [isopaXIII](https://github.com/isopaXIII) on 2026-03-13
+
 
 
 ### Geolocation Tools

@@ -4,6 +4,8 @@
 -   [OSINT Framework](https://osintframework.com/)
 -   [Malfrat's OSINT Map](https://map.malfrats.industries/)
 
+## AI Tools
+-   [AI Tools](./AI_Tools.md)
 
 ## Blogs
 -   [Authentic8](https://www.authentic8.com/blog)
@@ -46,6 +48,9 @@
 
 
 ## Investigation Resources by GEO
+-   [Argentina](https://github.com/facusturla/osint-argentina)
+    - Repository dedicated to the collection and organization of tools, public databases, government records and open sources of information (OSINT) focused exclusively on the Republic of Argentina
+    - Created by [facusturla](https://github.com/facusturla) on 2026-03-09
 -   [Belarus](https://unishka.substack.com/p/osint-of-belarus)
 -   [Nigeria](https://unishka.substack.com/p/osint-of-nigeria)
 -   [Qatar](https://unishka.substack.com/p/osint-of-qatar)
@@ -109,6 +114,9 @@
 -   [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
 -   [SANS OSINT Courses](https://www.youtube.com/watch?v=e7GTwmCX_Ws&list=PLOSJSv0hbPZBXT4kuRv_e8BP0TyOGc_W5)
 -   [Detect AI Image Generation](https://gijn.org/resource/guide-detecting-ai-generated-content/)
+-   [The-Open-Source-Intelligence-Bible](https://github.com/cloudstreet-dev/The-Open-Source-Intelligence-Bible)
+    - OSINT in 2026. 30 chapters and 5 appendices covering the full spectrum of OSINT practice — written for practitioners who build things and need to understand the methodology behind the tools, not just a list of them.
+    - Created by [cloudstreet-dev](https://github.com/cloudstreet-dev) on 2026-02-26
 
 ## Tools Training
 -   [Expert OSINT Tools: Free, Powerful Bookmarklets for Digital Investigators](https://www.youtube.com/watch?v=XmG-OQMyDtQ)
