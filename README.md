@@ -18,6 +18,9 @@
 
 
 ## Bookmark Collections
+-   [The OSINT Rack](https://osintrack.com/)
+    -   A Collection of OSINT REsources, Courses, Books, Events and more!
+    -   Created by [mariosantella](https://www.mariosantella.com/) on 2026-02-03
 -   [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
 -   [awesome_Threat-Hunting](https://github.com/threat-hunting/awesome_Threat-Hunting)
 -   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
