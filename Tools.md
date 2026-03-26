@@ -4,6 +4,9 @@
     - Created by [voelspriet](https://github.com/voelspriet) on 2026-01-15
 -   [Auto-Recon](https://github.com/whitehacker0/Auto-Recon)
 -   [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+-   [beneficial-ownership-investigation](https://github.com/apifyforge/beneficial-ownership-investigation)
+    - Beneficial ownership investigation that traces the true controllers of any corporate entity using 6 advanced algorithms across 15 international data sources.
+    - Created by [apifyforge](https://github.com/apifyforge) on 2026-03-21
 -   [Brahmastra_OSINT](https://github.com/connedigital/Brahmastra_OSINT)
 -   [Build a Reconnaissance Tool](https://sundowndev.medium.com/phone-number-scanning-osint-recon-tool-6ad8f0cac27b)
 -   [BuiltWith](https://builtwith.com/)
@@ -50,10 +53,16 @@
     - Created by [NyxeraLabs](https://github.com/NyxeraLabs) on 2026-03-09
 -   [o365chk](https://github.com/nixintel/o365chk/)
 -   [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)
+-   [OSINT-Board](https://github.com/gingercat001/OSINT-Board)
+    - Interactive OSINT investigation board — map a target's digital footprint using live threat intelligence APIs. Built for learning digital forensics and blue team methodology.
+    - Created by [gingercat001](https://github.com/gingercat001) on 2026-03-18
 -   [Osintgram](https://github.com/Datalux/Osintgram/)
 -   [osint_toolkit](https://github.com/dev-lu/osint_toolkit)
 -   [PNIX](https://github.com/PrathamSinghal001/PNIX)
 -   [People Search](https://www.idcrawl.com/)
+-   [PivotGraph](https://github.com/lafortex/PivotGraph)
+    - PivotGraph is an open-source OSINT and relationship-mapping tool that transforms usernames, emails, domains, IPs, and other identifiers into structured graphs, timelines, reports, and investigative intelligence artifacts.
+    - Created by [lafortex](https://github.com/lafortex) on 2026-03-22
 -   [Project-Eyes-On](https://github.com/Y0oshi/Project-Eyes-On)
     - Project Eyes On is a high-speed, multi-threaded surveillance tool by Y0oshi (@rde0) for locating open IP cameras worldwide. Unifies Google Dorking and Directory Scraping into a single OSINT engine.
     - Created by [Y0oshi](https://github.com/Y0oshi) on 2026-01-10
@@ -74,6 +83,9 @@
 -   [TelespotXX](https://github.com/thumpersecure/TelespotXX)
     - Telespot , TelespotX, and Telespotter ... all in ONE web app for easier use for all OSINT Specialists.
     - Created by [thumpersecure](https://github.com/thumpersecure) on 2026-01-06
+-   [TraceX-Osint](https://github.com/konixlolxd/TraceX-Osint)
+    - Trace X is an OSINT tool leveraging the Snusbase API to uncover leaked accounts, emails, and digital footprints. Ideal for cybersecurity researchers, investigators, and analysts seeking fast, accurate, and actionable intelligence
+    - Created by [konixlolxd](https://github.com/konixlolxd) on 2026-03-21
 -   [threat-intelligence-enrichment-tool](https://github.com/Eyespy-ctrl/threat-intelligence-enrichment-tool)
     - Threat Intelligence enrichment platform integrating multiple intelligence sources for IP,URL and Domain investigation.
     - Created by [Eyespy-ctrl](https://github.com/Eyespy-ctrl) on 2026-03-08
@@ -91,6 +103,9 @@
 - [phantom-osint-terminal](https://github.com/Dectuple-Solution/phantom-osint-terminal)
     - PHANTOM — OSINT Intelligence Terminal - A beautiful web-based UI for running OSINT investigations on Kali Linux.
     - Created by [Dectuple-Solution](https://github.com/Dectuple-Solution) on 2026-03-11
+-   [ShadowEye](https://github.com/wavegxz-design/ShadowEye)
+    - ShadowEye – Comprehensive OSINT framework for security researchers, bug bounty hunters, and investigators. Aggregates intelligence across usernames, phones, emails, domains, and more from a unified terminal interface. Fork of Mr.Holmes, security-audited and rebuilt.
+    - Created by [wavegxz-design](https://github.com/wavegxz-design) on 2026-03-22
 - [TraceLaunchKit](https://github.com/lafortex/TraceLaunchKit)
     - Automated Debian OSINT + OPSEC investigation environment that installs, configures, and organizes hundreds of open-source intelligence and digital forensics tools into a investigative workstation.
     - Created by [lafortex](https://github.com/lafortex) on 2026-03-07
@@ -111,6 +126,9 @@
 ### Image Tools
 -   [EasyZoom](https://www.easyzoom.com/popular)
 -   [Eagle Eye](https://github.com/ThoughtfulDev/EagleEye?ref=osint-team-open-source-intelligence-blog)
+-   [exif-extractor](https://github.com/Yel1oww/exif-extractor)
+    - Exif-Extractor is an investigative tool designed to pull hidden metadata from image files. In a cybersecurity context, this is used for Open Source Intelligence (OSINT) to verify the origin of an image, the hardware used to capture it, and any potential geolocation leaks.
+    - Created by [Yel1oww](https://github.com/Yel1oww) on 2026-03-23
 -   [ExifTool](https://exiftool.org/)
 -   [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
 -   [FotoForensics](https://fotoforensics.com/)

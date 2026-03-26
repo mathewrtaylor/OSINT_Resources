@@ -12,6 +12,7 @@
 -   [bellingcat](https://www.bellingcat.com/category/news/)
 -   [inteltechniques](https://inteltechniques.com/blog/)
 -   [OSINT Industries](https://www.osint.industries/blog/the-intel-hub)
+-   [The OSINT Newsletter](https://osintnewsletter.com/)
 -   [OSINT Me](https://www.osintme.com/)
 -   [Social Links](https://blog.sociallinks.io/)
 -   [Sector035](https://sector035.nl/articles/category:week-in-osint)
@@ -33,6 +34,9 @@
 -   [MetaOSINT](https://metaosint.github.io/chart)
 -   [*new* Osint Deck](https://osintdeck.org/)
 -   [osint-notes](https://github.com/teal33t/osint-notes)
+-   [OSINT-Tools-Library](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)
+    - A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community.
+    - Created by [The-OSINT-Newsletter](https://github.com/The-OSINT-Newsletter) on 2026-03-21
 -   [OSINT Portal](https://osintportal.com/)
 -   [OSINT-Resources](https://github.com/msmith150/OSINT-Resources?tab=readme-ov-file)
 -   [OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
@@ -54,6 +58,9 @@
 -   [Argentina](https://github.com/facusturla/osint-argentina)
     - Repository dedicated to the collection and organization of tools, public databases, government records and open sources of information (OSINT) focused exclusively on the Republic of Argentina
     - Created by [facusturla](https://github.com/facusturla) on 2026-03-09
+-   [osint-argentina](https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina)
+    - Organize and centralize OSINT tools and public data focused on Argentina for research, journalism, and open-source intelligence analysis.
+    - Created by [Beauvoirmembranouslabyrinth732](https://github.com/Beauvoirmembranouslabyrinth732) on 2026-03-23
 -   [Belarus](https://unishka.substack.com/p/osint-of-belarus)
 -   [Nigeria](https://unishka.substack.com/p/osint-of-nigeria)
 -   [Qatar](https://unishka.substack.com/p/osint-of-qatar)
