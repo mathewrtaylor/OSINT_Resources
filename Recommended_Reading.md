@@ -1,5 +1,5 @@
 # Recommended_Reading
- Some Books that would be beneficial on your journey in OSINT
+Some Books that would be beneficial on your journey in OSINT.
 
 ## Contents
 - [Critical Thinking for Strategic Intelligence](#critical-thinking-for-strategic-intelligence)
@@ -19,7 +19,7 @@
 - **Authors:** Katherine Hibbs Pherson, Randolph H. Pherson
 - **Publishing Date:** July 20, 2020 (3rd Edition)
 - **ISBN:** 978-1506368940
-- **Goodreads URL:** (https://www.goodreads.com/book/show/55212652-critical-thinking-for-strategic-intelligence)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/55212652-critical-thinking-for-strategic-intelligence)
 - **Abbreviated Publisher's Summary:**
   This guide outlines structured analytic techniques used to enhance the clarity, accuracy, and relevance of intelligence assessments. It provides frameworks for evaluating sources, challenging assumptions, and presenting findings with strategic impact.
 ### Investigator’s Summary (OSINT Perspective):
@@ -35,7 +35,7 @@
 - **Author:** Vinny Troia
 - **Publishing Date:** February 11, 2020
 - **ISBN:** 978-1119540922
-- **Goodreads URL:** (https://www.goodreads.com/book/show/51003303-hunting-cyber-criminals)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/51003303-hunting-cyber-criminals)
 - **Abbreviated Publisher's Summary:**
   This book provides an insider's look at how cybercriminals operate and how to track them using open-source tools. With a blend of hacker perspective and investigator discipline, Troia outlines detailed methods for deanonymizing threat actors, analyzing darknet behavior, and performing digital manhunts.
 ### Investigator’s Summary (OSINT Perspective):
@@ -51,7 +51,7 @@
 - **Author:** Michael Bazzell
 - **Publishing Date:** March 24, 2021 (9th Edition)
 - **ISBN:** 978-1734979127
-- **Goodreads URL:** (https://www.goodreads.com/book/show/56268997-open-source-intelligence-techniques)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/56268997-open-source-intelligence-techniques)
 - **Abbreviated Publisher's Summary:**
   This book offers a comprehensive catalog of resources and techniques used to locate and analyze digital footprints. It contains detailed tutorials on investigative procedures, online tools, and operational security methods, designed for those conducting research in an increasingly digital world.
 ### Investigator’s Summary (OSINT Perspective):
@@ -67,7 +67,7 @@
 - **Author:** Tyler Hatch
 - **Publishing Date:** April 24, 2023
 - **ISBN:** 978-1999491837
-- **Goodreads URL:** (https://www.goodreads.com/book/show/124906070-osint-investigations)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/124906070-osint-investigations)
 - **Abbreviated Publisher's Summary:**
   This field guide bridges the gap between theoretical OSINT concepts and their real-world application. Tailored for investigators and analysts, it covers practical workflows, ethical considerations, and the use of both automated tools and manual techniques to collect, verify, and act on open-source information.
 ### Investigator’s Summary (OSINT Perspective):
@@ -83,7 +83,7 @@
 - **Authors:** Richards J. Heuer Jr., Randolph H. Pherson
 - **Publishing Date:** March 16, 2010
 - **ISBN:** 978-1608710188
-- **Goodreads URL:** (https://www.goodreads.com/book/show/7616736-structured-analytic-techniques-for-intelligence-analysis)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/7616736-structured-analytic-techniques-for-intelligence-analysis)
 - **Abbreviated Publisher's Summary:**
   This book compiles more than fifty structured analytic techniques designed to improve intelligence analysis by challenging assumptions, exploring alternatives, and mitigating cognitive biases. It provides practical guidance for applying these methods to real-world scenarios.
 ### Investigator’s Summary (OSINT Perspective):
@@ -99,7 +99,7 @@
 - **Author:** Adam Pennington
 - **Publishing Date:** November 10, 2022
 - **ISBN:** 978-1801818214
-- **Goodreads URL:** (https://www.goodreads.com/book/show/77473251-the-cyber-intelligence-analyst-s-cookbook)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/77473251-the-cyber-intelligence-analyst-s-cookbook)
 - **Abbreviated Publisher's Summary:**
   This hands-on guide offers practical recipes for cyber threat intelligence analysts, covering tradecraft in data collection, threat modeling, and reporting. It balances offensive and defensive perspectives while equipping analysts with repeatable processes to identify, analyze, and respond to threats.
 ### Investigator’s Summary (OSINT Perspective):
@@ -115,14 +115,14 @@
 - **Author:** Brett Shavers & John Bair
 - **Publishing Date:** March 11, 2016
 - **ISBN:** 978‑0128033401
-- **Goodreads URL:** (https://www.goodreads.com/book/show/28207732-hiding-behind-the-keyboard)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/28207732-hiding-behind-the-keyboard)
 - **Abbreviated Publisher's Summary:**
   This book exposes modern covert electronic communication methods used by cybercriminals—such as TAILS, TOR, social media, and gaming platforms—and equips investigators with the forensic techniques needed to detect and analyze them. It includes practical examples and court cases to illustrate how anonymity tools are deployed and how they can be unraveled.
 ### Investigator’s Summary (OSINT Perspective):
 1. **Covert Channel Exposure** – Reveals how adversaries exploit anonymity platforms like TAILS and TOR, offering insight into detecting hidden digital interactions.
 2. **Investigative Forensics Playbook** – Supplies actionable methods for uncovering concealed communications—valuable for tracing encrypted or obfuscated messaging.
 3. **Case-based Understanding** – Uses real-world examples and case studies to make covert techniques more tangible, enhancing field readiness.
-4. **Dual‑Use Awareness** – Balances understanding of legitimate privacy tools with forensic strategies, supporting both defensive and investigative OLINT tasks.
+4. **Dual‑Use Awareness** – Balances understanding of legitimate privacy tools with forensic strategies, supporting both defensive and investigative OSINT tasks.
 5. **Emerging Tech Adaptation** – Highlights non-traditional vectors like social media and gaming tech—critical for staying ahead of evolving threat landscapes.
 ***
 [Back To Top](#contents)
@@ -131,7 +131,7 @@
 - **Author:** Eliot Higgins
 - **Publishing Date:** February 2, 2021
 - **ISBN:** 978-1635574668
-- **Goodreads URL:** (https://www.goodreads.com/book/show/54304123-we-are-bellingcat)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/54304123-we-are-bellingcat)
 - **Abbreviated Publisher's Summary:**  
   In *We Are Bellingcat*, founder Eliot Higgins recounts how a group of internet investigators used open-source data to expose war crimes, track arms dealers, and hold governments accountable. This is a firsthand look at the rise of a new kind of journalism rooted in transparency, verification, and digital evidence.
 ### Investigator’s Summary (OSINT Perspective):
@@ -147,7 +147,7 @@
 - **Author:** Rae L. Baker
 - **Publishing Date:** May 9, 2023
 - **ISBN:** 978-1394186813
-- **Goodreads URL:** (https://www.goodreads.com/book/show/125827602-deep-dive)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/125827602-deep-dive)
 - **Abbreviated Publisher's Summary:**
   This book provides a comprehensive introduction to OSINT tradecraft, focusing on how to collect, analyze, and operationalize publicly available data. It combines foundational concepts with real-world case studies, covering topics such as subject intelligence, organizational analysis, image investigation, and emerging areas like IoT and maritime intelligence.
 ### Investigator’s Summary (OSINT Perspective):
@@ -163,7 +163,7 @@
 - **Author:** Don MacLeod  
 - **Publishing Date:** August 7, 2012
 - **ISBN:** 978-0132932684
-- **Goodreads URL:** (https://www.goodreads.com/book/show/18872310-how-to-find-out-anything)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/18872310-how-to-find-out-anything)
 - **Abbreviated Publisher's Summary:**
   This book teaches readers how to conduct effective research using both online and offline sources, going beyond standard search engines. It highlights advanced Google techniques, hidden web resources, government databases, and strategies for locating information on individuals, companies, and specialized topics.
 ### Investigator’s Summary (OSINT Perspective):
@@ -179,7 +179,7 @@
 - **Author:** Oliver Wright  
 - **Publishing Date:** December 2, 2024
 - **ISBN:** 978-1785909108
-- **Goodreads URL:** (https://www.goodreads.com/book/show/222157596-the-intelligence-bible)
+- **URL:** [Goodreads](https://www.goodreads.com/book/show/222157596-the-intelligence-bible)
 - **Abbreviated Publisher's Summary:** 
   This book provides a comprehensive overview of intelligence as a discipline, covering core concepts, terminology, and methodologies. It includes practical guidance on the intelligence cycle—from tasking to dissemination—along with real-world case studies and structured approaches to producing intelligence outputs.
 ### Investigator’s Summary (OSINT Perspective):
