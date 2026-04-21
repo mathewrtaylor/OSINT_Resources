@@ -23,6 +23,9 @@
     -   A Collection of OSINT REsources, Courses, Books, Events and more!
     -   Created by [mariosantella](https://www.mariosantella.com/) on 2026-02-03
 -   [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
+- **[awesome-osint-tools](https://github.com/th3hash/awesome-osint-tools)** 
+    - A curated GitHub repository by ethical hacker Hassan Ansari featuring the best OSINT (Open Source Intelligence) tools and frameworks for reconnaissance, social media intelligence, domain and network mapping, metadata analysis, and cyber investigations, with regularly updated links, categories, and contribution guidelines.
+    - Created by [th3hash](https://github.com/th3hash) on 2026-03-26
 -   [awesome_Threat-Hunting](https://github.com/threat-hunting/awesome_Threat-Hunting)
 -   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
 -   [Canadian OSINT](https://start.me/p/RMwN6v/canada-osint)
@@ -58,6 +61,10 @@
 -   [Argentina](https://github.com/facusturla/osint-argentina)
     - Repository dedicated to the collection and organization of tools, public databases, government records and open sources of information (OSINT) focused exclusively on the Republic of Argentina
     - Created by [facusturla](https://github.com/facusturla) on 2026-03-09
+- **[osint-argentina](https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina)**
+    - Organize and centralize OSINT tools and public data focused on Argentina for research, journalism, and open-source intelligence analysis.
+    - Created by [Beauvoirmembranouslabyrinth732](https://github.com/Beauvoirmembranouslabyrinth732) on 2026-03-23
+    - Last updated on 2026-04-21. (Stars: 1)
 -   [osint-argentina](https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina)
     - Organize and centralize OSINT tools and public data focused on Argentina for research, journalism, and open-source intelligence analysis.
     - Created by [Beauvoirmembranouslabyrinth732](https://github.com/Beauvoirmembranouslabyrinth732) on 2026-03-23
