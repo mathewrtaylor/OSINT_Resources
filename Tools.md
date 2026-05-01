@@ -122,14 +122,22 @@
 
 
 ### Tool Sets
-- **[awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal)**
+- **[awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal)** 
     - 🔍 Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more.
     - Created by [rawfilejson](https://github.com/rawfilejson) on 2026-04-12
-    - Last updated on 2026-04-15. (Stars: 3)
+    - Last updated on 2026-05-01. (Stars: 196)
+- **[cyclops](https://github.com/smoke-wolf/cyclops)**
+    - Unified OSINT targeting pipeline — 32 connectors, entity graph correlation, auto-reporting. pip install cyclops-osint
+    - Created by [smoke-wolf](https://github.com/smoke-wolf) on 2026-04-24
+    - Last updated on 2026-04-29. (Stars: 2)
 - **[KalkiTrack](https://github.com/kalkihacker/KalkiTrack)** 
     - Advanced OSINT Intelligence Suite for deep IP, Phone, Email, and Username investigations. Featuring high-speed asynchronous scanning and automated threat intelligence.
     - Created by [kalkihacker](https://github.com/kalkihacker) on 2026-04-01
     - Last updated on 2026-04-03. (Stars: 1)
+- **[Midins-Titan---Osint-Tool](https://github.com/med0-0/Midins-Titan---Osint-Tool)** 
+    - 🚀 Tactical OSINT investigation board & visual intelligence mapping tool. Features automated metadata scraping, link analysis, and local-first privacy.
+    - Created by [med0-0](https://github.com/med0-0) on 2026-04-23
+    - Last updated on 2026-04-23. (Stars: 0)
 - **[osint-intelligence-engine](https://github.com/linexsoft/osint-intelligence-engine)**
     - Advanced OSINT dork generator for person, company, domain/IP and breach investigation. 100+ auto-generated Google queries, 6 search engines, built-in tools (hash identifier, email validator, phone analyzer, username scanner). TR/EN support. Built with Python & CustomTkinter.
     - Created by [linexsoft](https://github.com/linexsoft) on 2026-04-01
@@ -145,6 +153,10 @@
 - [OSINT-map](https://github.com/Cyb3r-Pony/OSINT-map)
     - Interactive intelligence gathering framework featuring OSINT, threat intelligence, and cyber investigation tools with real-time search, category filtering, and a neon cyberpunk UI.
   - Created by [Cyb3r-Pony](https://github.com/Cyb3r-Pony) on 2026-02-26
+- **[OSINT-Profiler](https://github.com/jerald-6/OSINT-Profiler)**
+    - OSINT Profiler is a powerful open intelligence investigation tool — investigate emails, phones & usernames with GUI/CLI, confidence scoring, Sherlock/Holehe integration, and multi-format reporting.
+    - Created by [jerald-6](https://github.com/jerald-6) on 2026-04-30
+    - Last updated on 2026-05-01. (Stars: 1)
 - **[osint-tools](https://github.com/recosint/osint-tools)**
     - Free browser-based OSINT tools for security professionals, investigators, and researchers — by Recosint Intelligence Services
     - Created by [recosint](https://github.com/recosint) on 2026-04-15

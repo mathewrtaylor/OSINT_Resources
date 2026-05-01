@@ -4,9 +4,9 @@ With the integration of AI in the automation space, I wanted to have a separate 
 
 ## Tools
 
-- **[Abster-Intelligence](https://github.com/frangelbarrera/Abster-Intelligence)** - Sovereign intelligence platform for modern investigators. Local-first, open-source, and privacy-centric.
+- **[Abster-Intelligence](https://github.com/frangelbarrera/Abster-Intelligence)** - Sovereign OSINT platform for modern investigators. Local-first, open-source, and privacy-centric.
   - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2026-04-10
-  - Last updated on 2026-04-20. (Stars: 0)
+  - Last updated on 2026-04-30. (Stars: 3)
 
 - **[aigeeks_osint](https://github.com/SujalThapaK/aigeeks_osint)** - A lightweight OSINT intelligence tool that investigates a target name or identifier, gathers findings from multiple sources and generates a web dashboard and PDF report.
   - Created by [SujalThapaK](https://github.com/SujalThapaK) on 2026-04-14
@@ -16,9 +16,21 @@ With the integration of AI in the automation space, I wanted to have a separate 
   - Created by [dm-viplm10](https://github.com/dm-viplm10) on 2026-02-28
   - Last updated on 2026-03-10. (Stars: 0)
 
+- **[argus-os](https://github.com/AXRoux/argus-os)** - Open-source intelligence orchestration platform, agentic AI for autonomous OSINT investigations
+  - Created by [AXRoux](https://github.com/AXRoux) on 2026-04-27
+  - Last updated on 2026-04-30. (Stars: 4)
+
 - **[birdy-edwards](https://github.com/jeet-ganguly/birdy-edwards)** - Automated AI powered Facebook intelligence tool for target profiling, network analysis and threat reporting. Runs entirely on-device via Ollama.
   - Created by [jeet-ganguly](https://github.com/jeet-ganguly) on 2026-04-12
-  - Last updated on 2026-04-19. (Stars: 11)
+  - Last updated on 2026-04-29. (Stars: 17)
+
+- **[birdy-edwards-lite](https://github.com/jeet-ganguly/birdy-edwards-lite)** - Local-first Facebook SOCMINT platform — automated profile intelligence, interaction network graphs, co-interactor analysis, and CNN face clustering. No LLM, no Docker, no cloud dependency.
+  - Created by [jeet-ganguly](https://github.com/jeet-ganguly) on 2026-04-21
+  - Last updated on 2026-04-27. (Stars: 5)
+
+- **[Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** - 2 paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.
+  - Created by [elementalsouls](https://github.com/elementalsouls) on 2026-04-26
+  - Last updated on 2026-04-27. (Stars: 198)
 
 - **[Claude-Brainiac](https://github.com/Munstar0s/Claude-Brainiac)** - Brainiac is an AI-powered analyst persona running on Claude Code, purpose-built for elite-level Cyber Threat Intelligence (CTI), OSINT investigations, and advanced Cyber Threat Hunting (CTH)
   - Created by [Munstar0s](https://github.com/Munstar0s) on 2026-04-07
@@ -30,7 +42,7 @@ With the integration of AI in the automation space, I wanted to have a separate 
 
 - **[cti-expert](https://github.com/7onez/cti-expert)** - CTI Expert — Cyber Threat Intelligence & OSINT analysis skill for Claude Code. 67+ commands, 35 techniques, no API keys required.
   - Created by [7onez](https://github.com/7onez) on 2026-04-06
-  - Last updated on 2026-04-20. (Stars: 78)
+  - Last updated on 2026-05-01. (Stars: 86)
 
 - **[ghost](https://github.com/juliosuas/ghost)** - 👻 AI-Powered OSINT Investigation Platform — Multi-vector intelligence gathering with 500+ platform checks, AI analysis, and professional reports
   - Created by [juliosuas](https://github.com/juliosuas) on 2026-03-16
@@ -43,6 +55,10 @@ With the integration of AI in the automation space, I wanted to have a separate 
 - **[OpenSight](https://github.com/GnomeMan4201/OpenSight)** - Document intelligence and OSINT platform — entity extraction, knowledge graph, LLM summaries, investigation bundles
   - Created by [GnomeMan4201](https://github.com/GnomeMan4201) on 2026-03-23
   - Last updated on 2026-03-24. (Stars: 0)
+
+- **[osint-investigator-dashboard](https://github.com/Inkedi9/osint-investigator-dashboard)** - A modern OSINT investigation platform designed to simulate real-world cyber threat intelligence workflows.
+  - Created by [Inkedi9](https://github.com/Inkedi9) on 2026-04-13
+  - Last updated on 2026-04-24. (Stars: 0)
 
 - **[osint-investigator](https://github.com/TNeagle/osint-investigator)** - OSINT (Open Source Intelligence) expert agent skill for Claude Code — investigations, geolocation, geopolitical analysis, and structured intelligence reports
   - Created by [TNeagle](https://github.com/TNeagle) on 2026-03-18
@@ -75,6 +91,10 @@ With the integration of AI in the automation space, I wanted to have a separate 
 - **[Project-Northstar](https://github.com/MiaowBytes/Project-Northstar)** - An autonomous open-source intelligence (OSINT) framework powered by localized neural networks. Input a target, and Northstar handles footprinting, linguistic extraction, and dossier generation.
   - Created by [MiaowBytes](https://github.com/MiaowBytes) on 2026-03-27
   - Last updated on 2026-03-30. (Stars: 0)
+
+- **[trend-engine](https://github.com/rthaithem/trend-engine)** - An advanced, open-source intelligence dashboard designed for field operatives, OSINT investigators, and anti-corruption agencies. Trend Engine monitors global trends, identifies fabrication (bot attacks/astroturfing), evaluates corruption risk, and provides actionable insights.
+  - Created by [rthaithem](https://github.com/rthaithem) on 2026-04-30
+  - Last updated on 2026-04-30. (Stars: 1)
 
 - **[veronica-osint](https://github.com/AXRoux/veronica-osint)** - Veronica OSINT: A Gemini-powered investigative copilot for entity intelligence and screening. Originally part of the Stratir VERO engine.
   - Created by [AXRoux](https://github.com/AXRoux) on 2026-04-04
