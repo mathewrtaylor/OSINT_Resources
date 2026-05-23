@@ -1,144 +1,58 @@
 # OSINT_Resources
  A Listing of OSINT Resources
 
--   [OSINT Framework](https://osintframework.com/)
--   [Malfrat's OSINT Map](https://map.malfrats.industries/)
+I have completely reworked this repo to be more automated from an update persepctive. As a result, this page has changed, and all the resources are segmented to each of their categories. This should allow me to update this in a more timely fashion! I will refine out this as the days and weeks go by.
+
+Thanks for looking, and if you do have an active resource that I don't? Please create an issue!!
 
 ## AI Tools
 -   [AI Tools](./AI_Tools.md)
 
-## Blogs
--   [Authentic8](https://www.authentic8.com/blog)
--   [bellingcat](https://www.bellingcat.com/category/news/)
--   [inteltechniques](https://inteltechniques.com/blog/)
--   [OSINT Industries](https://www.osint.industries/blog/the-intel-hub)
--   [The OSINT Newsletter](https://osintnewsletter.com/)
--   [OSINT Me](https://www.osintme.com/)
--   [Social Links](https://blog.sociallinks.io/)
--   [Sector035](https://sector035.nl/articles/category:week-in-osint)
-
-
 ## Bookmark Collections
--   [The OSINT Rack](https://osintrack.com/)
-    -   A Collection of OSINT REsources, Courses, Books, Events and more!
-    -   Created by [mariosantella](https://www.mariosantella.com/) on 2026-02-03
--   [awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint)
-- **[awesome-osint-tools](https://github.com/th3hash/awesome-osint-tools)** 
-    - A curated GitHub repository by ethical hacker Hassan Ansari featuring the best OSINT (Open Source Intelligence) tools and frameworks for reconnaissance, social media intelligence, domain and network mapping, metadata analysis, and cyber investigations, with regularly updated links, categories, and contribution guidelines.
-    - Created by [th3hash](https://github.com/th3hash) on 2026-03-26
--   [awesome_Threat-Hunting](https://github.com/threat-hunting/awesome_Threat-Hunting)
--   [Bellingcat's Toolkit](https://bellingcat.gitbook.io/toolkit)
--   [Canadian OSINT](https://start.me/p/RMwN6v/canada-osint)
--   [Collections of tools and methods created to aid in OSINT collection](https://github.com/sinwindie/OSINT)
--   [Datajournalism Resources](https://github.com/r3mlab/datajournalism-resources)
--   [Dating Apps and Hook up sites for Investigators](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
--   [https://inteltechniques.com/tools/index.html](https://inteltechniques.com/tools/index.html)
--   [Mastering Threat Intelligence Platforms](https://start.me/p/gGj8gn/mastering-threat-intelligence-platforms)
--   [MetaOSINT](https://metaosint.github.io/chart)
--   [*new* Osint Deck](https://osintdeck.org/)
--   [osint-notes](https://github.com/teal33t/osint-notes)
--   [OSINT-Tools-Library](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)
-    - A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community.
-    - Created by [The-OSINT-Newsletter](https://github.com/The-OSINT-Newsletter) on 2026-03-21
--   [OSINT Portal](https://osintportal.com/)
--   [OSINT-Resources](https://github.com/msmith150/OSINT-Resources?tab=readme-ov-file)
--   [OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
--   [OSINT Tools for the Darkweb](https://github.com/apurvsinghgautam/dark-web-osint-tools)
--   [OSINT Cheatsheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)
--   [The Ultimate OSINT Collection - Hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
--   [The OSINT Rainbow](https://start.me/p/xbEwoa/09-industry-professionals)
--   [TOOLKIT - Bruno Mortier](https://start.me/p/W1AXYo/toolkit)
--   [ouTube-Video-OSINT](https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT)
+-   [Bookmarks](./Bookmarks.md)
 
+## Blogs and Training Content
+-   [Training](Recommended_Reading.md)
 
-## Forensics
--   [Stegosaurus](https://github.com/AngelKitty/stegosaurus)
--   [How to Extract Text from a Face-Down Paper Using GIMP for OSINT Investigations](https://www.youtube.com/watch?v=ljiRh-nOP1Y)
--   [Email Header Analyzer, RFC822 Parser](https://mxtoolbox.com/EmailHeaders.aspx)
+## Recommended Reading
+Industry specific reading
+-   [Recommended Reading](./Library.md)
 
+## Case Studies
+Reading other investigations
+-   [Case Studies](./Case_Studies.md)
 
-## Investigation Resources by GEO
--   [Argentina](https://github.com/facusturla/osint-argentina)
-    - Repository dedicated to the collection and organization of tools, public databases, government records and open sources of information (OSINT) focused exclusively on the Republic of Argentina
-    - Created by [facusturla](https://github.com/facusturla) on 2026-03-09
-- **[osint-argentina](https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina)**
-    - Organize and centralize OSINT tools and public data focused on Argentina for research, journalism, and open-source intelligence analysis.
-    - Created by [Beauvoirmembranouslabyrinth732](https://github.com/Beauvoirmembranouslabyrinth732) on 2026-03-23
-    - Last updated on 2026-04-21. (Stars: 1)
--   [osint-argentina](https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina)
-    - Organize and centralize OSINT tools and public data focused on Argentina for research, journalism, and open-source intelligence analysis.
-    - Created by [Beauvoirmembranouslabyrinth732](https://github.com/Beauvoirmembranouslabyrinth732) on 2026-03-23
--   [Belarus](https://unishka.substack.com/p/osint-of-belarus)
--   [Nigeria](https://unishka.substack.com/p/osint-of-nigeria)
--   [Qatar](https://unishka.substack.com/p/osint-of-qatar)
--   [Syria](https://unishka.substack.com/p/osint-of-syria)
--   [UAE](https://unishka.substack.com/p/osint-of-uae)
+## Geolocation
+Geolocation related resources
+-   [Geolocation](./Geolocation.md)
 
+## Image Tools
+Image related Tools
+-   [Image Tools](./Image.md)
 
-## Online Content Creators
--   [0x4rk0](https://www.youtube.com/@0x4rk0)
--   [Authentic8](https://www.youtube.com/@Authentic8Silo)
--   [Bendobrown](https://www.youtube.com/@Bendobrown)
--   [Cyber Intel with Gary Ruddell](https://www.youtube.com/@CyberIntelWithGaryRuddell)
--   [CyberSudo](https://www.youtube.com/@CyberSudoYT)
--   [DeviantOllam](https://www.youtube.com/@DeviantOllam)
--   [My OSINT Training - Your Home For OSINT Learning™](https://www.youtube.com/@myosinttraining)
--   [OSINT Dojo](https://www.youtube.com/@OSINTDojo)
--   [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy)
--   [The OSINT Curious Project](https://www.youtube.com/@OSINTCurious)
--   [Trace Labs](https://www.youtube.com/@TraceLabsVideos)
--   [UK OSINT Community](https://www.youtube.com/@UKOSINT)
+## Sock Tools
+Resources for Sock Puppets and Puppet Masters
+-   [Sock Tools](./Sock_Tools.md)
 
+## Tool Sets
+Tools that have multiple tools within
+-   [Tool Sets](./Tool_Sets.md)
+
+## Tools
+Specific Tools
+-   [Tools](./Tools.md)
+
+## US Investigations
+Resources for US Based Investigations
+-   [US Investigations](./US_Investigations.md)
 
 ## Recommended Reading
 -   [Recommended Reading](./Recommended_Reading.md)
 
+## Removed Repositories
+Repositories that have been deleted or made private on GitHub.
+-   [Removed](./Removed.md)
 
-## Search Engines
--   [Certificate Search](https://crt.sh/)
--   [DNS recon & research](https://dnsdumpster.com/)
--   [Dual Maps](https://data.mashedworld.com/dualmaps/map.htm)
--   [Epieos](https://epieos.com/)
--   [Grabify IP Logger](https://grabify.link/)
--   [Intelligence X](https://intelx.io/tools)
--   [WhatsMyName Web](https://whatsmyname.app/)
-
-## Sock Puppets
--   [The Art of the Sock](https://www.secjuice.com/the-art-of-the-sock-osint-humint/)
--   [The Puppeteer](https://www.osintcurio.us/2018/12/27/the-puppeteer/)
--   [Introduction to Setting up Sock Puppets for OSINT](https://www.youtube.com/watch?v=3KPO58wkw7M)
--   [Creating Sock Puppet Accounts](https://www.youtube.com/watch?v=Zf155HW5Qp0)
--   [One Sock Puppet creation Methodology](https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/)
--   [Sockpuppet Account Creation - My Process](https://garrettmickley.com/sockpuppet-account-creation/)
--   [Create a Believable Fake Account](https://www.wikihow.com/Create-a-Fake-Facebook-Profile)
--   [From Sock Puppets to Puppet Masters](https://christina-lekati.medium.com/from-sock-puppets-to-puppet-masters-a78a0c89609c)
--   [An Evening With The Puppet Masters](https://www.youtube.com/watch?v=EEeJcZhxAf4)
--   [Signs you're following a Fake Twitter Account](https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/)
--   [How to Keep Facebook From Detecting Fake Accounts](https://www.vice.com/en/article/surveillance-company-explains-how-to-keep-facebook-from-detecting-fake-accounts-in-leaked-manual/)
-
-
-## Tools
--   [Tools](./Tools.md)
-
-
-## Training
--   [GeoGuessr](https://www.geoguessr.com/)
--   [Introduction to OSINT](https://www.youtube.com/watch?v=PNeCqw8OLeA)
--   [Open Source Investigation](https://www.youtube.com/watch?v=02KE_n_JqV4&list=PLnOD5ptd113Iwn7EumiBqaOgSZ7WRR1rv)
--   [OSINT At Home - Tutorials on Digital Research, Verification and Open Source Investigations](https://youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy)
--   [OSINT for ICS/OT Cyber Security - 10 Hours](https://www.youtube.com/watch?v=e7GTwmCX_Ws&list=PLOSJSv0hbPZBXT4kuRv_e8BP0TyOGc_W5)
--   [OSINT Training Course – Open Source Intelligence Training](https://www.youtube.com/watch?v=ZDtQ0bapigg)
--   [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
--   [SANS OSINT Courses](https://www.youtube.com/watch?v=e7GTwmCX_Ws&list=PLOSJSv0hbPZBXT4kuRv_e8BP0TyOGc_W5)
--   [Detect AI Image Generation](https://gijn.org/resource/guide-detecting-ai-generated-content/)
--   [The-Open-Source-Intelligence-Bible](https://github.com/cloudstreet-dev/The-Open-Source-Intelligence-Bible)
-    - OSINT in 2026. 30 chapters and 5 appendices covering the full spectrum of OSINT practice — written for practitioners who build things and need to understand the methodology behind the tools, not just a list of them.
-    - Created by [cloudstreet-dev](https://github.com/cloudstreet-dev) on 2026-02-26
-
-## Tools Training
--   [Expert OSINT Tools: Free, Powerful Bookmarklets for Digital Investigators](https://www.youtube.com/watch?v=XmG-OQMyDtQ)
--   [How To: Conduct Person of Interest Investigations with Maltego - Official Tutorial (2024)](https://www.youtube.com/watch?v=aXktQ3epQvw)
--   [PhoneInfoga Tutorial](https://www.youtube.com/watch?v=17gXMDtIhHU)
--   [skiptracer Tutorial](https://www.youtube.com/watch?v=Ls0SH9MZMCs)
--   [SOCMINT Made Simple: Social Media Research Without Logging In](https://www.youtube.com/watch?v=TeL1gDpE9QM)
--   [Tips for Conducting OSINT Investigations in the EU with GDPR](https://www.youtube.com/watch?v=HY-8o90xak4)
+## Unmaintained Repositories
+Repositories that have not received an update in 6+ months.
+-   [Unmaintained](./Unmaintained.md)   
