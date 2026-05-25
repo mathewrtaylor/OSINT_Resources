@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-05-23 -->
+<!-- Reviewed on 2026-05-25 -->
 
 ## Image Tools
 
@@ -8,6 +8,9 @@
 - **[eye_of_web](https://github.com/MehmetYukselSekeroglu/eye_of_web)** - State of the art OSINT tool. | A powerful open-source alternative to other face search engines. 
   - Created by [MehmetYukselSekeroglu](https://github.com/MehmetYukselSekeroglu) on 2025-12-31
   - Last updated on 2026-05-23. (Stars: 236)
+- **[NSphotoX](https://github.com/NaitikSoni1417/NSphotoX)** - NSphotoX is an advanced image OSINT & metadata forensics toolkit built for ethical cybersecurity research and digital investigations. Features include EXIF analysis, GPS intelligence, OCR, hashing, AI risk analysis, HTML/PDF reports, reverse image search links, and cyberpunk-style forensic dashboards.
+  - Created by [NaitikSoni1417](https://github.com/NaitikSoni1417) on 2026-05-16
+  - Last updated on 2026-05-18. (Stars: 9)
 
 ### Image Tools
 

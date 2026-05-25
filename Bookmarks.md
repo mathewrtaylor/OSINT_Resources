@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-05-23 -->
+<!-- Reviewed on 2026-05-25 -->
 
 ## Bookmarks
 
@@ -8,6 +8,12 @@
 - **[OSINT](https://github.com/b4h4w/OSINT)** - Curated list of tools and resources for open-source intelligence investigation.
   - Created by [b4h4w](https://github.com/b4h4w) on 2026-05-06
   - Last updated on 2026-05-10. (Stars: 1)
+- **[OSINT-Framework](https://github.com/YemenJPT/OSINT-Framework)** - OSINT Framework - open-source intelligence investigation toolkit
+  - Created by [YemenJPT](https://github.com/YemenJPT) on 2026-05-16
+  - Last updated on 2026-05-16. (Stars: 0)
+- **[osint-resources](https://github.com/NetGhostDev/osint-resources)** - Curated OSINT tools, investigative websites, and reconnaissance resources organized by category. Built for researchers and analysts conducting open source intelligence operations.
+  - Created by [NetGhostDev](https://github.com/NetGhostDev) on 2026-05-09
+  - Last updated on 2026-05-23. (Stars: 0)
 
 ### Blogs
 
