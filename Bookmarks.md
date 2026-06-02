@@ -1,10 +1,10 @@
-<!-- Reviewed on 2026-05-25 -->
+<!-- Reviewed on 2026-06-02 -->
 
 ## Bookmarks
 
 - **[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)** - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
   - Created by [ItIsMeCall911](https://github.com/ItIsMeCall911) on 2021-05-16
-  - Last updated on 2026-05-23. (Stars: 2691)
+  - Last updated on 2026-06-02. (Stars: 2706)
 - **[OSINT](https://github.com/b4h4w/OSINT)** - Curated list of tools and resources for open-source intelligence investigation.
   - Created by [b4h4w](https://github.com/b4h4w) on 2026-05-06
   - Last updated on 2026-05-10. (Stars: 1)
@@ -13,7 +13,7 @@
   - Last updated on 2026-05-16. (Stars: 0)
 - **[osint-resources](https://github.com/NetGhostDev/osint-resources)** - Curated OSINT tools, investigative websites, and reconnaissance resources organized by category. Built for researchers and analysts conducting open source intelligence operations.
   - Created by [NetGhostDev](https://github.com/NetGhostDev) on 2026-05-09
-  - Last updated on 2026-05-23. (Stars: 0)
+  - Last updated on 2026-05-26. (Stars: 0)
 
 ### Blogs
 

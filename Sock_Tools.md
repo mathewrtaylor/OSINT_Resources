@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-05-25 -->
+<!-- Reviewed on 2026-06-02 -->
 
 ## Sock Tools
 
