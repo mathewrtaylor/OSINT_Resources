@@ -1,58 +1,64 @@
 # OSINT_Resources
- A Listing of OSINT Resources
 
-I have completely reworked this repo to be more automated from an update persepctive. As a result, this page has changed, and all the resources are segmented to each of their categories. This should allow me to update this in a more timely fashion! I will refine out this as the days and weeks go by.
+A curated collection of OSINT tools, resources, and references organized by category. Each section links to a dedicated file that is updated independently to keep things current.
 
-Thanks for looking, and if you do have an active resource that I don't? Please create an issue!!
+If you know of an active resource that isn't listed here, please open an issue!
 
-## AI Tools
--   [AI Tools](./AI_Tools.md)
+---
 
-## Bookmark Collections
--   [Bookmarks](./Bookmarks.md)
+## Tools & Platforms
 
-## Blogs and Training Content
--   [Training](Recommended_Reading.md)
+### [Tools](./Tools.md)
+Specific, single-purpose OSINT tools — username lookups, email investigation, social media recon, and more.
 
-## Recommended Reading
-Industry specific reading
--   [Recommended Reading](./Library.md)
+### [Tool Sets](./Tool_Sets.md)
+Multi-function OSINT platforms and frameworks that bundle several investigative capabilities together.
 
-## Case Studies
-Reading other investigations
--   [Case Studies](./Case_Studies.md)
+### [AI Tools](./AI_Tools.md)
+Tools that integrate AI or machine learning into OSINT workflows — automated intelligence gathering, dark web monitoring, and AI-assisted recon.
 
-## Geolocation
-Geolocation related resources
--   [Geolocation](./Geolocation.md)
+---
 
-## Image Tools
-Image related Tools
--   [Image Tools](./Image.md)
+## Techniques & Investigation Types
 
-## Sock Tools
-Resources for Sock Puppets and Puppet Masters
--   [Sock Tools](./Sock_Tools.md)
+### [Geolocation](./Geolocation.md)
+Satellite imagery, live mapping layers, geographic tracking tools, and region-specific investigation guides.
 
-## Tool Sets
-Tools that have multiple tools within
--   [Tool Sets](./Tool_Sets.md)
+### [Image Tools](./Image.md)
+Image forensics, metadata extraction, reverse image search, and depixelization tools.
 
-## Tools
-Specific Tools
--   [Tools](./Tools.md)
+### [Sock Tools](./Sock_Tools.md)
+Resources for understanding, creating, and detecting sock puppet accounts — methodologies, blogs, and training content.
 
-## US Investigations
-Resources for US Based Investigations
--   [US Investigations](./US_Investigations.md)
+### [US Investigations](./United_States_Investigations.md)
+State-by-state links for business entity lookups, Secretary of State searches, and other US-specific public records resources.
 
-## Recommended Reading
--   [Recommended Reading](./Recommended_Reading.md)
+---
 
-## Removed Repositories
-Repositories that have been deleted or made private on GitHub.
--   [Removed](./Removed.md)
+## Learning & Reference
 
-## Unmaintained Repositories
-Repositories that have not received an update in 6+ months.
--   [Unmaintained](./Unmaintained.md)   
+### [Recommended Reading](./Recommended_Reading.md)
+Blogs, training videos, GitHub tutorials, and OSINT learning content.
+
+### [Library](./Library.md)
+Book recommendations with author and publication details — covering intelligence analysis, OSINT techniques, and investigative methodology.
+
+---
+
+## Collections & Archives
+
+### [Bookmarks](./Bookmarks.md)
+Curated OSINT repo lists, framework collections, and community-maintained resource hubs.
+
+### [Case Studies](./Case_Studies.md)
+Real and fictional investigation case studies — useful for learning investigative techniques and methodology.
+
+---
+
+## Maintenance
+
+### [Removed](./Removed.md)
+Auto-generated log of repositories that have been deleted or made private on GitHub.
+
+### [Unmaintained](./Unmaintained.md)
+Auto-generated log of repositories that have not received an update in 6+ months.
