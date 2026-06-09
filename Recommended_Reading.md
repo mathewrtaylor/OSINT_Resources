@@ -1,16 +1,26 @@
-<!-- Reviewed on 2026-06-02 -->
+<!-- Reviewed on 2026-06-09 -->
 
 ## GitHub Resources
 
-- **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
-  - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
-  - Last updated on 2026-05-04. (Stars: 0)
+### dark_web
+
+- **[Master-Darknet](https://github.com/yottajunaid/Master-Darknet)** - The Ultimate Open-Source Guide to the Deep Web, Dark Web, Hidden Networks & Anonymity
+  - Created by [yottajunaid](https://github.com/yottajunaid) on 2026-02-22
+  - Last updated on 2026-06-02. (Stars: 2)
+
 - **[OSINT](https://github.com/kumarchirag27/OSINT)** - Companion repo for A Complete Guide to Mastering OSINT (2025). Includes free templates ($5,000 value), latest 2025 OSINT tools, and resources for ethical intelligence gathering. Supports book chapters on social media, cryptocurrency, and more. Ideal for investigators and cybersecurity pros. github.com/JambaAcademy/OSINT
   - Created by [kumarchirag27](https://github.com/kumarchirag27) on 2026-06-01
   - Last updated on 2026-06-01. (Stars: 0)
+- **[OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE)** - A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
+  - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2025-12-24
+  - Last updated on 2026-06-09. (Stars: 453)
 - **[ObsidianGroup_Epstein](https://github.com/jpuckett11/ObsidianGroup_Epstein)** - 688+ hours | 3.5M documents read | The Epstein Investigation — Evidence Edition + When Lady Justice Was Truly Blind (Documentary) | EFTA corpus | Victim diary | Flight logs | FBI case files | OSINT
   - Created by [jpuckett11](https://github.com/jpuckett11) on 2026-05-27
-  - Last updated on 2026-05-28. (Stars: 0)
+  - Last updated on 2026-06-08. (Stars: 0)
+- **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
+  - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
+  - Last updated on 2026-05-04. (Stars: 0)
+
 
 ### Blogs and Training Content
 

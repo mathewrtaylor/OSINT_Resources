@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-06-02 -->
+<!-- Reviewed on 2026-06-09 -->
 
 ## Geolocation Resources
 
@@ -16,6 +16,7 @@
 
 ### Investigation Resources by Geo
 
+- **[Malaysia](https://start.me/p/KMqwBB/osint-in-malaysia-resources)** — OSINT REsources for Malaysia
 - **[Nigeria](https://unishka.substack.com/p/osint-of-nigeria)** — Educational guide, platform tutorial, or investigative methodology breakdown.
 - **[Qatar](https://unishka.substack.com/p/osint-of-qatar)** — Educational guide, platform tutorial, or investigative methodology breakdown.
 - **[Syria](https://unishka.substack.com/p/osint-of-syria)** — Educational guide, platform tutorial, or investigative methodology breakdown.
