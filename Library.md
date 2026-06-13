@@ -13,6 +13,8 @@ Some Books that would be beneficial on your journey in OSINT.
 - [Deep Dive: Exploring the Real-world Value of Open Source Intelligence](#deep-dive-exploring-the-real-world-value-of-open-source-intelligence)
 - [How to Find Out Anything: From Extreme Google Searches to Scouring Government Documents, a Guide to Uncovering Anything About Everyone and Everything](#how-to-find-out-anything-from-extreme-google-searches-to-scouring-government-documents-a-guide-to-uncovering-anything-about-everyone-and-everything)
 - [The Intelligence Bible: A Comprehensive Guide to Intelligence](#the-intelligence-bible-a-comprehensive-guide-to-intelligence)
+- [Open Source Investigations in the Age of Google](#open-source-investigations-in-the-age-of-google-security-science-and-technology-book-4)
+- [OSINT: The Authoritative Guide to Due Diligence](#osint-the-authoritative-guide-to-due-diligence)
 
 
 ## Critical Thinking for Strategic Intelligence
@@ -188,5 +190,37 @@ Some Books that would be beneficial on your journey in OSINT.
 3. **Product-Oriented Thinking** – Emphasizes deliverables (briefs, summaries, assessments), reinforcing that intelligence is only valuable if it informs decisions.
 4. **Bridging Beginner to Advanced** – Serves as both onboarding material and a reference, making it useful for scaling OSINT capabilities within a team.
 5. **Operational Structure Awareness** – Helps investigators understand how their OSINT work fits into broader intelligence ecosystems, including policy and command-level consumption.
+***
+[Back To Top](#contents)
+
+## Open Source Investigations in the Age of Google (Security Science and Technology Book 4)
+- **Editors:** Henrietta Wilson, Olamide Samuel, Dan Plesch  
+- **Publishing Date:** May 19, 2024  
+- **ISBN:** 978-1800614062 (Hardcover)  
+- **Goodreads URL:** https://www.goodreads.com/book/show/125909702-open-source-investigations-in-the-age-of-google  
+- **Abbreviated Publisher's Summary:**  
+  This interdisciplinary collection examines how open-source investigations are transforming the monitoring of human rights abuses, political violence, corruption, conflict, and global security issues. Through contributions from experienced practitioners and researchers, the book explores both the opportunities and challenges of using publicly available information to improve transparency, accountability, and justice. 
+### Investigator’s Summary (OSINT Perspective):
+1. **Real-World Investigative Case Studies** – Demonstrates how journalists, activists, and researchers use OSINT to uncover war crimes, corruption, arms trafficking, and human rights violations without traditional intelligence resources. 
+2. **Beyond Traditional OSINT** – Expands the investigator's perspective beyond people searches and social media, introducing applications in conflict monitoring, treaty verification, disinformation analysis, and global governance.
+3. **Multi-Disciplinary Tradecraft** – Presents methodologies from journalists, academics, NGOs, and intelligence professionals, helping investigators understand how different sectors approach evidence collection and verification. 
+4. **Ethics, Accountability, and Impact** – Explores how investigative findings can influence courts, policymakers, international organizations, and public opinion, emphasizing responsible intelligence gathering. 
+5. **Strategic-Level OSINT Thinking** – Particularly valuable for investigators who want to move from tactical collection toward understanding how open-source intelligence can support large-scale security, humanitarian, and policy objectives. 
+***
+[Back To Top](#contents)
+
+## OSINT: The Authoritative Guide to Due Diligence
+- **Author:** Cynthia Hetherington
+- **Publishing Date:** June 10, 2024
+- **ISBN:** 978-1960299420
+- **Goodreads URL:** https://www.goodreads.com/book/show/214640386-osint
+- **Abbreviated Publisher's Summary:**
+  This comprehensive guide focuses on applying Open Source Intelligence (OSINT) to due diligence investigations. Drawing on decades of experience in corporate intelligence, cyber investigations, and online research, Cynthia Hetherington provides methodologies for researching individuals, companies, assets, litigation, social media, and digital footprints while maintaining ethical and legal compliance. The book is designed for investigators, intelligence analysts, cybersecurity professionals, and business due diligence practitioners.
+### Investigator’s Summary (OSINT Perspective):
+1. **Due Diligence-Centered Tradecraft** – Unlike many OSINT books focused on general investigations, this book specializes in corporate intelligence, vendor vetting, executive profiling, mergers and acquisitions research, and risk assessment.
+2. **Business Intelligence Methodology** – Provides structured approaches for uncovering hidden risks, beneficial ownership, litigation exposure, reputational concerns, and corporate relationships that may not be immediately visible through standard searches.
+3. **Legal and Ethical Frameworks** – Strong emphasis on conducting investigations within legal boundaries while maintaining defensible research practices and professional standards.
+4. **Report-Writing and Client Deliverables** – Goes beyond collection techniques to focus on transforming raw data into actionable intelligence products that decision-makers can use.
+5. **Professional Investigator Perspective** – Written by a long-time corporate intelligence practitioner, the book reflects real-world investigative workflows rather than purely academic or technical approaches, making it particularly valuable for analysts supporting business, legal, compliance, and fraud investigations.
 ***
 [Back To Top](#contents)
