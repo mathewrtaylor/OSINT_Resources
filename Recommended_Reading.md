@@ -1,6 +1,12 @@
-<!-- Reviewed on 2026-06-09 -->
+<!-- Reviewed on 2026-06-14 -->
 
 ## GitHub Resources
+
+### companion_repo
+
+- **[OSINT](https://github.com/kumarchirag27/OSINT)** - Companion repo for A Complete Guide to Mastering OSINT (2025). Includes free templates ($5,000 value), latest 2025 OSINT tools, and resources for ethical intelligence gathering. Supports book chapters on social media, cryptocurrency, and more. Ideal for investigators and cybersecurity pros. github.com/JambaAcademy/OSINT
+  - Created by [kumarchirag27](https://github.com/kumarchirag27) on 2026-06-01
+  - Last updated on 2026-06-01. (Stars: 0)
 
 ### dark_web
 
@@ -8,18 +14,26 @@
   - Created by [yottajunaid](https://github.com/yottajunaid) on 2026-02-22
   - Last updated on 2026-06-02. (Stars: 2)
 
-- **[OSINT](https://github.com/kumarchirag27/OSINT)** - Companion repo for A Complete Guide to Mastering OSINT (2025). Includes free templates ($5,000 value), latest 2025 OSINT tools, and resources for ethical intelligence gathering. Supports book chapters on social media, cryptocurrency, and more. Ideal for investigators and cybersecurity pros. github.com/JambaAcademy/OSINT
-  - Created by [kumarchirag27](https://github.com/kumarchirag27) on 2026-06-01
-  - Last updated on 2026-06-01. (Stars: 0)
+### general_osint
+
 - **[OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE)** - A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
   - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2025-12-24
-  - Last updated on 2026-06-09. (Stars: 453)
-- **[ObsidianGroup_Epstein](https://github.com/jpuckett11/ObsidianGroup_Epstein)** - 688+ hours | 3.5M documents read | The Epstein Investigation — Evidence Edition + When Lady Justice Was Truly Blind (Documentary) | EFTA corpus | Victim diary | Flight logs | FBI case files | OSINT
-  - Created by [jpuckett11](https://github.com/jpuckett11) on 2026-05-27
-  - Last updated on 2026-06-08. (Stars: 0)
+  - Last updated on 2026-06-14. (Stars: 457)
 - **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
   - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
   - Last updated on 2026-05-04. (Stars: 0)
+
+### newsletters
+
+- **[OSINT-newsletters](https://github.com/ubikron/OSINT-newsletters)** - List of OSINT newsletters
+  - Created by [ubikron](https://github.com/ubikron) on 2026-01-16
+  - Last updated on 2026-06-12. (Stars: 31)
+
+### professionals
+
+- **[OSINT-People](https://github.com/ubikron/OSINT-People)** - List of interesting and active OSINT researchers/bloggers
+  - Created by [ubikron](https://github.com/ubikron) on 2026-01-20
+  - Last updated on 2026-05-28. (Stars: 35)
 
 
 ### Blogs and Training Content

@@ -1,6 +1,12 @@
-<!-- Reviewed on 2026-06-09 -->
+<!-- Reviewed on 2026-06-14 -->
 
 ## Bookmarks
+
+### ai
+
+- **[Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT)** - A list of articles, videos, and tools related to the use of AI for OSINT.
+  - Created by [ubikron](https://github.com/ubikron) on 2025-08-25
+  - Last updated on 2026-06-14. (Stars: 561)
 
 ### dark_web
 
@@ -8,21 +14,32 @@
   - Created by [nycthunter](https://github.com/nycthunter) on 2025-11-19
   - Last updated on 2026-05-31. (Stars: 4)
 
-- **[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)** - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
-  - Created by [ItIsMeCall911](https://github.com/ItIsMeCall911) on 2021-05-16
-  - Last updated on 2026-06-09. (Stars: 2719)
+### general_osint
+
 - **[OSINT](https://github.com/b4h4w/OSINT)** - Curated list of tools and resources for open-source intelligence investigation.
   - Created by [b4h4w](https://github.com/b4h4w) on 2026-05-06
   - Last updated on 2026-05-10. (Stars: 1)
-- **[OSINT-Framework](https://github.com/YemenJPT/OSINT-Framework)** - OSINT Framework - open-source intelligence investigation toolkit
-  - Created by [YemenJPT](https://github.com/YemenJPT) on 2026-05-16
-  - Last updated on 2026-05-16. (Stars: 0)
-- **[open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)** - A list of open source web security scanners
-  - Created by [psiinon](https://github.com/psiinon) on 2022-01-17
-  - Last updated on 2026-06-09. (Stars: 1442)
+- **[Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)** - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
+  - Created by [BushidoUK](https://github.com/BushidoUK) on 2020-01-16
+  - Last updated on 2026-06-08. (Stars: 803)
 - **[osint-resources](https://github.com/NetGhostDev/osint-resources)** - Curated OSINT tools, investigative websites, and reconnaissance resources organized by category. Built for researchers and analysts conducting open source intelligence operations.
   - Created by [NetGhostDev](https://github.com/NetGhostDev) on 2026-05-09
   - Last updated on 2026-06-06. (Stars: 0)
+- **[osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)** - A collection of several hundred online tools for OSINT
+  - Created by [cipher387](https://github.com/cipher387) on 2021-06-08
+  - Last updated on 2026-06-14. (Stars: 8178)
+
+### telegram
+
+- **[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)** - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
+  - Created by [ItIsMeCall911](https://github.com/ItIsMeCall911) on 2021-05-16
+  - Last updated on 2026-06-14. (Stars: 2730)
+
+### web_scanners
+
+- **[open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)** - A list of open source web security scanners
+  - Created by [psiinon](https://github.com/psiinon) on 2022-01-17
+  - Last updated on 2026-06-14. (Stars: 1520)
 
 
 ### Blogs

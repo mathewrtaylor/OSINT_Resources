@@ -1,6 +1,13 @@
-<!-- Reviewed on 2026-06-09 -->
+<!-- Reviewed on 2026-06-14 -->
 
 ## Geolocation Resources
+
+### investigation_resources
+
+- **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** - Ireland Criminal Intelligence Platform - Monitoring crime- Analist
+  - Created by [Condor2026](https://github.com/Condor2026) on 2026-06-11
+  - Last updated on 2026-06-14. (Stars: 0)
+
 
 ### General OSINT tools
 
