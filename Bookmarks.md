@@ -1,45 +1,54 @@
-<!-- Reviewed on 2026-06-14 -->
+<!-- Reviewed on 2026-06-21 -->
 
 ## Bookmarks
 
-### ai
+### "General OSINT"
+
+- **[osint-recon-hub](https://github.com/pandey-saket/osint-recon-hub)** - A curated collection of free OSINT tools and resources for social media recon, email/IP/phone investigation, GEOINT, reverse image search, threat intelligence, and digital forensics — plus free learning resources to get started with OSINT. For ethical and authorized investigative use only.
+  - Created by [pandey-saket](https://github.com/pandey-saket) on 2026-06-17
+  - Last updated on 2026-06-17. (Stars: 2)
+
+### AI
 
 - **[Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT)** - A list of articles, videos, and tools related to the use of AI for OSINT.
   - Created by [ubikron](https://github.com/ubikron) on 2025-08-25
-  - Last updated on 2026-06-14. (Stars: 561)
+  - Last updated on 2026-06-20. (Stars: 672)
 
-### dark_web
+### Dark Web
 
 - **[CounterIntelCTI](https://github.com/nycthunter/CounterIntelCTI)** - Collection of Cyber Threat Intelligence sources from the surface, deep and dark web
   - Created by [nycthunter](https://github.com/nycthunter) on 2025-11-19
   - Last updated on 2026-05-31. (Stars: 4)
 
-### general_osint
+### General OSINT tools
 
 - **[OSINT](https://github.com/b4h4w/OSINT)** - Curated list of tools and resources for open-source intelligence investigation.
   - Created by [b4h4w](https://github.com/b4h4w) on 2026-05-06
   - Last updated on 2026-05-10. (Stars: 1)
+- **[OSINT-Tools-Library](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)** - A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community.
+  - Created by [The-OSINT-Newsletter](https://github.com/The-OSINT-Newsletter) on 2026-03-21
+  - Last updated on 2026-06-20. (Stars: 53)
 - **[Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)** - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
   - Created by [BushidoUK](https://github.com/BushidoUK) on 2020-01-16
-  - Last updated on 2026-06-08. (Stars: 803)
+  - Last updated on 2026-06-19. (Stars: 804)
 - **[osint-resources](https://github.com/NetGhostDev/osint-resources)** - Curated OSINT tools, investigative websites, and reconnaissance resources organized by category. Built for researchers and analysts conducting open source intelligence operations.
   - Created by [NetGhostDev](https://github.com/NetGhostDev) on 2026-05-09
   - Last updated on 2026-06-06. (Stars: 0)
 - **[osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)** - A collection of several hundred online tools for OSINT
   - Created by [cipher387](https://github.com/cipher387) on 2021-06-08
-  - Last updated on 2026-06-14. (Stars: 8178)
+  - Last updated on 2026-06-21. (Stars: 8214)
 
-### telegram
+### Social Media
 
 - **[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)** - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
   - Created by [ItIsMeCall911](https://github.com/ItIsMeCall911) on 2021-05-16
-  - Last updated on 2026-06-14. (Stars: 2730)
+  - Last updated on 2026-06-21. (Stars: 2743)
 
-### web_scanners
+### Web Scanner
 
 - **[open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)** - A list of open source web security scanners
   - Created by [psiinon](https://github.com/psiinon) on 2022-01-17
-  - Last updated on 2026-06-14. (Stars: 1520)
+  - Last updated on 2026-06-20. (Stars: 1531)
 
 
 ### Blogs
@@ -67,4 +76,14 @@
 - **[TOOLKIT - Bruno Mortier](https://start.me/p/W1AXYo/toolkit)** — Centralized aggregate node of open-source investigative intelligence links.
 - **[The OSINT Rainbow](https://start.me/p/xbEwoa/09-industry-professionals)** — Centralized aggregate node of open-source investigative intelligence links.
 - **[The Ultimate OSINT Collection - Hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)** — Centralized aggregate node of open-source investigative intelligence links.
+
+### General OSINT
+
+- **[People Investigation](https://start.me/p/QLDmA2/people-investigation-personell-intelligence)** — PEOPLE INVESTIGATION & PERSONELL INTELLIGENCE
+- **[Privacy and Security](https://start.me/p/GLwBx8/privacy-personal-security)** — PRIVACY & PERSONAL SECURITY
+
+### General OSINT tools
+
+- **[*new* Osint Deck](https://osintdeck.org/)** — A curated collection of OSINT tools and resources
+- **[OSINT Portal](https://osintportal.com/)** — A hub for open-source intelligence research and tools
 

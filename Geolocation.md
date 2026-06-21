@@ -1,8 +1,8 @@
-<!-- Reviewed on 2026-06-14 -->
+<!-- Reviewed on 2026-06-21 -->
 
 ## Geolocation Resources
 
-### investigation_resources
+### Investigation Resources by Geo
 
 - **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** - Ireland Criminal Intelligence Platform - Monitoring crime- Analist
   - Created by [Condor2026](https://github.com/Condor2026) on 2026-06-11
@@ -24,8 +24,9 @@
 ### Investigation Resources by Geo
 
 - **[Malaysia](https://start.me/p/KMqwBB/osint-in-malaysia-resources)** — OSINT REsources for Malaysia
-- **[Nigeria](https://unishka.substack.com/p/osint-of-nigeria)** — Educational guide, platform tutorial, or investigative methodology breakdown.
-- **[Qatar](https://unishka.substack.com/p/osint-of-qatar)** — Educational guide, platform tutorial, or investigative methodology breakdown.
-- **[Syria](https://unishka.substack.com/p/osint-of-syria)** — Educational guide, platform tutorial, or investigative methodology breakdown.
-- **[UAE](https://unishka.substack.com/p/osint-of-uae)** — Educational guide, platform tutorial, or investigative methodology breakdown.
+- **[Nigeria](https://unishka.substack.com/p/osint-of-nigeria)** — OSINT Resources for Nigeria
+- **[Qatar](https://unishka.substack.com/p/osint-of-qatar)** — OSINT Resources for Qatar
+- **[South Africa](https://start.me/p/KMAbkB/osint-south-africa)** — OSINT REsources for South Africa
+- **[Syria](https://unishka.substack.com/p/osint-of-syria)** — OSINT Resources for Syria
+- **[UAE](https://unishka.substack.com/p/osint-of-uae)** — OSINT Resources for Syria
 
