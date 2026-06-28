@@ -1,9 +1,12 @@
-<!-- Reviewed on 2026-06-21 -->
+<!-- Reviewed on 2026-06-28 -->
 
 ## Case Studies
 
 ### "General OSINT"
 
+- **[Digital-Investigations-and-OSINT-Portfolio](https://github.com/CyberHackersDiary/Digital-Investigations-and-OSINT-Portfolio)** - Digital Investigator focused on OSINT, geolocation, and digital verification. Exploring the world through clues, evidence, and open-source intelligence.
+  - Created by [CyberHackersDiary](https://github.com/CyberHackersDiary) on 2026-06-10
+  - Last updated on 2026-06-26. (Stars: 1)
 - **[OSINT-threat-intel-case-studies](https://github.com/kathylam204/OSINT-threat-intel-case-studies)** - A collection of real-world Open Source Intelligence (OSINT) investigations, infrastructure tracking, and threat intelligence case studies.
   - Created by [kathylam204](https://github.com/kathylam204) on 2026-06-15
   - Last updated on 2026-06-18. (Stars: 0)
@@ -27,7 +30,7 @@
 
 - **[ObsidianGroup_Epstein](https://github.com/jpuckett11/ObsidianGroup_Epstein)** - 688+ hours | 3.5M documents read | The Epstein Investigation — Evidence Edition + When Lady Justice Was Truly Blind (Documentary) | EFTA corpus | Victim diary | Flight logs | FBI case files | OSINT
   - Created by [jpuckett11](https://github.com/jpuckett11) on 2026-05-27
-  - Last updated on 2026-06-14. (Stars: 0)
+  - Last updated on 2026-06-27. (Stars: 0)
 
 ### General OSINT tools
 

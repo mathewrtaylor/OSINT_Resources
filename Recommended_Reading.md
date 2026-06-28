@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-06-21 -->
+<!-- Reviewed on 2026-06-28 -->
 
 ## GitHub Resources
 
@@ -18,7 +18,7 @@
 
 - **[OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE)** - A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
   - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2025-12-24
-  - Last updated on 2026-06-20. (Stars: 459)
+  - Last updated on 2026-06-28. (Stars: 552)
 - **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
   - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
   - Last updated on 2026-05-04. (Stars: 0)

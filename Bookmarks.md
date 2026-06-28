@@ -1,18 +1,30 @@
-<!-- Reviewed on 2026-06-21 -->
+<!-- Reviewed on 2026-06-28 -->
 
 ## Bookmarks
 
 ### "General OSINT"
 
+- **[Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)** - A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
+  - Created by [K2SOsint](https://github.com/K2SOsint) on 2025-09-12
+  - Last updated on 2026-06-28. (Stars: 887)
+- **[OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)** - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
+  - Created by [Jieyab89](https://github.com/Jieyab89) on 2021-11-22
+  - Last updated on 2026-06-28. (Stars: 2034)
 - **[osint-recon-hub](https://github.com/pandey-saket/osint-recon-hub)** - A curated collection of free OSINT tools and resources for social media recon, email/IP/phone investigation, GEOINT, reverse image search, threat intelligence, and digital forensics — plus free learning resources to get started with OSINT. For ethical and authorized investigative use only.
   - Created by [pandey-saket](https://github.com/pandey-saket) on 2026-06-17
-  - Last updated on 2026-06-17. (Stars: 2)
+  - Last updated on 2026-06-28. (Stars: 3)
+
+### "Threat Intel"
+
+- **[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)** - A curated list of Awesome Threat Intelligence resources
+  - Created by [hslatman](https://github.com/hslatman) on 2015-12-21
+  - Last updated on 2026-06-27. (Stars: 10394)
 
 ### AI
 
 - **[Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT)** - A list of articles, videos, and tools related to the use of AI for OSINT.
   - Created by [ubikron](https://github.com/ubikron) on 2025-08-25
-  - Last updated on 2026-06-20. (Stars: 672)
+  - Last updated on 2026-06-28. (Stars: 699)
 
 ### Dark Web
 
@@ -27,28 +39,28 @@
   - Last updated on 2026-05-10. (Stars: 1)
 - **[OSINT-Tools-Library](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)** - A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community.
   - Created by [The-OSINT-Newsletter](https://github.com/The-OSINT-Newsletter) on 2026-03-21
-  - Last updated on 2026-06-20. (Stars: 53)
+  - Last updated on 2026-06-26. (Stars: 57)
 - **[Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)** - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
   - Created by [BushidoUK](https://github.com/BushidoUK) on 2020-01-16
-  - Last updated on 2026-06-19. (Stars: 804)
+  - Last updated on 2026-06-27. (Stars: 808)
 - **[osint-resources](https://github.com/NetGhostDev/osint-resources)** - Curated OSINT tools, investigative websites, and reconnaissance resources organized by category. Built for researchers and analysts conducting open source intelligence operations.
   - Created by [NetGhostDev](https://github.com/NetGhostDev) on 2026-05-09
   - Last updated on 2026-06-06. (Stars: 0)
 - **[osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)** - A collection of several hundred online tools for OSINT
   - Created by [cipher387](https://github.com/cipher387) on 2021-06-08
-  - Last updated on 2026-06-21. (Stars: 8214)
+  - Last updated on 2026-06-28. (Stars: 8366)
 
 ### Social Media
 
 - **[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)** - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
   - Created by [ItIsMeCall911](https://github.com/ItIsMeCall911) on 2021-05-16
-  - Last updated on 2026-06-21. (Stars: 2743)
+  - Last updated on 2026-06-27. (Stars: 2754)
 
 ### Web Scanner
 
 - **[open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)** - A list of open source web security scanners
   - Created by [psiinon](https://github.com/psiinon) on 2022-01-17
-  - Last updated on 2026-06-20. (Stars: 1531)
+  - Last updated on 2026-06-28. (Stars: 1532)
 
 
 ### Blogs
@@ -86,4 +98,8 @@
 
 - **[*new* Osint Deck](https://osintdeck.org/)** — A curated collection of OSINT tools and resources
 - **[OSINT Portal](https://osintportal.com/)** — A hub for open-source intelligence research and tools
+
+### Threat Intel
+
+- **[The Handler](https://start.me/p/w9J2wX/the-handler)** — Threat Intelligence Bookmarks
 
