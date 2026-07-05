@@ -6,6 +6,26 @@ If you know of an active resource that isn't listed here, please open an issue!
 
 ---
 
+<!-- MOVERS_START -->
+# Star Movers (Last 30 Days)
+
+Repositories with the highest star gain over the last 30 days.
+
+| Rank | Repository | Star Gain | Total Stars |
+|------|-----------|-----------|-------------|
+| 1 | [worldmonitor](https://github.com/koala73/worldmonitor) | +5893 ★ | 61,367 |
+| 2 | [maigret](https://github.com/soxoj/maigret) | +3702 ★ | 34,922 |
+| 3 | [osiris](https://github.com/simplifaisoul/osiris) | +2232 ★ | 6,433 |
+| 4 | [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | +680 ★ | 1,168 |
+| 5 | [robin](https://github.com/apurvsinghgautam/robin) | +478 ★ | 5,797 |
+| 6 | [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | +461 ★ | 906 |
+| 7 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +435 ★ | 2,542 |
+| 8 | [spyder-osint](https://github.com/tq17oa7/spyder-osint) | +399 ★ | 622 |
+| 9 | [Osintgram](https://github.com/Datalux/Osintgram) | +346 ★ | 13,388 |
+| 10 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | +284 ★ | 1,894 |
+<!-- MOVERS_END -->
+
+
 ## Tools & Platforms
 
 ### [Tools](./Tools.md)
