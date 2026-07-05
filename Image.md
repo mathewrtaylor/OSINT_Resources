@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-06-28 -->
+<!-- Reviewed on 2026-07-05 -->
 
 ## Image Tools
 
@@ -6,11 +6,11 @@
 
 - **[eye_of_web](https://github.com/MehmetYukselSekeroglu/eye_of_web)** - State of the art OSINT tool. | A powerful open-source alternative to other face search engines. 
   - Created by [MehmetYukselSekeroglu](https://github.com/MehmetYukselSekeroglu) on 2025-12-31
-  - Last updated on 2026-06-27. (Stars: 290)
+  - Last updated on 2026-07-04. (Stars: 297)
 
 - **[Depixelization_poc](https://github.com/spipm/Depixelization_poc)** - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
   - Created by [spipm](https://github.com/spipm) on 2020-12-06
-  - Last updated on 2026-06-26. (Stars: 4540)
+  - Last updated on 2026-07-05. (Stars: 4545)
 - **[NSphotoX](https://github.com/NaitikSoni1417/NSphotoX)** - NSphotoX is an advanced image OSINT & metadata forensics toolkit built for ethical cybersecurity research and digital investigations. Features include EXIF analysis, GPS intelligence, OCR, hashing, AI risk analysis, HTML/PDF reports, reverse image search links, and cyberpunk-style forensic dashboards.
   - Created by [NaitikSoni1417](https://github.com/NaitikSoni1417) on 2026-05-16
   - Last updated on 2026-05-31. (Stars: 10)

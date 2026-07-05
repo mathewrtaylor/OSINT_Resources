@@ -1,18 +1,36 @@
-<!-- Reviewed on 2026-06-28 -->
+<!-- Reviewed on 2026-07-05 -->
 
 ## Case Studies
+
+### "Domain"
+
+- **[OSINT-Investigation](https://github.com/Ramyaa481/OSINT-Investigation)** - An ethical Open Source Intelligence (OSINT) investigation demonstrating digital footprint analysis using Google Search, WHOIS, DNS records, GitHub, and public social media data for cybersecurity learning.
+  - Created by [Ramyaa481](https://github.com/Ramyaa481) on 2026-07-01
+  - Last updated on 2026-07-01. (Stars: 0)
 
 ### "General OSINT"
 
 - **[Digital-Investigations-and-OSINT-Portfolio](https://github.com/CyberHackersDiary/Digital-Investigations-and-OSINT-Portfolio)** - Digital Investigator focused on OSINT, geolocation, and digital verification. Exploring the world through clues, evidence, and open-source intelligence.
   - Created by [CyberHackersDiary](https://github.com/CyberHackersDiary) on 2026-06-10
-  - Last updated on 2026-06-26. (Stars: 1)
+  - Last updated on 2026-06-28. (Stars: 1)
 - **[OSINT-threat-intel-case-studies](https://github.com/kathylam204/OSINT-threat-intel-case-studies)** - A collection of real-world Open Source Intelligence (OSINT) investigations, infrastructure tracking, and threat intelligence case studies.
   - Created by [kathylam204](https://github.com/kathylam204) on 2026-06-15
   - Last updated on 2026-06-18. (Stars: 0)
 - **[Threat-Intelligence-Investigations](https://github.com/Minh1402-lap/Threat-Intelligence-Investigations)** - Threat Intelligence, OSINT and Security Investigation Projects
   - Created by [Minh1402-lap](https://github.com/Minh1402-lap) on 2026-06-18
   - Last updated on 2026-06-18. (Stars: 0)
+
+### "Threat Actor Profile"
+
+- **[Threat-intelligence--portfolio-](https://github.com/laufey03/Threat-intelligence--portfolio-)** - A complete threat acrtor profiling of APT28 through OSINT investigation
+  - Created by [laufey03](https://github.com/laufey03) on 2026-06-30
+  - Last updated on 2026-06-30. (Stars: 0)
+
+### "Threat Intel"
+
+- **[OSINT-Web3-Fake-Recruitment-Investigation](https://github.com/Mounir78190/OSINT-Web3-Fake-Recruitment-Investigation)** - Threat Intelligence investigation into a suspected Web3 fake recruitment campaign impersonating the Highlight brand.
+  - Created by [Mounir78190](https://github.com/Mounir78190) on 2026-06-28
+  - Last updated on 2026-06-29. (Stars: 0)
 
 ### Dark Web
 
@@ -24,13 +42,13 @@
 
 - **[Islamic-Republic-Influence-Networks](https://github.com/goldenowlosint/Islamic-Republic-Influence-Networks)** - 📊 OSINT dataset of 10,700+ Twitter/X accounts linked to Islamic Republic influence networks. Metadata-only for CIB research & network analysis.
   - Created by [goldenowlosint](https://github.com/goldenowlosint) on 2026-01-14
-  - Last updated on 2026-06-11. (Stars: 76)
+  - Last updated on 2026-07-05. (Stars: 76)
 
 ### Epstein
 
 - **[ObsidianGroup_Epstein](https://github.com/jpuckett11/ObsidianGroup_Epstein)** - 688+ hours | 3.5M documents read | The Epstein Investigation — Evidence Edition + When Lady Justice Was Truly Blind (Documentary) | EFTA corpus | Victim diary | Flight logs | FBI case files | OSINT
   - Created by [jpuckett11](https://github.com/jpuckett11) on 2026-05-27
-  - Last updated on 2026-06-27. (Stars: 0)
+  - Last updated on 2026-07-01. (Stars: 1)
 
 ### General OSINT tools
 
