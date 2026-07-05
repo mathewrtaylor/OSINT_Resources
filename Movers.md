@@ -15,4 +15,4 @@ Repositories with the highest star gain over the last 30 days.
 | 7 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +435 ★ | 2,542 |
 | 8 | [spyder-osint](https://github.com/tq17oa7/spyder-osint) | +399 ★ | 622 |
 | 9 | [Osintgram](https://github.com/Datalux/Osintgram) | +346 ★ | 13,388 |
-| 10 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | +284 ★ | 1,894 |
+| 10 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | +284 ★ | 1,894 | 
