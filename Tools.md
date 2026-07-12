@@ -1,18 +1,21 @@
-<!-- Reviewed on 2026-07-05 -->
+<!-- Reviewed on 2026-07-12 -->
 
 ## GitHub Discoveries
 
 ### "Domain Tools"
 
+- **[ShadowTrace](https://github.com/sylhetyhackvenger/ShadowTrace)** - Shadow Tracer is a cyber intelligence & OSINT framework for researchers & investigators. It combines IP intelligence, public IP discovery, phone metadata analysis, and large‑scale username reconnaissance across social media, freelance, blogging, and educational platforms. Multithreaded with a neon terminal UI—fast, sleek, and powerful.
+  - Created by [sylhetyhackvenger](https://github.com/sylhetyhackvenger) on 2026-06-21
+  - Last updated on 2026-07-11. (Stars: 1)
 - **[ghost_eye](https://github.com/BullsEye0/ghost_eye)** - Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Information Gathering Tool I made in python 3. To run Ghost Eye, it only needs a domain or ip. Ghost Eye can work with any Linux distros if they support Python 3. Author: Jolanda de Koff
   - Created by [BullsEye0](https://github.com/BullsEye0) on 2019-07-11
-  - Last updated on 2026-07-04. (Stars: 605)
+  - Last updated on 2026-07-12. (Stars: 607)
 
 ### "Email"
 
 - **[EMAIL-CRAWL](https://github.com/techenthusiast167/EMAIL-CRAWL)** - EmailCrawl - is a professional-grade OSINT (Open Source Intelligence) tool designed for advanced email address extraction through comprehensive web crawling. Built for cybersecurity professionals, penetration testers, and intelligence analysts.
   - Created by [techenthusiast167](https://github.com/techenthusiast167) on 2025-11-21
-  - Last updated on 2026-07-05. (Stars: 199)
+  - Last updated on 2026-07-11. (Stars: 203)
 
 ### "Finance"
 
@@ -24,10 +27,10 @@
 
 - **[D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit)** - A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repository contains a collection of scripts, resources, and methodologies to aid in gathering and analyzing publicly available information. Designed for security researchers, journalists, and forensic analysts for ethical and legal investigations.
   - Created by [techenthusiast167](https://github.com/techenthusiast167) on 2025-12-07
-  - Last updated on 2026-06-29. (Stars: 336)
+  - Last updated on 2026-07-11. (Stars: 364)
 - **[osint-username-search](https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search)** - Locate username presence across 500+ platforms using an asynchronous OSINT framework for identity verification and digital footprint audits.
   - Created by [shoedactylorhizamaculatafuchsii29](https://github.com/shoedactylorhizamaculatafuchsii29) on 2026-05-04
-  - Last updated on 2026-07-05. (Stars: 1)
+  - Last updated on 2026-07-12. (Stars: 1)
 
 ### "Social Media"
 
@@ -36,10 +39,10 @@
   - Last updated on 2026-06-28. (Stars: 0)
 - **[TorBot](https://github.com/DedSecInside/TorBot)** - Dark Web OSINT Tool
   - Created by [DedSecInside](https://github.com/DedSecInside) on 2017-05-17
-  - Last updated on 2026-07-05. (Stars: 4288)
+  - Last updated on 2026-07-12. (Stars: 4338)
 - **[telegram_osint](https://github.com/Profane-aeliusdonatus171/telegram_osint)** - Profile Telegram users, analyze groups, and export chat data with this terminal-based OSINT toolkit built on Telethon.
   - Created by [Profane-aeliusdonatus171](https://github.com/Profane-aeliusdonatus171) on 2026-06-23
-  - Last updated on 2026-07-05. (Stars: 1)
+  - Last updated on 2026-07-12. (Stars: 1)
 
 ### "Username"
 
@@ -51,13 +54,13 @@
 
 - **[awesome-osint-chrome-extensions](https://github.com/ubikron/awesome-osint-chrome-extensions)** - Chrome Extensions for OSINT
   - Created by [ubikron](https://github.com/ubikron) on 2025-06-25
-  - Last updated on 2026-07-01. (Stars: 242)
+  - Last updated on 2026-07-12. (Stars: 243)
 
 ### Browser Tools
 
 - **[mitaka](https://github.com/ninoseki/mitaka)** - A browser extension for OSINT search
   - Created by [ninoseki](https://github.com/ninoseki) on 2018-02-09
-  - Last updated on 2026-07-02. (Stars: 1818)
+  - Last updated on 2026-07-09. (Stars: 1820)
 - **[osint-tools](https://github.com/recosint/osint-tools)** - Free browser-based OSINT tools for security professionals, investigators, and researchers — by Recosint Intelligence Services
   - Created by [recosint](https://github.com/recosint) on 2026-04-15
   - Last updated on 2026-04-15. (Stars: 0)
@@ -66,7 +69,7 @@
 
 - **[globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** - Global threat map. Learn wars, conflicts, military bases and history of nations. 
   - Created by [unicodeveloper](https://github.com/unicodeveloper) on 2026-01-22
-  - Last updated on 2026-07-02. (Stars: 1683)
+  - Last updated on 2026-07-12. (Stars: 1688)
 
 ### Dark Web
 
@@ -78,28 +81,28 @@
   - Last updated on 2026-06-09. (Stars: 0)
 - **[darkdump](https://github.com/josh0xA/darkdump)** - Open Source Intelligence Interface for Deep Web Scraping
   - Created by [josh0xA](https://github.com/josh0xA) on 2021-02-11
-  - Last updated on 2026-07-05. (Stars: 1630)
+  - Last updated on 2026-07-12. (Stars: 1638)
 - **[onionintel](https://github.com/mythofkas-commits/onionintel)** - Dockerized dark web OSINT app for Tor onion search, AI query expansion, source health monitoring, artifact extraction, and auditable investigation reports.
   - Created by [mythofkas-commits](https://github.com/mythofkas-commits) on 2026-05-22
   - Last updated on 2026-05-22. (Stars: 0)
 - **[voidaccess](https://github.com/KatrielMoses/voidaccess)** - Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.
   - Created by [KatrielMoses](https://github.com/KatrielMoses) on 2026-04-29
-  - Last updated on 2026-07-03. (Stars: 272)
+  - Last updated on 2026-07-12. (Stars: 282)
 
 ### Domain
 
 - **[WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT)** - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
   - Created by [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) on 2022-07-12
-  - Last updated on 2026-07-04. (Stars: 394)
+  - Last updated on 2026-07-11. (Stars: 398)
 
 ### Domain Tools
 
 - **[IPAnalyzer](https://github.com/s-r-e-e-r-a-j/IPAnalyzer)** - IPAnalyzer is an IP Address Tracker OSINT ethical hacking tool built for Linux distributions, designed to gather detailed information about IP addresses, including their Google Maps location.
   - Created by [s-r-e-e-r-a-j](https://github.com/s-r-e-e-r-a-j) on 2025-01-26
-  - Last updated on 2026-06-25. (Stars: 63)
+  - Last updated on 2026-07-12. (Stars: 65)
 - **[IntelOwl](https://github.com/intelowlproject/IntelOwl)** - IntelOwl: manage your Threat Intelligence at scale
   - Created by [intelowlproject](https://github.com/intelowlproject) on 2019-12-31
-  - Last updated on 2026-07-04. (Stars: 4612)
+  - Last updated on 2026-07-12. (Stars: 4617)
 - **[IntelRecon](https://github.com/BhavikaBhoir/IntelRecon)** - IntelRecon — OSINT & Reconnaissance Toolkit for domain intelligence, IP investigation, DNS analysis, SSL inspection and threat detection.
   - Created by [BhavikaBhoir](https://github.com/BhavikaBhoir) on 2026-05-15
   - Last updated on 2026-05-15. (Stars: 0)
@@ -120,25 +123,31 @@
   - Last updated on 2026-05-18. (Stars: 8)
 - **[MailAccess](https://github.com/KatrielMoses/MailAccess)** - Free email OSINT tool, 2500+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess
   - Created by [KatrielMoses](https://github.com/KatrielMoses) on 2026-05-18
-  - Last updated on 2026-07-05. (Stars: 196)
+  - Last updated on 2026-07-11. (Stars: 200)
 - **[MailTrace](https://github.com/dhanrajtaware/MailTrace)** - Email Intelligence & Investigation Platform for OSINT, DFIR and Cybersecurity Investigations.
   - Created by [dhanrajtaware](https://github.com/dhanrajtaware) on 2026-06-04
-  - Last updated on 2026-06-09. (Stars: 11)
+  - Last updated on 2026-07-08. (Stars: 12)
 - **[ProtOSINT](https://github.com/pixelbubble/ProtOSINT)** - ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
   - Created by [pixelbubble](https://github.com/pixelbubble) on 2020-12-08
-  - Last updated on 2026-07-01. (Stars: 416)
+  - Last updated on 2026-07-07. (Stars: 415)
 - **[ProtonScope](https://github.com/emrekybs/ProtonScope)** - ProtonScope is a lightweight and fast OSINT tool designed to extract intelligence from email addresses with a focus on ProtonMail infrastructure.
   - Created by [emrekybs](https://github.com/emrekybs) on 2026-03-31
   - Last updated on 2026-06-23. (Stars: 1)
 - **[mosint](https://github.com/alpkeskin/mosint)** - An automated e-mail OSINT tool
   - Created by [alpkeskin](https://github.com/alpkeskin) on 2020-09-27
-  - Last updated on 2026-07-05. (Stars: 5916)
+  - Last updated on 2026-07-12. (Stars: 5930)
+
+### Forensics
+
+- **[DroneXtract](https://github.com/ANG13T/DroneXtract)** - DroneXtract is a digital forensics suite for DJI drones 🔍.  Analyze sensor values, visualize flight maps, and audit for criminal activity 🗺
+  - Created by [ANG13T](https://github.com/ANG13T) on 2023-05-14
+  - Last updated on 2026-07-09. (Stars: 361)
 
 ### Framework
 
 - **[OSINT-Framework](https://github.com/lockfale/OSINT-Framework)** - OSINT Framework
   - Created by [lockfale](https://github.com/lockfale) on 2015-12-19
-  - Last updated on 2026-07-05. (Stars: 11626)
+  - Last updated on 2026-07-12. (Stars: 11676)
 - **[OSINT_Framework_Mission_Intelligence](https://github.com/JeanDevenish/OSINT_Framework_Mission_Intelligence)** - A mission-oriented fork of the [OSINT Framework](https://osintframework.com) by [@jnordine](https://github.com/lockfale/OSINT-Framework), reimagined for investigators, journalists, and law enforcement.
   - Created by [JeanDevenish](https://github.com/JeanDevenish) on 2026-04-01
   - Last updated on 2026-04-30. (Stars: 1)
@@ -162,25 +171,25 @@
   - Last updated on 2026-04-03. (Stars: 1)
 - **[OSINT-Mapping-Tool](https://github.com/anonymousRAID/OSINT-Mapping-Tool)** - An OSINT Mapping tool for research.
   - Created by [anonymousRAID](https://github.com/anonymousRAID) on 2026-05-18
-  - Last updated on 2026-07-05. (Stars: 474)
+  - Last updated on 2026-07-11. (Stars: 488)
 - **[OSINT-Profiler](https://github.com/jerald-6/OSINT-Profiler)** - OSINT Profiler is a powerful open intelligence investigation tool — investigate emails, phones & usernames with GUI/CLI, confidence scoring, Sherlock/Holehe integration, and multi-format reporting.
   - Created by [jerald-6](https://github.com/jerald-6) on 2026-04-30
   - Last updated on 2026-05-02. (Stars: 2)
 - **[OSINT-map](https://github.com/Cyb3r-Pony/OSINT-map)** - Interactive intelligence gathering framework featuring OSINT, threat intelligence, and cyber investigation tools with real-time search, category filtering, and a neon cyberpunk UI.
   - Created by [Cyb3r-Pony](https://github.com/Cyb3r-Pony) on 2026-02-26
-  - Last updated on 2026-03-14. (Stars: 1)
+  - Last updated on 2026-07-11. (Stars: 0)
 - **[Optimum-OSINT](https://github.com/ofsociety127-maker/Optimum-OSINT)** - Optimum OSINT is a multi-purpose open-source intelligence toolkit designed for investigations across Discord, social media, and public data sources, providing efficient methods for data collection, analysis, and reconnaissance.
   - Created by [ofsociety127-maker](https://github.com/ofsociety127-maker) on 2026-04-05
   - Last updated on 2026-04-16. (Stars: 3)
 - **[WebSift](https://github.com/s-r-e-e-r-a-j/WebSift)** - WebSift is an OSINT ethical hacking tool designed to scrape and extract emails, phone numbers, and social media links or other URLs from websites. It is developed for Termux and Linux-based systems
   - Created by [s-r-e-e-r-a-j](https://github.com/s-r-e-e-r-a-j) on 2024-12-14
-  - Last updated on 2026-07-04. (Stars: 542)
+  - Last updated on 2026-07-12. (Stars: 546)
 - **[awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal)** - 🔍 Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more.
   - Created by [rawfilejson](https://github.com/rawfilejson) on 2026-04-12
-  - Last updated on 2026-07-05. (Stars: 1168)
+  - Last updated on 2026-07-12. (Stars: 1373)
 - **[bbot](https://github.com/blacklanternsecurity/bbot)** - The recursive internet scanner for hackers. 🧡
   - Created by [blacklanternsecurity](https://github.com/blacklanternsecurity) on 2022-03-12
-  - Last updated on 2026-07-05. (Stars: 10088)
+  - Last updated on 2026-07-12. (Stars: 10136)
 - **[cyclops](https://github.com/smoke-wolf/cyclops)** - Unified OSINT targeting pipeline — 32 connectors, entity graph correlation, auto-reporting. pip install cyclops-osint
   - Created by [smoke-wolf](https://github.com/smoke-wolf) on 2026-04-24
   - Last updated on 2026-04-29. (Stars: 2)
@@ -192,19 +201,19 @@
   - Last updated on 2026-04-06. (Stars: 0)
 - **[nameintel](https://github.com/pawanhirumina/nameintel)** - A powerful Python-based OSINT (Open Source Intelligence) tool for investigating usernames, extracting file metadata, and performing reverse image searches.
   - Created by [pawanhirumina](https://github.com/pawanhirumina) on 2026-02-16
-  - Last updated on 2026-02-16. (Stars: 0)
+  - Last updated on 2026-07-09. (Stars: 0)
 - **[osint-intelligence-engine](https://github.com/linexsoft/osint-intelligence-engine)** - Advanced OSINT dork generator for person, company, domain/IP and breach investigation. 100+ auto-generated Google queries, 6 search engines, built-in tools (hash identifier, email validator, phone analyzer, username scanner). TR/EN support. Built with Python & CustomTkinter.
   - Created by [linexsoft](https://github.com/linexsoft) on 2026-04-01
   - Last updated on 2026-04-01. (Stars: 0)
 - **[raven](https://github.com/aasimxyz/raven)** - Advanced OSINT platform for high-performance intelligence collection. Features highly concurrent target scanning, automated dossier generation, and a powerful React-based visualizer.
   - Created by [aasimxyz](https://github.com/aasimxyz) on 2026-06-11
-  - Last updated on 2026-06-24. (Stars: 1)
+  - Last updated on 2026-07-07. (Stars: 1)
 
 ### LEO Tools
 
 - **[anxwritter](https://github.com/gustavo-gkmi/anxwritter)** - Generate i2 Analyst's Notebook (.anx) charts from Python, JSON, or YAML
   - Created by [gustavo-gkmi](https://github.com/gustavo-gkmi) on 2026-05-04
-  - Last updated on 2026-06-29. (Stars: 0)
+  - Last updated on 2026-07-08. (Stars: 0)
 
 ### Leaks
 
@@ -216,7 +225,7 @@
 
 - **[Universal-News-Scraper](https://github.com/Ilias1988/Universal-News-Scraper)** - A robust CLI news scraper and aggregator. Features topic auto-discovery (via Bing RSS), anti-blocking logic, keyword/date filtering, and JSON/CSV export. Built with Python & Rich.
   - Created by [Ilias1988](https://github.com/Ilias1988) on 2026-01-21
-  - Last updated on 2026-06-23. (Stars: 14)
+  - Last updated on 2026-07-08. (Stars: 13)
 
 ### PDF
 
@@ -234,7 +243,7 @@
   - Last updated on 2026-04-11. (Stars: 0)
 - **[TelespotXX](https://github.com/thumpersecure/TelespotXX)** - 👁️‍🗨️ Telespot , TelespotX, and Telespotter ... all in ONE web app for easier use for all OSINT Specialists.
   - Created by [thumpersecure](https://github.com/thumpersecure) on 2026-01-06
-  - Last updated on 2026-06-22. (Stars: 24)
+  - Last updated on 2026-07-06. (Stars: 25)
 - **[osintm](https://github.com/snooptsz/osintm)** - No description provided.
   - Created by [snooptsz](https://github.com/snooptsz) on 2026-05-14
   - Last updated on 2026-05-25. (Stars: 2)
@@ -246,7 +255,7 @@
 
 - **[Osintgram](https://github.com/Datalux/Osintgram)** - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
   - Created by [Datalux](https://github.com/Datalux) on 2019-06-07
-  - Last updated on 2026-07-05. (Stars: 13388)
+  - Last updated on 2026-07-12. (Stars: 13480)
 - **[osint-bot](https://github.com/gamingextra/osint-bot)** - 🕵️ OSINT Investigation Bot - 22 Telegram modules for ethical intelligence gathering
   - Created by [gamingextra](https://github.com/gamingextra) on 2026-05-24
   - Last updated on 2026-06-18. (Stars: 0)
@@ -258,13 +267,13 @@
 
 - **[sporTracker](https://github.com/mrofcodyx/sporTracker)** - SporTracker is an OSINT tool designed to collect and organize publicly available information from multiple online sources. It helps investigators and researchers track digital footprints, analyze connections, and gather intelligence from open data quickly and efficiently. 🔎🌐
   - Created by [mrofcodyx](https://github.com/mrofcodyx) on 2026-04-01
-  - Last updated on 2026-06-02. (Stars: 13)
+  - Last updated on 2026-07-08. (Stars: 14)
 
 ### Surveillance
 
 - **[Project-Eyes-On](https://github.com/Y0oshi/Project-Eyes-On)** - Project Eyes On is a high-speed, multi-threaded surveillance tool by Y0oshi (@rde0) for locating open IP cameras worldwide. Unifies Google Dorking and Directory Scraping into a single OSINT engine.
   - Created by [Y0oshi](https://github.com/Y0oshi) on 2026-01-10
-  - Last updated on 2026-06-30. (Stars: 90)
+  - Last updated on 2026-07-11. (Stars: 119)
 
 ### Threat Intel
 
@@ -279,13 +288,13 @@
   - Last updated on 2026-07-01. (Stars: 137)
 - **[maigret](https://github.com/soxoj/maigret)** - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
   - Created by [soxoj](https://github.com/soxoj) on 2020-06-27
-  - Last updated on 2026-07-05. (Stars: 34922)
+  - Last updated on 2026-07-12. (Stars: 35282)
 - **[sherlock](https://github.com/2FXXD/sherlock)** - Hunt down social media accounts by username across social networks
   - Created by [2FXXD](https://github.com/2FXXD) on 2025-05-21
   - Last updated on 2026-02-19. (Stars: 1)
 - **[trufflehog](https://github.com/trufflesecurity/trufflehog)** - Find, verify, and analyze leaked credentials
   - Created by [trufflesecurity](https://github.com/trufflesecurity) on 2016-12-31
-  - Last updated on 2026-07-05. (Stars: 26956)
+  - Last updated on 2026-07-12. (Stars: 27021)
 
 
 ### General OSINT tools

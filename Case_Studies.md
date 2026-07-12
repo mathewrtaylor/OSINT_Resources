@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-07-05 -->
+<!-- Reviewed on 2026-07-12 -->
 
 ## Case Studies
 
@@ -48,7 +48,7 @@
 
 - **[ObsidianGroup_Epstein](https://github.com/jpuckett11/ObsidianGroup_Epstein)** - 688+ hours | 3.5M documents read | The Epstein Investigation — Evidence Edition + When Lady Justice Was Truly Blind (Documentary) | EFTA corpus | Victim diary | Flight logs | FBI case files | OSINT
   - Created by [jpuckett11](https://github.com/jpuckett11) on 2026-05-27
-  - Last updated on 2026-07-01. (Stars: 1)
+  - Last updated on 2026-07-11. (Stars: 2)
 
 ### General OSINT tools
 

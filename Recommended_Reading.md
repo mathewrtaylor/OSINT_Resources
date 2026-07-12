@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-07-05 -->
+<!-- Reviewed on 2026-07-12 -->
 
 ## GitHub Resources
 
@@ -14,11 +14,17 @@
   - Created by [yottajunaid](https://github.com/yottajunaid) on 2026-02-22
   - Last updated on 2026-06-02. (Stars: 2)
 
+### General OSINT
+
+- **[The-Open-Source-Intelligence-Bible](https://github.com/cloudstreet-dev/The-Open-Source-Intelligence-Bible)** - OSINT in 2026
+  - Created by [cloudstreet-dev](https://github.com/cloudstreet-dev) on 2026-02-26
+  - Last updated on 2026-03-30. (Stars: 4)
+
 ### General OSINT tools
 
 - **[OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE)** - A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
   - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2025-12-24
-  - Last updated on 2026-07-05. (Stars: 576)
+  - Last updated on 2026-07-12. (Stars: 598)
 - **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
   - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
   - Last updated on 2026-05-04. (Stars: 0)
@@ -27,13 +33,13 @@
 
 - **[OSINT-newsletters](https://github.com/ubikron/OSINT-newsletters)** - List of OSINT newsletters
   - Created by [ubikron](https://github.com/ubikron) on 2026-01-16
-  - Last updated on 2026-06-30. (Stars: 32)
+  - Last updated on 2026-07-07. (Stars: 31)
 
 ### Professionals
 
 - **[OSINT-People](https://github.com/ubikron/OSINT-People)** - List of interesting and active OSINT researchers/bloggers
   - Created by [ubikron](https://github.com/ubikron) on 2026-01-20
-  - Last updated on 2026-06-30. (Stars: 38)
+  - Last updated on 2026-07-10. (Stars: 36)
 
 
 ### Blogs and Training Content
