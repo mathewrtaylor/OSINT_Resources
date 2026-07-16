@@ -1,8 +1,16 @@
+import re
+
 START = "<!-- MOVERS_START -->"
 END = "<!-- MOVERS_END -->"
 
+# The README shows a dedicated banner (section-star-movers.svg) in place of a
+# text heading, so strip Movers.md's own "# Star Movers ..." heading here.
+HEADING = re.compile(r"^# Star Movers.*\n\n?", re.MULTILINE)
+
 with open("Movers.md") as f:
     body = "".join(f.readlines()[2:]).strip()
+
+body = HEADING.sub("", body, count=1).strip()
 
 block = f"{START}\n{body}\n{END}\n"
 

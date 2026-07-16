@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-hidden="true">
+  <title>Removed icon</title>
+  <g fill="none" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="8" width="16" height="11" rx="1.4"/>
+    <path d="M4 8l1.6-3.5h12.8L20 8"/>
+    <line x1="9" y1="13.5" x2="15" y2="13.5"/>
+  </g>
+</svg>

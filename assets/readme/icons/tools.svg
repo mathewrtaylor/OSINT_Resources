@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-hidden="true">
+  <title>Tools icon</title>
+  <g fill="none" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.5" y="9.5" width="17" height="10" rx="1.5"/>
+    <path d="M8 9.5V7a1.5 1.5 0 0 1 1.5-1.5h5A1.5 1.5 0 0 1 16 7v2.5"/>
+    <line x1="3.5" y1="14" x2="9.2" y2="14"/>
+    <line x1="14.8" y1="14" x2="20.5" y2="14"/>
+    <rect x="9.2" y="12.6" width="5.6" height="3" rx="0.6"/>
+  </g>
+</svg>

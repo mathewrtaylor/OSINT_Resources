@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="380" viewBox="0 0 1200 380"
+     role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">OSINT_Resources</title>
+  <desc id="hero-desc">A curated, weekly-refreshed collection of open-source intelligence tools, techniques, and reading, mapped as a linked case board of categories with approximate resource counts.</desc>
+
+  <defs>
+    <clipPath id="frame-clip">
+      <rect width="1200" height="380" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-clip)">
+    <rect width="1200" height="380" fill="#0b0e12"/>
+    <!-- faint measured grid, restrained -->
+    <g stroke="#161b21" stroke-width="1">
+      <line x1="0" y1="126" x2="1200" y2="126"/>
+      <line x1="0" y1="253" x2="1200" y2="253"/>
+    </g>
+    <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="25.25" fill="none" stroke="#1d232b" stroke-width="1.5"/>
+  </g>
+
+  <!-- title block -->
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="56" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" letter-spacing="2.5" fill="#7a8592">OPEN-SOURCE INTELLIGENCE &#183; CURATED COLLECTION</text>
+
+    <text x="56" y="122" font-size="46" font-weight="700" fill="#e9edf1">OSINT<tspan fill="#ffb020">_</tspan>Resources</text>
+
+    <text x="56" y="168" font-size="19" fill="#c3cad2">A living map of vetted tools, techniques, and reading</text>
+    <text x="56" y="195" font-size="19" fill="#c3cad2">for open-source investigators.</text>
+
+    <!-- dossier stamps -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" letter-spacing="1">
+      <g transform="translate(56 234)">
+        <rect width="150" height="34" rx="6" fill="none" stroke="#3a4650" stroke-width="1.25"/>
+        <text x="14" y="22" fill="#e9edf1">11 CATEGORIES</text>
+      </g>
+      <g transform="translate(216 234)">
+        <rect width="150" height="34" rx="6" fill="none" stroke="#3a4650" stroke-width="1.25"/>
+        <text x="14" y="22" fill="#e9edf1">400+ RESOURCES</text>
+      </g>
+      <g transform="translate(376 234)">
+        <rect width="168" height="34" rx="6" fill="none" stroke="#ffb020" stroke-width="1.25"/>
+        <circle cx="16" cy="17" r="4" fill="#6fe3a8"/>
+        <text x="30" y="22" fill="#ffb020">REVIEWED WEEKLY</text>
+      </g>
+    </g>
+
+    <text x="56" y="322" font-size="14.5" fill="#7a8592">See an active resource we're missing? <tspan fill="#c3cad2">Open an issue.</tspan></text>
+  </g>
+
+  <!-- case board / project-native visual material: category link chart -->
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <!-- hub reticle -->
+    <g transform="translate(888 56)" stroke="#ffb020" stroke-width="1.5" fill="none">
+      <circle r="11"/>
+      <circle r="3.4" fill="#ffb020" stroke="none"/>
+      <line x1="0" y1="-19" x2="0" y2="-13"/>
+      <line x1="0" y1="19" x2="0" y2="13"/>
+      <line x1="-19" y1="0" x2="-13" y2="0"/>
+      <line x1="19" y1="0" x2="13" y2="0"/>
+    </g>
+    <text x="888" y="34" font-size="12" letter-spacing="1.5" fill="#7a8592" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">CASE MAP</text>
+
+    <!-- link lines from hub to each card pin -->
+    <g stroke="#3a4650" stroke-width="1.25" opacity="0.9">
+      <line x1="888" y1="66" x2="636" y2="112"/>
+      <line x1="888" y1="66" x2="816" y2="112"/>
+      <line x1="888" y1="66" x2="996" y2="112"/>
+      <line x1="888" y1="66" x2="636" y2="208"/>
+      <line x1="888" y1="66" x2="816" y2="208"/>
+      <line x1="888" y1="66" x2="996" y2="208"/>
+    </g>
+
+    <!-- category cards -->
+    <g>
+      <!-- row 1 -->
+      <g transform="translate(620 100)">
+        <rect width="160" height="68" rx="10" fill="#12161b" stroke="#262e37" stroke-width="1.25"/>
+        <circle cx="16" cy="12" r="3.4" fill="#ffb020"/>
+        <text x="14" y="42" font-size="11.5" letter-spacing="0.8" fill="#8b95a1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">TOOLS</text>
+        <text x="14" y="60" font-size="21" font-weight="700" fill="#e9edf1">~90</text>
+      </g>
+      <g transform="translate(800 100)">
+        <rect width="160" height="68" rx="10" fill="#12161b" stroke="#262e37" stroke-width="1.25"/>
+        <circle cx="16" cy="12" r="3.4" fill="#ffb020"/>
+        <text x="14" y="42" font-size="11.5" letter-spacing="0.8" fill="#8b95a1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">AI TOOLS</text>
+        <text x="14" y="60" font-size="21" font-weight="700" fill="#e9edf1">~65</text>
+      </g>
+      <g transform="translate(980 100)">
+        <rect width="160" height="68" rx="10" fill="#12161b" stroke="#262e37" stroke-width="1.25"/>
+        <circle cx="16" cy="12" r="3.4" fill="#ffb020"/>
+        <text x="14" y="42" font-size="11.5" letter-spacing="0.8" fill="#8b95a1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">US INVESTIGATIONS</text>
+        <text x="14" y="60" font-size="21" font-weight="700" fill="#e9edf1">~90</text>
+      </g>
+      <!-- row 2 -->
+      <g transform="translate(620 196)">
+        <rect width="160" height="68" rx="10" fill="#12161b" stroke="#262e37" stroke-width="1.25"/>
+        <circle cx="16" cy="12" r="3.4" fill="#ffb020"/>
+        <text x="14" y="42" font-size="11.5" letter-spacing="0.8" fill="#8b95a1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">GEOLOCATION</text>
+        <text x="14" y="60" font-size="21" font-weight="700" fill="#e9edf1">~25</text>
+      </g>
+      <g transform="translate(800 196)">
+        <rect width="160" height="68" rx="10" fill="#12161b" stroke="#262e37" stroke-width="1.25"/>
+        <circle cx="16" cy="12" r="3.4" fill="#ffb020"/>
+        <text x="14" y="42" font-size="11.5" letter-spacing="0.8" fill="#8b95a1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">READING</text>
+        <text x="14" y="60" font-size="21" font-weight="700" fill="#e9edf1">~35</text>
+      </g>
+      <g transform="translate(980 196)">
+        <rect width="160" height="68" rx="10" fill="#12161b" stroke="#262e37" stroke-width="1.25"/>
+        <circle cx="16" cy="12" r="3.4" fill="#ffb020"/>
+        <text x="14" y="42" font-size="11.5" letter-spacing="0.8" fill="#8b95a1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">BOOKMARKS</text>
+        <text x="14" y="60" font-size="21" font-weight="700" fill="#e9edf1">~40</text>
+      </g>
+    </g>
+
+    <text x="888" y="302" font-size="12" fill="#576270" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">counts approximate &#183; refreshed weekly</text>
+  </g>
+</svg>
