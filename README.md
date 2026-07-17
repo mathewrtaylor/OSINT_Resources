@@ -21,16 +21,16 @@ Repositories with the highest star gain over the last 30 days.
 
 | Rank | Repository | Star Gain | Total Stars |
 |------|-----------|-----------|-------------|
-| 1 | [worldmonitor](https://github.com/koala73/worldmonitor) | +5893 ★ | 61,367 |
-| 2 | [maigret](https://github.com/soxoj/maigret) | +3702 ★ | 34,922 |
-| 3 | [osiris](https://github.com/simplifaisoul/osiris) | +2232 ★ | 6,433 |
-| 4 | [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | +680 ★ | 1,168 |
-| 5 | [robin](https://github.com/apurvsinghgautam/robin) | +478 ★ | 5,797 |
-| 6 | [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | +461 ★ | 906 |
-| 7 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +435 ★ | 2,542 |
-| 8 | [spyder-osint](https://github.com/tq17oa7/spyder-osint) | +399 ★ | 622 |
-| 9 | [Osintgram](https://github.com/Datalux/Osintgram) | +346 ★ | 13,388 |
-| 10 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | +284 ★ | 1,894 |
+| 1 | [worldmonitor](https://github.com/koala73/worldmonitor) | +5589 ★ | 61,754 |
+| 2 | [maigret](https://github.com/soxoj/maigret) | +3799 ★ | 35,282 |
+| 3 | [osiris](https://github.com/simplifaisoul/osiris) | +1596 ★ | 6,730 |
+| 4 | [flowsint](https://github.com/reconurge/flowsint) | +929 ★ | 7,260 |
+| 5 | [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | +852 ★ | 1,373 |
+| 6 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | +572 ★ | 9,693 |
+| 7 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +488 ★ | 2,645 |
+| 8 | [robin](https://github.com/apurvsinghgautam/robin) | +464 ★ | 5,896 |
+| 9 | [spyder-osint](https://github.com/tq17oa7/spyder-osint) | +399 ★ | 622 |
+| 10 | [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | +378 ★ | 966 |
 <!-- MOVERS_END -->
 
 ---
@@ -47,7 +47,7 @@ _Counts are an approximate snapshot — refreshed weekly._
 |---|---|---|
 | <img src="./assets/readme/icons/tools.svg" width="18" height="18" alt=""> [Tools](./Tools.md) | ~90 | Single-purpose OSINT tools — username lookups, email investigation, social media recon |
 | <img src="./assets/readme/icons/toolsets.svg" width="18" height="18" alt=""> [Tool Sets](./Tool_Sets.md) | ~35 | Multi-function platforms and frameworks that bundle several investigative capabilities |
-| <img src="./assets/readme/icons/ai-tools.svg" width="18" height="18" alt=""> [AI Tools](./AI_Tools.md) | ~65 | AI/ML-integrated OSINT workflows — automated gathering, dark web monitoring, AI-assisted recon |
+| <img src="./assets/readme/icons/ai-tools.svg" width="18" height="18" alt=""> [AI Tools](./AI_Tools.md) | ~70 | AI/ML-integrated OSINT workflows — automated gathering, dark web monitoring, AI-assisted recon |
 
 ### `02` Techniques & Investigation Types
 
@@ -63,13 +63,13 @@ _Counts are an approximate snapshot — refreshed weekly._
 | Category | Resources | What's inside |
 |---|---|---|
 | <img src="./assets/readme/icons/reading.svg" width="18" height="18" alt=""> [Recommended Reading](./Recommended_Reading.md) | ~35 | Blogs, training videos, GitHub tutorials, and OSINT learning content |
-| <img src="./assets/readme/icons/library.svg" width="18" height="18" alt=""> [Library](./Library.md) | 12 | Book recommendations with author, publication details, and investigator-focused summaries |
+| <img src="./assets/readme/icons/library.svg" width="18" height="18" alt=""> [Library](./Library.md) | 13 | Book recommendations with author, publication details, and investigator-focused summaries |
 
 ### `04` Collections & Archives
 
 | Category | Resources | What's inside |
 |---|---|---|
-| <img src="./assets/readme/icons/bookmarks.svg" width="18" height="18" alt=""> [Bookmarks](./Bookmarks.md) | ~40 | Curated OSINT repo lists, framework collections, community-maintained hubs |
+| <img src="./assets/readme/icons/bookmarks.svg" width="18" height="18" alt=""> [Bookmarks](./Bookmarks.md) | ~45 | Curated OSINT repo lists, framework collections, community-maintained hubs |
 | <img src="./assets/readme/icons/case-studies.svg" width="18" height="18" alt=""> [Case Studies](./Case_Studies.md) | ~15 | Real and fictional investigation case studies for learning technique and methodology |
 
 ### `05` Maintenance
