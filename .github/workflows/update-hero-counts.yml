@@ -30,5 +30,6 @@ jobs:
           git diff --quiet assets/readme/hero.svg || (
             git add assets/readme/hero.svg &&
             git commit -m "chore: refresh hero.svg category counts" &&
+            git pull --rebase origin main &&
             git push
           )
