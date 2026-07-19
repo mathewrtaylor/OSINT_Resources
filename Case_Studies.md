@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-07-12 -->
+<!-- Reviewed on 2026-07-19 -->
 
 ## Case Studies
 
@@ -19,6 +19,9 @@
 - **[Threat-Intelligence-Investigations](https://github.com/Minh1402-lap/Threat-Intelligence-Investigations)** - Threat Intelligence, OSINT and Security Investigation Projects
   - Created by [Minh1402-lap](https://github.com/Minh1402-lap) on 2026-06-18
   - Last updated on 2026-06-18. (Stars: 0)
+- **[WEEK-2-Search-Intelligence](https://github.com/Atchaya-ravi10/WEEK-2-Search-Intelligence)** - Focused on Search Intelligence through advanced Google Dorking, GHDB analysis, search automation, multi-engine OSINT, reusable dork documentation, and a Fortune 500 investigation using passive, publicly available information.
+  - Created by [Atchaya-ravi10](https://github.com/Atchaya-ravi10) on 2026-07-18
+  - Last updated on 2026-07-18. (Stars: 0)
 
 ### "Threat Actor Profile"
 

@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-07-12 -->
+<!-- Reviewed on 2026-07-19 -->
 
 ## Geolocation Resources
 
@@ -36,13 +36,13 @@
   - Last updated on 2026-07-01. (Stars: 1)
 - **[Zhetikal_OSINT_tracker](https://github.com/jollncoelho/Zhetikal_OSINT_tracker)** - Zhétical OSINT Hub | Expert en investigation numérique & cybersécurité. Créateur de Ghostint-Tools. Passionné par l'OPSEC et la protection des mineurs en ligne
   - Created by [jollncoelho](https://github.com/jollncoelho) on 2026-05-11
-  - Last updated on 2026-07-06. (Stars: 2)
+  - Last updated on 2026-07-19. (Stars: 2)
 
 ### Investigation Resources by Geo
 
 - **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** - Ireland Criminal Intelligence Platform - Monitoring crime- Analist
   - Created by [Condor2026](https://github.com/Condor2026) on 2026-06-11
-  - Last updated on 2026-06-14. (Stars: 0)
+  - Last updated on 2026-07-18. (Stars: 0)
 
 
 ### General OSINT tools
