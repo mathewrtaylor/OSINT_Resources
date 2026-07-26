@@ -1,22 +1,30 @@
-<!-- Reviewed on 2026-07-19 -->
+<!-- Reviewed on 2026-07-26 -->
 
 ## Image Tools
 
-### Image Tools
-
-- **[eye_of_web](https://github.com/MehmetYukselSekeroglu/eye_of_web)** - State of the art OSINT tool. | A powerful open-source alternative to other face search engines. 
-  - Created by [MehmetYukselSekeroglu](https://github.com/MehmetYukselSekeroglu) on 2025-12-31
-  - Last updated on 2026-07-16. (Stars: 303)
+### DFIR
 
 - **[Depixelization_poc](https://github.com/spipm/Depixelization_poc)** - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
   - Created by [spipm](https://github.com/spipm) on 2020-12-06
-  - Last updated on 2026-07-19. (Stars: 4547)
+  - Last updated on 2026-07-25. (Stars: 4548)
 - **[NSphotoX](https://github.com/NaitikSoni1417/NSphotoX)** - NSphotoX is an advanced image OSINT & metadata forensics toolkit built for ethical cybersecurity research and digital investigations. Features include EXIF analysis, GPS intelligence, OCR, hashing, AI risk analysis, HTML/PDF reports, reverse image search links, and cyberpunk-style forensic dashboards.
   - Created by [NaitikSoni1417](https://github.com/NaitikSoni1417) on 2026-05-16
   - Last updated on 2026-05-31. (Stars: 10)
 - **[Pro-Metadata-Purifier-](https://github.com/Cyber-knose/Pro-Metadata-Purifier-)** - Pro Meta Data Purifier is an advanced Cyber Forensics and Metadata Intelligence platform developed to perform deep forensic analysis on digital files and uncover hidden information embedded within them. The application is designed for cybersecurity professionals, digital investigators, OSINT researchers, ethical hackers, and forensic .
   - Created by [Cyber-knose](https://github.com/Cyber-knose) on 2026-05-31
-  - Last updated on 2026-05-31. (Stars: 0)
+  - Last updated on 2026-07-26. (Stars: 0)
+
+### Geolocation
+
+- **[Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics)** - ❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
+  - Created by [Refloow](https://github.com/Refloow) on 2026-02-04
+  - Last updated on 2026-07-23. (Stars: 183)
+
+### Image Tools
+
+- **[eye_of_web](https://github.com/MehmetYukselSekeroglu/eye_of_web)** - State of the art OSINT tool. | A powerful open-source alternative to other face search engines. 
+  - Created by [MehmetYukselSekeroglu](https://github.com/MehmetYukselSekeroglu) on 2025-12-31
+  - Last updated on 2026-07-26. (Stars: 306)
 
 
 ### Image Tools
