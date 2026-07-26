@@ -6,6 +6,10 @@ on:
     paths:
       - 'Movers.md'
 
+concurrency:
+  group: main-auto-commit
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

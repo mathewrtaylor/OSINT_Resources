@@ -11,6 +11,10 @@ on:
       - 'Recommended_Reading.md'
       - 'Bookmarks.md'
 
+concurrency:
+  group: main-auto-commit
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
