@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-07-26 -->
+<!-- Reviewed on 2026-08-02 -->
 
 ## Bookmarks
 
@@ -6,19 +6,19 @@
 
 - **[Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT)** - A list of articles, videos, and tools related to the use of AI for OSINT.
   - Created by [ubikron](https://github.com/ubikron) on 2025-08-25
-  - Last updated on 2026-07-24. (Stars: 731)
+  - Last updated on 2026-08-02. (Stars: 735)
 
 ### DFIR
 
 - **[Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)** - Digital Forensics Guide. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics.
   - Created by [mikeroyal](https://github.com/mikeroyal) on 2021-08-06
-  - Last updated on 2026-07-26. (Stars: 3020)
+  - Last updated on 2026-08-02. (Stars: 3072)
 - **[awesome-forensics](https://github.com/cugu/awesome-forensics)** - ⭐️ A curated list of awesome forensic analysis tools and resources
   - Created by [cugu](https://github.com/cugu) on 2016-03-29
-  - Last updated on 2026-07-24. (Stars: 5142)
+  - Last updated on 2026-08-02. (Stars: 5143)
 - **[awesome-lists](https://github.com/mthcht/awesome-lists)** - Awesome Security lists for SOC/CERT/CTI
   - Created by [mthcht](https://github.com/mthcht) on 2022-12-11
-  - Last updated on 2026-07-26. (Stars: 1794)
+  - Last updated on 2026-08-02. (Stars: 1838)
 
 ### Dark Web
 
@@ -36,28 +36,31 @@
 
 - **[Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List)** - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
   - Created by [Astrosp](https://github.com/Astrosp) on 2022-09-16
-  - Last updated on 2026-07-26. (Stars: 3881)
+  - Last updated on 2026-08-02. (Stars: 3950)
 - **[Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)** - A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
   - Created by [K2SOsint](https://github.com/K2SOsint) on 2025-09-12
-  - Last updated on 2026-07-25. (Stars: 925)
+  - Last updated on 2026-08-01. (Stars: 927)
 - **[OSINT](https://github.com/b4h4w/OSINT)** - Curated list of tools and resources for open-source intelligence investigation.
   - Created by [b4h4w](https://github.com/b4h4w) on 2026-05-06
   - Last updated on 2026-05-10. (Stars: 1)
 - **[OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)** - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
   - Created by [Jieyab89](https://github.com/Jieyab89) on 2021-11-22
-  - Last updated on 2026-07-26. (Stars: 2094)
+  - Last updated on 2026-08-02. (Stars: 2108)
 - **[OSINT-Tools-Library](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)** - A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community.
   - Created by [The-OSINT-Newsletter](https://github.com/The-OSINT-Newsletter) on 2026-03-21
-  - Last updated on 2026-07-26. (Stars: 69)
+  - Last updated on 2026-08-01. (Stars: 77)
 - **[Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)** - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
   - Created by [BushidoUK](https://github.com/BushidoUK) on 2020-01-16
-  - Last updated on 2026-07-20. (Stars: 811)
+  - Last updated on 2026-08-01. (Stars: 813)
 - **[awesome-osint](https://github.com/jivoi/awesome-osint)** - :scream: A curated list of amazingly awesome OSINT
   - Created by [jivoi](https://github.com/jivoi) on 2016-11-30
-  - Last updated on 2026-07-26. (Stars: 27656)
+  - Last updated on 2026-08-02. (Stars: 27802)
 - **[gl0bal01](https://github.com/gl0bal01/gl0bal01)** - AppSec, OSINT & DFIR enthusiast developing investigation tools, Discord bots, and security automation systems.
   - Created by [gl0bal01](https://github.com/gl0bal01) on 2024-06-26
-  - Last updated on 2026-07-26. (Stars: 3)
+  - Last updated on 2026-08-02. (Stars: 3)
+- **[linacre-osint-hud](https://github.com/LIN4CRE/linacre-osint-hud)** - 🛰️ Dark glass OSINT heads-up display — 1,310 curated open-source intelligence tools from the OSINT4ALL collection, in one self-contained HTML console. Part of linacre.site.
+  - Created by [LIN4CRE](https://github.com/LIN4CRE) on 2026-07-30
+  - Last updated on 2026-07-30. (Stars: 0)
 - **[osint-recon-hub](https://github.com/pandey-saket/osint-recon-hub)** - A curated collection of free OSINT tools and resources for social media recon, email/IP/phone investigation, GEOINT, reverse image search, threat intelligence, and digital forensics — plus free learning resources to get started with OSINT. For ethical and authorized investigative use only.
   - Created by [pandey-saket](https://github.com/pandey-saket) on 2026-06-17
   - Last updated on 2026-07-21. (Stars: 5)
@@ -66,34 +69,43 @@
   - Last updated on 2026-06-06. (Stars: 0)
 - **[osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)** - A collection of several hundred online tools for OSINT
   - Created by [cipher387](https://github.com/cipher387) on 2021-06-08
-  - Last updated on 2026-07-26. (Stars: 8541)
+  - Last updated on 2026-08-02. (Stars: 8614)
 - **[poiskovie_i_OSINT_instrumenti](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)** - Лучшие инструменты для OSINT, поиска информации, пробива и разведки в Интернете!
   - Created by [osint-and-search](https://github.com/osint-and-search) on 2026-05-26
-  - Last updated on 2026-07-26. (Stars: 7)
+  - Last updated on 2026-08-02. (Stars: 19)
 
 ### Social Media
 
 - **[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)** - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
   - Created by [ItIsMeCall911](https://github.com/ItIsMeCall911) on 2021-05-16
-  - Last updated on 2026-07-25. (Stars: 2798)
+  - Last updated on 2026-08-02. (Stars: 2808)
 - **[Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT)** - Social Media OSINT collection containing - tools, techniques & tradecraft.
   - Created by [The-Osint-Toolbox](https://github.com/The-Osint-Toolbox) on 2023-03-19
-  - Last updated on 2026-07-23. (Stars: 927)
+  - Last updated on 2026-08-02. (Stars: 947)
 
 ### Threat Intel
 
 - **[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)** - A curated list of Awesome Threat Intelligence resources
   - Created by [hslatman](https://github.com/hslatman) on 2015-12-21
-  - Last updated on 2026-07-26. (Stars: 10489)
+  - Last updated on 2026-08-02. (Stars: 10500)
 - **[awesome-threat-modeling](https://github.com/redshiftzero/awesome-threat-modeling)** - a curated list of useful threat modeling resources
   - Created by [redshiftzero](https://github.com/redshiftzero) on 2018-11-30
   - Last updated on 2026-07-15. (Stars: 176)
+
+### Username
+
+- **[Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape)** - A collection & lists of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more
+  - Created by [spmedia](https://github.com/spmedia) on 2025-03-14
+  - Last updated on 2026-08-02. (Stars: 227)
+- **[WhatsMyName](https://github.com/WebBreacher/WhatsMyName)** - Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.
+  - Created by [WebBreacher](https://github.com/WebBreacher) on 2015-10-02
+  - Last updated on 2026-08-01. (Stars: 2709)
 
 ### Web Scanner
 
 - **[open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)** - A list of open source web security scanners
   - Created by [psiinon](https://github.com/psiinon) on 2022-01-17
-  - Last updated on 2026-07-25. (Stars: 1611)
+  - Last updated on 2026-07-30. (Stars: 1614)
 
 
 ### Blogs
