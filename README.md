@@ -21,16 +21,16 @@ Repositories with the highest star gain over the last 30 days.
 
 | Rank | Repository | Star Gain | Total Stars |
 |------|-----------|-----------|-------------|
-| 1 | [worldmonitor](https://github.com/koala73/worldmonitor) | +16758 ★ | 74,638 |
-| 2 | [maigret](https://github.com/soxoj/maigret) | +2326 ★ | 35,800 |
-| 3 | [osiris](https://github.com/simplifaisoul/osiris) | +1305 ★ | 7,173 |
-| 4 | [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | +648 ★ | 1,522 |
-| 5 | [flowsint](https://github.com/reconurge/flowsint) | +540 ★ | 7,458 |
-| 6 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | +521 ★ | 9,866 |
-| 7 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +519 ★ | 2,828 |
-| 8 | [robin](https://github.com/apurvsinghgautam/robin) | +507 ★ | 6,052 |
-| 9 | [Osintgram](https://github.com/Datalux/Osintgram) | +471 ★ | 13,704 |
-| 10 | [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | +464 ★ | 1,185 |
+| 1 | [worldmonitor](https://github.com/koala73/worldmonitor) | +17423 ★ | 78,013 |
+| 2 | [maigret](https://github.com/soxoj/maigret) | +2121 ★ | 36,072 |
+| 3 | [osiris](https://github.com/simplifaisoul/osiris) | +1147 ★ | 7,384 |
+| 4 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | +1045 ★ | 10,468 |
+| 5 | [blackbird](https://github.com/p1ngul1n0/blackbird) | +582 ★ | 7,211 |
+| 6 | [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | +574 ★ | 1,573 |
+| 7 | [robin](https://github.com/apurvsinghgautam/robin) | +564 ★ | 6,174 |
+| 8 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +500 ★ | 2,935 |
+| 9 | [Osintgram](https://github.com/Datalux/Osintgram) | +489 ★ | 13,803 |
+| 10 | [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) | +480 ★ | 1,265 |
 <!-- MOVERS_END -->
 
 ---
