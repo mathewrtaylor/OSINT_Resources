@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-02 -->
+<!-- Reviewed on 2026-08-10 -->
 
 ## GitHub Resources
 
@@ -12,19 +12,28 @@
 
 - **[Master-Darknet](https://github.com/yottajunaid/Master-Darknet)** - The Ultimate Open-Source Guide to the Deep Web, Dark Web, Hidden Networks & Anonymity
   - Created by [yottajunaid](https://github.com/yottajunaid) on 2026-02-22
-  - Last updated on 2026-07-18. (Stars: 2)
+  - Last updated on 2026-08-04. (Stars: 3)
+
+### Domain Tools
+
+- **[pursue-os](https://github.com/p4inz-code/pursue-os)** - Privacy-first investigation OS for OSINT, digital investigations, intelligence research, evidence collection, Tor research, and professional investigative workflows.
+  - Created by [p4inz-code](https://github.com/p4inz-code) on 2026-08-09
+  - Last updated on 2026-08-09. (Stars: 0)
 
 ### General OSINT Tools
 
 - **[OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE)** - A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
   - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2025-12-24
-  - Last updated on 2026-08-02. (Stars: 648)
+  - Last updated on 2026-08-09. (Stars: 835)
 - **[The-Open-Source-Intelligence-Bible](https://github.com/cloudstreet-dev/The-Open-Source-Intelligence-Bible)** - OSINT in 2026
   - Created by [cloudstreet-dev](https://github.com/cloudstreet-dev) on 2026-02-26
-  - Last updated on 2026-03-30. (Stars: 4)
+  - Last updated on 2026-08-09. (Stars: 6)
 - **[non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide)** - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
   - Created by [OffcierCia](https://github.com/OffcierCia) on 2023-03-24
-  - Last updated on 2026-08-02. (Stars: 1539)
+  - Last updated on 2026-08-08. (Stars: 1548)
+- **[osint-patterns](https://github.com/hellstation/osint-patterns)** - A practical OSINT knowledge base focused on analytical methodology and real workflows across Email OSINT, GEOINT, HUMINT, and Sock Puppet operations.
+  - Created by [hellstation](https://github.com/hellstation) on 2026-05-24
+  - Last updated on 2026-05-25. (Stars: 4)
 - **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
   - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
   - Last updated on 2026-05-04. (Stars: 0)
@@ -39,25 +48,25 @@
 
 - **[palantir-ontology-strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** - A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。
   - Created by [Leading-AI-IO](https://github.com/Leading-AI-IO) on 2026-02-21
-  - Last updated on 2026-08-02. (Stars: 196)
+  - Last updated on 2026-08-09. (Stars: 202)
 
 ### Professionals
 
 - **[OSINT-People](https://github.com/ubikron/OSINT-People)** - List of interesting and active OSINT researchers/bloggers
   - Created by [ubikron](https://github.com/ubikron) on 2026-01-20
-  - Last updated on 2026-07-13. (Stars: 37)
+  - Last updated on 2026-08-09. (Stars: 38)
 
 ### Shodan
 
 - **[shodan-dorks](https://github.com/dootss/shodan-dorks)** - An auto-updating list of shodan dorks with info on the amount of results they return!
   - Created by [dootss](https://github.com/dootss) on 2023-12-05
-  - Last updated on 2026-08-02. (Stars: 414)
+  - Last updated on 2026-08-09. (Stars: 422)
 
 ### Termux
 
 - **[DedSec](https://github.com/dedsec1121fk/DedSec)** - Official DedSec Project GitHub Repository
   - Created by [dedsec1121fk](https://github.com/dedsec1121fk) on 2024-10-20
-  - Last updated on 2026-08-02. (Stars: 989)
+  - Last updated on 2026-08-09. (Stars: 993)
 
 
 ### Blogs and Training Content
