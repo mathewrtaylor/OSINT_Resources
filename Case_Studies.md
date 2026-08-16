@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-10 -->
+<!-- Reviewed on 2026-08-16 -->
 
 ## Case Studies
 
@@ -12,7 +12,7 @@
 
 - **[security-playbooks](https://github.com/theylovejay409/security-playbooks)** - Explore open-source ATT&CK scenarios, detection rules, and blue-team labs for hands-on security testing
   - Created by [theylovejay409](https://github.com/theylovejay409) on 2025-06-18
-  - Last updated on 2026-08-10. (Stars: 2)
+  - Last updated on 2026-08-16. (Stars: 2)
 
 ### Dark Web
 
@@ -31,12 +31,6 @@
 - **[OSINT-Investigation](https://github.com/Ramyaa481/OSINT-Investigation)** - An ethical Open Source Intelligence (OSINT) investigation demonstrating digital footprint analysis using Google Search, WHOIS, DNS records, GitHub, and public social media data for cybersecurity learning.
   - Created by [Ramyaa481](https://github.com/Ramyaa481) on 2026-07-01
   - Last updated on 2026-07-01. (Stars: 0)
-
-### Epstein
-
-- **[ObsidianGroup_Epstein](https://github.com/jpuckett11/ObsidianGroup_Epstein)** - 688+ hours | 3.5M documents read | The Epstein Investigation — Evidence Edition + When Lady Justice Was Truly Blind (Documentary) | EFTA corpus | Victim diary | Flight logs | FBI case files | OSINT
-  - Created by [jpuckett11](https://github.com/jpuckett11) on 2026-05-27
-  - Last updated on 2026-07-11. (Stars: 2)
 
 ### General OSINT Tools
 
@@ -93,5 +87,5 @@
   - Last updated on 2026-06-29. (Stars: 0)
 - **[Threat-intelligence--portfolio-](https://github.com/laufey03/Threat-intelligence--portfolio-)** - A complete threat acrtor profiling of APT28 through OSINT investigation
   - Created by [laufey03](https://github.com/laufey03) on 2026-06-30
-  - Last updated on 2026-08-05. (Stars: 0)
+  - Last updated on 2026-08-12. (Stars: 0)
 

@@ -1,9 +1,12 @@
-<!-- Reviewed on 2026-08-10 -->
+<!-- Reviewed on 2026-08-16 -->
 
 ## Geolocation Resources
 
 ### Investigation Resources by Geo
 
+- **[OSINTArgy_v01](https://github.com/IAZARA/OSINTArgy_v01)** - Plataforma OSINT open source para investigaciones éticas en Argentina y Latinoamérica
+  - Created by [IAZARA](https://github.com/IAZARA) on 2025-06-22
+  - Last updated on 2026-07-26. (Stars: 9)
 - **[OSINT_i_poisk_v_Barnaule](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Barnaule)** - Поиск людей в Барнауле, поиск информации и разведка по различным данным в Барнауле.
   - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-09-17
   - Last updated on 2026-07-01. (Stars: 1)
@@ -69,31 +72,34 @@
   - Last updated on 2026-07-14. (Stars: 2)
 - **[Zhetikal_OSINT_tracker](https://github.com/jollncoelho/Zhetikal_OSINT_tracker)** - Zhétical OSINT Hub | Expert en investigation numérique & cybersécurité. Créateur de Ghostint-Tools. Passionné par l'OPSEC et la protection des mineurs en ligne
   - Created by [jollncoelho](https://github.com/jollncoelho) on 2026-05-11
-  - Last updated on 2026-08-09. (Stars: 26)
+  - Last updated on 2026-08-14. (Stars: 36)
 - **[cia](https://github.com/Hack23/cia)** - Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering detailed insights, performance metrics, and advanced analytics.
   - Created by [Hack23](https://github.com/Hack23) on 2015-08-01
-  - Last updated on 2026-08-09. (Stars: 235)
+  - Last updated on 2026-08-15. (Stars: 235)
 - **[deepstate-map-data](https://github.com/cyterat/deepstate-map-data)** - DeepState Map | Occupied | GeoJSON Multipolygon | Daily update
   - Created by [cyterat](https://github.com/cyterat) on 2024-07-08
-  - Last updated on 2026-08-09. (Stars: 32)
+  - Last updated on 2026-08-16. (Stars: 33)
 - **[euparliamentmonitor](https://github.com/Hack23/euparliamentmonitor)** - European Parliament Political Intelligence Platform - Radical transparency - Democratic accountability -  AI-generated news in 14 languages
   - Created by [Hack23](https://github.com/Hack23) on 2026-02-16
-  - Last updated on 2026-08-09. (Stars: 15)
+  - Last updated on 2026-08-15. (Stars: 15)
 - **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** - Ireland Criminal Intelligence Platform - Monitoring crime- Analist
   - Created by [Condor2026](https://github.com/Condor2026) on 2026-06-11
   - Last updated on 2026-07-25. (Stars: 0)
 - **[osint-indonesia-v4](https://github.com/spyschools/osint-indonesia-v4)** - Tools OSINT Indonesia, untuk cek NIK & No HP. Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OSINT publik.
   - Created by [spyschools](https://github.com/spyschools) on 2025-09-04
-  - Last updated on 2026-08-03. (Stars: 13)
+  - Last updated on 2026-08-11. (Stars: 14)
+- **[osint-poisk-informatsii](https://github.com/SherlokBotOsint/osint-poisk-informatsii)** - Каталог статей об OSINT, поиске людей, Telegram, телефонах, username, фото, IP и проверке информации.
+  - Created by [SherlokBotOsint](https://github.com/SherlokBotOsint) on 2026-08-01
+  - Last updated on 2026-08-06. (Stars: 0)
+- **[proverit-cheloveka-na-dolgi](https://github.com/SherlokBotOsint/proverit-cheloveka-na-dolgi)** - Как законно проверить человека на долги через ФССП и сведения о банкротстве, не перепутав тезок и не доверяя сомнительным базам.
+  - Created by [SherlokBotOsint](https://github.com/SherlokBotOsint) on 2026-08-01
+  - Last updated on 2026-08-04. (Stars: 0)
 
 
-### General OSINT
-
-- **[UNISHKA’s OSINT World Series Toolkit](https://unishka.com/osint-world-series)** — Toolkits by GEo
-
-### General OSINT tools
+### General OSINT Tools
 
 - **[GeoGuessr](https://www.geoguessr.com/)** — External OSINT resource for tracking or validation.
+- **[UNISHKA’s OSINT World Series Toolkit](https://unishka.com/osint-world-series)** — Toolkits by GEo
 
 ### Geolocation Tools
 

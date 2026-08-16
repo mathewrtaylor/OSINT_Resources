@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-10 -->
+<!-- Reviewed on 2026-08-16 -->
 
 ## Sock Tools
 
@@ -9,7 +9,7 @@
 - **[From Sock Puppets to Puppet Masters](https://christina-lekati.medium.com/from-sock-puppets-to-puppet-masters-a78a0c89609c)** — Educational guide, platform tutorial, or investigative methodology breakdown.
 - **[Introduction to Setting up Sock Puppets for OSINT](https://www.youtube.com/watch?v=3KPO58wkw7M)** — Educational guide, platform tutorial, or investigative methodology breakdown.
 
-### General OSINT tools
+### General OSINT Tools
 
 - **[Create a Believable Fake Account](https://www.wikihow.com/Create-a-Fake-Facebook-Profile)** — External OSINT resource for tracking or validation.
 - **[How to Keep Facebook From Detecting Fake Accounts](https://www.vice.com/en/article/surveillance-company-explains-how-to-keep-facebook-from-detecting-fake-accounts-in-leaked-manual/)** — External OSINT resource for tracking or validation.
