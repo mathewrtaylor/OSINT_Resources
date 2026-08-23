@@ -21,16 +21,16 @@ Repositories with the highest star gain over the last 30 days.
 
 | Rank | Repository | Star Gain | Total Stars |
 |------|-----------|-----------|-------------|
-| 1 | [worldmonitor](https://github.com/koala73/worldmonitor) | +20623 ★ | 82,377 |
-| 2 | [maigret](https://github.com/soxoj/maigret) | +1530 ★ | 36,812 |
-| 3 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | +1158 ★ | 10,851 |
-| 4 | [osiris](https://github.com/simplifaisoul/osiris) | +928 ★ | 7,658 |
-| 5 | [Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT) | +776 ★ | 1,689 |
-| 6 | [awesome-osint](https://github.com/jivoi/awesome-osint) | +761 ★ | 28,120 |
-| 7 | [blackbird](https://github.com/p1ngul1n0/blackbird) | +660 ★ | 7,628 |
-| 8 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +567 ★ | 3,212 |
-| 9 | [Osintgram](https://github.com/Datalux/Osintgram) | +533 ★ | 14,013 |
-| 10 | [Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) | +498 ★ | 4,189 |
+| 1 | [worldmonitor](https://github.com/koala73/worldmonitor) | +21885 ★ | 83,923 |
+| 2 | [maigret](https://github.com/soxoj/maigret) | +1432 ★ | 36,981 |
+| 3 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | +1158 ★ | 10,935 |
+| 4 | [osiris](https://github.com/simplifaisoul/osiris) | +979 ★ | 7,862 |
+| 5 | [Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT) | +784 ★ | 1,704 |
+| 6 | [awesome-osint](https://github.com/jivoi/awesome-osint) | +757 ★ | 28,267 |
+| 7 | [blackbird](https://github.com/p1ngul1n0/blackbird) | +748 ★ | 7,819 |
+| 8 | [Aliens_eye](https://github.com/arxhr007/Aliens_eye) | +737 ★ | 3,470 |
+| 9 | [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | +506 ★ | 1,964 |
+| 10 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +504 ★ | 3,279 |
 <!-- MOVERS_END -->
 
 ---
