@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-16 -->
+<!-- Reviewed on 2026-08-23 -->
 
 ## Case Studies
 
@@ -12,7 +12,7 @@
 
 - **[security-playbooks](https://github.com/theylovejay409/security-playbooks)** - Explore open-source ATT&CK scenarios, detection rules, and blue-team labs for hands-on security testing
   - Created by [theylovejay409](https://github.com/theylovejay409) on 2025-06-18
-  - Last updated on 2026-08-16. (Stars: 2)
+  - Last updated on 2026-08-22. (Stars: 2)
 
 ### Dark Web
 
@@ -36,7 +36,7 @@
 
 - **[4-week-cti-learning-journey](https://github.com/H3NRYBAIT/4-week-cti-learning-journey)** - A 30-day self-study Cyber Threat Intelligence program. Weekly case studies, IOCs, and investigations using free passive OSINT tools only.
   - Created by [H3NRYBAIT](https://github.com/H3NRYBAIT) on 2026-08-01
-  - Last updated on 2026-08-09. (Stars: 0)
+  - Last updated on 2026-08-18. (Stars: 0)
 - **[Digital-Investigations-and-OSINT-Portfolio](https://github.com/CyberHackersDiary/Digital-Investigations-and-OSINT-Portfolio)** - Digital Investigator focused on OSINT, geolocation, and digital verification. Exploring the world through clues, evidence, and open-source intelligence.
   - Created by [CyberHackersDiary](https://github.com/CyberHackersDiary) on 2026-06-10
   - Last updated on 2026-06-28. (Stars: 1)
@@ -87,5 +87,5 @@
   - Last updated on 2026-06-29. (Stars: 0)
 - **[Threat-intelligence--portfolio-](https://github.com/laufey03/Threat-intelligence--portfolio-)** - A complete threat acrtor profiling of APT28 through OSINT investigation
   - Created by [laufey03](https://github.com/laufey03) on 2026-06-30
-  - Last updated on 2026-08-12. (Stars: 0)
+  - Last updated on 2026-08-18. (Stars: 0)
 

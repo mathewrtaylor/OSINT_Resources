@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-16 -->
+<!-- Reviewed on 2026-08-23 -->
 
 ## GitHub Resources
 
@@ -24,16 +24,16 @@
 
 - **[OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE)** - A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
   - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2025-12-24
-  - Last updated on 2026-08-16. (Stars: 863)
+  - Last updated on 2026-08-23. (Stars: 880)
 - **[The-Open-Source-Intelligence-Bible](https://github.com/cloudstreet-dev/The-Open-Source-Intelligence-Bible)** - OSINT in 2026
   - Created by [cloudstreet-dev](https://github.com/cloudstreet-dev) on 2026-02-26
   - Last updated on 2026-08-09. (Stars: 6)
 - **[non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide)** - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
   - Created by [OffcierCia](https://github.com/OffcierCia) on 2023-03-24
-  - Last updated on 2026-08-16. (Stars: 1561)
+  - Last updated on 2026-08-21. (Stars: 1565)
 - **[osint-patterns](https://github.com/hellstation/osint-patterns)** - A practical OSINT knowledge base focused on analytical methodology and real workflows across Email OSINT, GEOINT, HUMINT, and Sock Puppet operations.
   - Created by [hellstation](https://github.com/hellstation) on 2026-05-24
-  - Last updated on 2026-05-25. (Stars: 4)
+  - Last updated on 2026-08-21. (Stars: 5)
 - **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
   - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
   - Last updated on 2026-05-04. (Stars: 0)
@@ -48,7 +48,7 @@
 
 - **[palantir-ontology-strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** - A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。
   - Created by [Leading-AI-IO](https://github.com/Leading-AI-IO) on 2026-02-21
-  - Last updated on 2026-08-16. (Stars: 208)
+  - Last updated on 2026-08-22. (Stars: 209)
 
 ### Professionals
 
@@ -60,13 +60,13 @@
 
 - **[shodan-dorks](https://github.com/dootss/shodan-dorks)** - An auto-updating list of shodan dorks with info on the amount of results they return!
   - Created by [dootss](https://github.com/dootss) on 2023-12-05
-  - Last updated on 2026-08-16. (Stars: 424)
+  - Last updated on 2026-08-23. (Stars: 434)
 
 ### Termux
 
 - **[DedSec](https://github.com/dedsec1121fk/DedSec)** - Official DedSec Project GitHub Repository
   - Created by [dedsec1121fk](https://github.com/dedsec1121fk) on 2024-10-20
-  - Last updated on 2026-08-16. (Stars: 995)
+  - Last updated on 2026-08-22. (Stars: 1000)
 
 ### Training
 

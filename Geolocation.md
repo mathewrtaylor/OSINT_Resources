@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-16 -->
+<!-- Reviewed on 2026-08-23 -->
 
 ## Geolocation Resources
 
@@ -6,7 +6,7 @@
 
 - **[OSINTArgy_v01](https://github.com/IAZARA/OSINTArgy_v01)** - Plataforma OSINT open source para investigaciones éticas en Argentina y Latinoamérica
   - Created by [IAZARA](https://github.com/IAZARA) on 2025-06-22
-  - Last updated on 2026-07-26. (Stars: 9)
+  - Last updated on 2026-08-22. (Stars: 9)
 - **[OSINT_i_poisk_v_Barnaule](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Barnaule)** - Поиск людей в Барнауле, поиск информации и разведка по различным данным в Барнауле.
   - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-09-17
   - Last updated on 2026-07-01. (Stars: 1)
@@ -72,16 +72,16 @@
   - Last updated on 2026-07-14. (Stars: 2)
 - **[Zhetikal_OSINT_tracker](https://github.com/jollncoelho/Zhetikal_OSINT_tracker)** - Zhétical OSINT Hub | Expert en investigation numérique & cybersécurité. Créateur de Ghostint-Tools. Passionné par l'OPSEC et la protection des mineurs en ligne
   - Created by [jollncoelho](https://github.com/jollncoelho) on 2026-05-11
-  - Last updated on 2026-08-14. (Stars: 36)
+  - Last updated on 2026-08-23. (Stars: 38)
 - **[cia](https://github.com/Hack23/cia)** - Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering detailed insights, performance metrics, and advanced analytics.
   - Created by [Hack23](https://github.com/Hack23) on 2015-08-01
-  - Last updated on 2026-08-15. (Stars: 235)
+  - Last updated on 2026-08-21. (Stars: 234)
 - **[deepstate-map-data](https://github.com/cyterat/deepstate-map-data)** - DeepState Map | Occupied | GeoJSON Multipolygon | Daily update
   - Created by [cyterat](https://github.com/cyterat) on 2024-07-08
-  - Last updated on 2026-08-16. (Stars: 33)
+  - Last updated on 2026-08-23. (Stars: 33)
 - **[euparliamentmonitor](https://github.com/Hack23/euparliamentmonitor)** - European Parliament Political Intelligence Platform - Radical transparency - Democratic accountability -  AI-generated news in 14 languages
   - Created by [Hack23](https://github.com/Hack23) on 2026-02-16
-  - Last updated on 2026-08-15. (Stars: 15)
+  - Last updated on 2026-08-21. (Stars: 15)
 - **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** - Ireland Criminal Intelligence Platform - Monitoring crime- Analist
   - Created by [Condor2026](https://github.com/Condor2026) on 2026-06-11
   - Last updated on 2026-07-25. (Stars: 0)
@@ -117,4 +117,16 @@
 - **[South Africa](https://start.me/p/KMAbkB/osint-south-africa)** — OSINT REsources for South Africa
 - **[Syria](https://unishka.substack.com/p/osint-of-syria)** — OSINT Resources for Syria
 - **[UAE](https://unishka.substack.com/p/osint-of-uae)** — OSINT Resources for Syria
+
+### Satellite Imagery
+
+- **[Apple Maps](https://maps.apple.com)** — Apple Maps is a web mapping service developed by Apple.
+- **[ArcGIS Online](https://www.arcgis.com/apps/mapviewer/index.html)** — Build interactive web maps with ArcGIS Online, Esri's web-based mapping software. (WebGl Required)
+- **[Bing Maps](https://bing.com/maps)** — Bing Maps offers comprehensive mapping services, including road maps, aerial views, and street-side imagery.
+- **[Copernicus Browser](https://browser.dataspace.copernicus.eu)** — Copernicus Browser is a user-friendly satellite image viewer accessible via any web browser.
+- **[Earth Explorer](https://earthexplorer.usgs.gov)** — EarthExplorer, or EE, which allows users to search for satellite and aerial imagery, preview browse images, export metadata, and download earth science data from the archives of the U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) center.
+- **[Google Earth](https://earth.google.com)** — Google Earth is a web and computer program created by Google that renders a 3D representation of Earth based primarily on satellite imagery.
+- **[NASA Worldview](https://worldview.earthdata.nasa.gov)** — Worldview is a fully featured, interactive interface for browsing full-resolution imagery and downloading the underlying data via Earthdata Search.
+- **[World Imagery Wayback](https://livingatlas.arcgis.com/wayback)** — Wayback imagery is a digital archive of the World Imagery basemap, enabling users to access different versions of World Imagery captured over the years.
+- **[Zoom Earth](https://zoom.earth)** — Zoom Earth is an interactive weather map of the world.
 
