@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-23 -->
+<!-- Reviewed on 2026-09-07 -->
 
 ## Case Studies
 
@@ -12,7 +12,7 @@
 
 - **[security-playbooks](https://github.com/theylovejay409/security-playbooks)** - Explore open-source ATT&CK scenarios, detection rules, and blue-team labs for hands-on security testing
   - Created by [theylovejay409](https://github.com/theylovejay409) on 2025-06-18
-  - Last updated on 2026-08-22. (Stars: 2)
+  - Last updated on 2026-09-06. (Stars: 2)
 
 ### Dark Web
 
@@ -36,7 +36,7 @@
 
 - **[4-week-cti-learning-journey](https://github.com/H3NRYBAIT/4-week-cti-learning-journey)** - A 30-day self-study Cyber Threat Intelligence program. Weekly case studies, IOCs, and investigations using free passive OSINT tools only.
   - Created by [H3NRYBAIT](https://github.com/H3NRYBAIT) on 2026-08-01
-  - Last updated on 2026-08-18. (Stars: 0)
+  - Last updated on 2026-08-25. (Stars: 0)
 - **[Digital-Investigations-and-OSINT-Portfolio](https://github.com/CyberHackersDiary/Digital-Investigations-and-OSINT-Portfolio)** - Digital Investigator focused on OSINT, geolocation, and digital verification. Exploring the world through clues, evidence, and open-source intelligence.
   - Created by [CyberHackersDiary](https://github.com/CyberHackersDiary) on 2026-06-10
   - Last updated on 2026-06-28. (Stars: 1)
@@ -66,7 +66,7 @@
   - Last updated on 2026-07-18. (Stars: 0)
 - **[osint-rehberi](https://github.com/OffensiveTR/osint-rehberi)** - OSINT Mastery: A Scenario-Based Guide to Tools and Techniques
   - Created by [OffensiveTR](https://github.com/OffensiveTR) on 2025-10-25
-  - Last updated on 2026-07-17. (Stars: 11)
+  - Last updated on 2026-09-02. (Stars: 12)
 - **[osint-sp1ritfyre-investigation](https://github.com/rootNyx404/osint-sp1ritfyre-investigation)** - A comprehensive OSINT investigation case study demonstrating how a fictional target was identified and profiled from a single clue using Google Dorking, encoding/decoding techniques, safe link analysis, and cross-platform intelligence gathering.
   - Created by [rootNyx404](https://github.com/rootNyx404) on 2026-04-10
   - Last updated on 2026-04-23. (Stars: 1)
@@ -74,11 +74,29 @@
   - Created by [yankywilson](https://github.com/yankywilson) on 2026-05-03
   - Last updated on 2026-05-03. (Stars: 0)
 
+### Geopolitics
+
+- **[osint-case-ratcliffe-moscow-2026](https://github.com/korczis/osint-case-ratcliffe-moscow-2026)** - Open-source intelligence assessment of the CIA Director's unannounced Moscow visit (2026-08-25) — maintained with Claude Code skills; reusable OSINT case toolkit
+  - Created by [korczis](https://github.com/korczis) on 2026-08-26
+  - Last updated on 2026-09-03. (Stars: 1)
+
 ### Identity
 
 - **[identity-security-risk-assessment](https://github.com/buddhamahidhar22-prog/identity-security-risk-assessment)** - Independent identity security investigation involving breach intelligence analysis, threat modeling, and risk assessment.
   - Created by [buddhamahidhar22-prog](https://github.com/buddhamahidhar22-prog) on 2026-06-05
   - Last updated on 2026-06-05. (Stars: 0)
+
+### Missing Person
+
+- **[missing-person-osint-investigation](https://github.com/anantraj0018/missing-person-osint-investigation)** - A practical OSINT investigation of a missing person case using image analysis, metadata, geolocation, and social media research.
+  - Created by [anantraj0018](https://github.com/anantraj0018) on 2026-09-01
+  - Last updated on 2026-09-04. (Stars: 1)
+
+### Phishing
+
+- **[greenholt-phishing-investigation](https://github.com/zales2004/greenholt-phishing-investigation)** - Hands-on phishing email investigation covering email header analysis, SPF/DKIM/DMARC, OSINT, threat intelligence, attachment analysis, IOC identification, and SOC-style incident reporting.
+  - Created by [zales2004](https://github.com/zales2004) on 2026-09-05
+  - Last updated on 2026-09-06. (Stars: 0)
 
 ### Threat Intel
 
@@ -87,5 +105,11 @@
   - Last updated on 2026-06-29. (Stars: 0)
 - **[Threat-intelligence--portfolio-](https://github.com/laufey03/Threat-intelligence--portfolio-)** - A complete threat acrtor profiling of APT28 through OSINT investigation
   - Created by [laufey03](https://github.com/laufey03) on 2026-06-30
-  - Last updated on 2026-08-18. (Stars: 0)
+  - Last updated on 2026-08-24. (Stars: 0)
+
+### Try Hack Me
+
+- **[THM-Search-Skills-OSINT](https://github.com/htinlinn97/THM-Search-Skills-OSINT)** - No description provided.
+  - Created by [htinlinn97](https://github.com/htinlinn97) on 2026-08-13
+  - Last updated on 2026-08-13. (Stars: 1)
 

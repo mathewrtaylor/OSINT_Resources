@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-08-23 -->
+<!-- Reviewed on 2026-09-07 -->
 
 ## Geolocation Resources
 
@@ -6,28 +6,7 @@
 
 - **[OSINTArgy_v01](https://github.com/IAZARA/OSINTArgy_v01)** - Plataforma OSINT open source para investigaciones éticas en Argentina y Latinoamérica
   - Created by [IAZARA](https://github.com/IAZARA) on 2025-06-22
-  - Last updated on 2026-08-22. (Stars: 9)
-- **[OSINT_i_poisk_v_Barnaule](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Barnaule)** - Поиск людей в Барнауле, поиск информации и разведка по различным данным в Барнауле.
-  - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-09-17
-  - Last updated on 2026-07-01. (Stars: 1)
-- **[OSINT_i_poisk_v_Belgorode](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Belgorode)** - Поиск людей в Белгороде, поиск информации и разведка по различным данным в Белгороде.
-  - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-11-05
-  - Last updated on 2026-07-01. (Stars: 1)
-- **[OSINT_i_poisk_v_Ekaterinburge](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Ekaterinburge)** - Поиск людей в Екатеринбурге, поиск информации и разведка по различным данным в Ебурге.
-  - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-08-28
-  - Last updated on 2026-07-01. (Stars: 3)
-- **[OSINT_i_poisk_v_Groznom](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Groznom)** - Поиск людей в Грозном, поиск информации и разведка по различным данным в Грозном.
-  - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-11-11
-  - Last updated on 2026-07-01. (Stars: 2)
-- **[OSINT_i_poisk_v_Mahachkale](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Mahachkale)** - Поиск людей в Махачкале, поиск информации и разведка по различным данным в Махачкале.
-  - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-09-19
-  - Last updated on 2026-07-01. (Stars: 2)
-- **[OSINT_i_poisk_v_Moskve](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Moskve)** - Поиск людей в Москве, поиск информации и разведка по различным данным в Москве.
-  - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-09-08
-  - Last updated on 2026-07-01. (Stars: 2)
-- **[OSINT_i_poisk_v_Sankt-Peterburge](https://github.com/Russian-OSINT/OSINT_i_poisk_v_Sankt-Peterburge)** - Поиск людей в Санкт-Петербурге, поиск информации и разведка по различным данным в Питере.
-  - Created by [Russian-OSINT](https://github.com/Russian-OSINT) on 2025-08-26
-  - Last updated on 2026-07-01. (Stars: 1)
+  - Last updated on 2026-09-04. (Stars: 9)
 - **[OSINT_in_Central_African_Republic](https://github.com/OSINT-for-countries/OSINT_in_Central_African_Republic)** - OSINT methods in Central African Republic, ways to search for data and information on Central African Republic.
   - Created by [OSINT-for-countries](https://github.com/OSINT-for-countries) on 2026-06-25
   - Last updated on 2026-07-01. (Stars: 1)
@@ -72,16 +51,16 @@
   - Last updated on 2026-07-14. (Stars: 2)
 - **[Zhetikal_OSINT_tracker](https://github.com/jollncoelho/Zhetikal_OSINT_tracker)** - Zhétical OSINT Hub | Expert en investigation numérique & cybersécurité. Créateur de Ghostint-Tools. Passionné par l'OPSEC et la protection des mineurs en ligne
   - Created by [jollncoelho](https://github.com/jollncoelho) on 2026-05-11
-  - Last updated on 2026-08-23. (Stars: 38)
+  - Last updated on 2026-09-04. (Stars: 48)
 - **[cia](https://github.com/Hack23/cia)** - Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering detailed insights, performance metrics, and advanced analytics.
   - Created by [Hack23](https://github.com/Hack23) on 2015-08-01
-  - Last updated on 2026-08-21. (Stars: 234)
+  - Last updated on 2026-09-07. (Stars: 236)
 - **[deepstate-map-data](https://github.com/cyterat/deepstate-map-data)** - DeepState Map | Occupied | GeoJSON Multipolygon | Daily update
   - Created by [cyterat](https://github.com/cyterat) on 2024-07-08
-  - Last updated on 2026-08-23. (Stars: 33)
+  - Last updated on 2026-09-07. (Stars: 33)
 - **[euparliamentmonitor](https://github.com/Hack23/euparliamentmonitor)** - European Parliament Political Intelligence Platform - Radical transparency - Democratic accountability -  AI-generated news in 14 languages
   - Created by [Hack23](https://github.com/Hack23) on 2026-02-16
-  - Last updated on 2026-08-21. (Stars: 15)
+  - Last updated on 2026-09-07. (Stars: 15)
 - **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** - Ireland Criminal Intelligence Platform - Monitoring crime- Analist
   - Created by [Condor2026](https://github.com/Condor2026) on 2026-06-11
   - Last updated on 2026-07-25. (Stars: 0)
@@ -94,6 +73,12 @@
 - **[proverit-cheloveka-na-dolgi](https://github.com/SherlokBotOsint/proverit-cheloveka-na-dolgi)** - Как законно проверить человека на долги через ФССП и сведения о банкротстве, не перепутав тезок и не доверяя сомнительным базам.
   - Created by [SherlokBotOsint](https://github.com/SherlokBotOsint) on 2026-08-01
   - Last updated on 2026-08-04. (Stars: 0)
+
+### Satellite Imagery
+
+- **[gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+  - Created by [bilawalsidhu](https://github.com/bilawalsidhu) on 2026-06-22
+  - Last updated on 2026-09-07. (Stars: 18835)
 
 
 ### General OSINT Tools
