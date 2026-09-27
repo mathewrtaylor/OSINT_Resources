@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-09-07 -->
+<!-- Reviewed on 2026-09-27 -->
 
 ## Geolocation Resources
 
@@ -51,22 +51,19 @@
   - Last updated on 2026-07-14. (Stars: 2)
 - **[Zhetikal_OSINT_tracker](https://github.com/jollncoelho/Zhetikal_OSINT_tracker)** - Zhétical OSINT Hub | Expert en investigation numérique & cybersécurité. Créateur de Ghostint-Tools. Passionné par l'OPSEC et la protection des mineurs en ligne
   - Created by [jollncoelho](https://github.com/jollncoelho) on 2026-05-11
-  - Last updated on 2026-09-04. (Stars: 48)
+  - Last updated on 2026-09-14. (Stars: 51)
 - **[cia](https://github.com/Hack23/cia)** - Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering detailed insights, performance metrics, and advanced analytics.
   - Created by [Hack23](https://github.com/Hack23) on 2015-08-01
-  - Last updated on 2026-09-07. (Stars: 236)
+  - Last updated on 2026-09-27. (Stars: 235)
 - **[deepstate-map-data](https://github.com/cyterat/deepstate-map-data)** - DeepState Map | Occupied | GeoJSON Multipolygon | Daily update
   - Created by [cyterat](https://github.com/cyterat) on 2024-07-08
-  - Last updated on 2026-09-07. (Stars: 33)
+  - Last updated on 2026-09-27. (Stars: 33)
 - **[euparliamentmonitor](https://github.com/Hack23/euparliamentmonitor)** - European Parliament Political Intelligence Platform - Radical transparency - Democratic accountability -  AI-generated news in 14 languages
   - Created by [Hack23](https://github.com/Hack23) on 2026-02-16
-  - Last updated on 2026-09-07. (Stars: 15)
-- **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** - Ireland Criminal Intelligence Platform - Monitoring crime- Analist
-  - Created by [Condor2026](https://github.com/Condor2026) on 2026-06-11
-  - Last updated on 2026-07-25. (Stars: 0)
+  - Last updated on 2026-09-27. (Stars: 15)
 - **[osint-indonesia-v4](https://github.com/spyschools/osint-indonesia-v4)** - Tools OSINT Indonesia, untuk cek NIK & No HP. Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OSINT publik.
   - Created by [spyschools](https://github.com/spyschools) on 2025-09-04
-  - Last updated on 2026-08-11. (Stars: 14)
+  - Last updated on 2026-09-23. (Stars: 15)
 - **[osint-poisk-informatsii](https://github.com/SherlokBotOsint/osint-poisk-informatsii)** - Каталог статей об OSINT, поиске людей, Telegram, телефонах, username, фото, IP и проверке информации.
   - Created by [SherlokBotOsint](https://github.com/SherlokBotOsint) on 2026-08-01
   - Last updated on 2026-08-06. (Stars: 0)
@@ -78,7 +75,7 @@
 
 - **[gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
   - Created by [bilawalsidhu](https://github.com/bilawalsidhu) on 2026-06-22
-  - Last updated on 2026-09-07. (Stars: 18835)
+  - Last updated on 2026-09-27. (Stars: 44001)
 
 
 ### General OSINT Tools

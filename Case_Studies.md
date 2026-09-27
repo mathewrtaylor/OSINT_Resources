@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-09-07 -->
+<!-- Reviewed on 2026-09-27 -->
 
 ## Case Studies
 
@@ -12,7 +12,7 @@
 
 - **[security-playbooks](https://github.com/theylovejay409/security-playbooks)** - Explore open-source ATT&CK scenarios, detection rules, and blue-team labs for hands-on security testing
   - Created by [theylovejay409](https://github.com/theylovejay409) on 2025-06-18
-  - Last updated on 2026-09-06. (Stars: 2)
+  - Last updated on 2026-09-27. (Stars: 2)
 
 ### Dark Web
 
@@ -24,7 +24,7 @@
 
 - **[Islamic-Republic-Influence-Networks](https://github.com/goldenowlosint/Islamic-Republic-Influence-Networks)** - 📊 OSINT dataset of 10,700+ Twitter/X accounts linked to Islamic Republic influence networks. Metadata-only for CIB research & network analysis.
   - Created by [goldenowlosint](https://github.com/goldenowlosint) on 2026-01-14
-  - Last updated on 2026-08-07. (Stars: 78)
+  - Last updated on 2026-09-21. (Stars: 77)
 
 ### Domain Tools
 
@@ -61,9 +61,6 @@
 - **[Threat-Intelligence-Investigations](https://github.com/Minh1402-lap/Threat-Intelligence-Investigations)** - Threat Intelligence, OSINT and Security Investigation Projects
   - Created by [Minh1402-lap](https://github.com/Minh1402-lap) on 2026-06-18
   - Last updated on 2026-06-18. (Stars: 0)
-- **[WEEK-2-Search-Intelligence](https://github.com/Atchaya-ravi10/WEEK-2-Search-Intelligence)** - Focused on Search Intelligence through advanced Google Dorking, GHDB analysis, search automation, multi-engine OSINT, reusable dork documentation, and a Fortune 500 investigation using passive, publicly available information.
-  - Created by [Atchaya-ravi10](https://github.com/Atchaya-ravi10) on 2026-07-18
-  - Last updated on 2026-07-18. (Stars: 0)
 - **[osint-rehberi](https://github.com/OffensiveTR/osint-rehberi)** - OSINT Mastery: A Scenario-Based Guide to Tools and Techniques
   - Created by [OffensiveTR](https://github.com/OffensiveTR) on 2025-10-25
   - Last updated on 2026-09-02. (Stars: 12)
@@ -90,7 +87,7 @@
 
 - **[missing-person-osint-investigation](https://github.com/anantraj0018/missing-person-osint-investigation)** - A practical OSINT investigation of a missing person case using image analysis, metadata, geolocation, and social media research.
   - Created by [anantraj0018](https://github.com/anantraj0018) on 2026-09-01
-  - Last updated on 2026-09-04. (Stars: 1)
+  - Last updated on 2026-09-26. (Stars: 1)
 
 ### Phishing
 

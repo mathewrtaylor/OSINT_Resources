@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-09-07 -->
+<!-- Reviewed on 2026-09-27 -->
 
 ## Bookmarks
 
@@ -6,19 +6,19 @@
 
 - **[Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT)** - A list of articles, videos, and tools related to the use of AI for OSINT.
   - Created by [ubikron](https://github.com/ubikron) on 2025-08-25
-  - Last updated on 2026-09-07. (Stars: 776)
+  - Last updated on 2026-09-26. (Stars: 787)
 
 ### DFIR
 
 - **[Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)** - Digital Forensics Guide. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics.
   - Created by [mikeroyal](https://github.com/mikeroyal) on 2021-08-06
-  - Last updated on 2026-09-07. (Stars: 3137)
+  - Last updated on 2026-09-27. (Stars: 3162)
 - **[awesome-forensics](https://github.com/cugu/awesome-forensics)** - ⭐️ A curated list of awesome forensic analysis tools and resources
   - Created by [cugu](https://github.com/cugu) on 2016-03-29
-  - Last updated on 2026-09-07. (Stars: 5178)
+  - Last updated on 2026-09-26. (Stars: 5197)
 - **[awesome-lists](https://github.com/mthcht/awesome-lists)** - Awesome Security lists for SOC/CERT/CTI
   - Created by [mthcht](https://github.com/mthcht) on 2022-12-11
-  - Last updated on 2026-09-07. (Stars: 1908)
+  - Last updated on 2026-09-27. (Stars: 1924)
 
 ### Dark Web
 
@@ -33,37 +33,46 @@
 
 - **[Awesome-FCC](https://github.com/SKR-35/Awesome-FCC)** - A curated list of Financial Crime Compliance (FCC) resources: transaction monitoring, trade surveillance, e-comms surveillance, fraud detection, case management, sanctions screening, KYC/KYB, graph analytics, datasets, regulations and more.
   - Created by [SKR-35](https://github.com/SKR-35) on 2026-04-26
-  - Last updated on 2026-09-02. (Stars: 4)
+  - Last updated on 2026-09-23. (Stars: 8)
 
 ### General OSINT Tools
 
 - **[Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List)** - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
   - Created by [Astrosp](https://github.com/Astrosp) on 2022-09-16
-  - Last updated on 2026-09-07. (Stars: 4372)
-- **[Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)** - A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
-  - Created by [K2SOsint](https://github.com/K2SOsint) on 2025-09-12
-  - Last updated on 2026-09-06. (Stars: 1724)
+  - Last updated on 2026-09-27. (Stars: 4467)
+- **[Investigative-Research---Resource-Toolkit-By-Azutech](https://github.com/azutech25/Investigative-Research---Resource-Toolkit-By-Azutech)** - A curated collection of investigative resources, research tools, datasets, methodologies, and specialized sources for conducting, supporting, and corroborating investigations across OSINT, digital forensics, intelligence research, and related investigative disciplines, Designed for security researchers, journalists, and forensic analysts and all. 
+  - Created by [azutech25](https://github.com/azutech25) on 2026-09-15
+  - Last updated on 2026-09-24. (Stars: 2)
+- **[OSINT](https://github.com/Aramon-IT/OSINT)** - Aramon OSINT Toolkit — the official, curated collection of OSINT tools, resources, techniques, and practical guides for cybersecurity research, maintained by Aramon Institute of IT.
+  - Created by [Aramon-IT](https://github.com/Aramon-IT) on 2026-09-08
+  - Last updated on 2026-09-09. (Stars: 2)
 - **[OSINT](https://github.com/b4h4w/OSINT)** - Curated list of tools and resources for open-source intelligence investigation.
   - Created by [b4h4w](https://github.com/b4h4w) on 2026-05-06
   - Last updated on 2026-05-10. (Stars: 1)
 - **[OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)** - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
   - Created by [Jieyab89](https://github.com/Jieyab89) on 2021-11-22
-  - Last updated on 2026-09-07. (Stars: 2206)
+  - Last updated on 2026-09-27. (Stars: 2231)
 - **[OSINT-Tools-Library](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)** - A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community.
   - Created by [The-OSINT-Newsletter](https://github.com/The-OSINT-Newsletter) on 2026-03-21
-  - Last updated on 2026-09-05. (Stars: 95)
+  - Last updated on 2026-09-25. (Stars: 109)
 - **[OSINT-handbook](https://github.com/durgesh104/OSINT-handbook)** - A practical OSINT handbook covering search intelligence, SOCMINT, email & username investigations, image OSINT, GEOINT, website & business intelligence, blockchain analysis, and OSINT tools.
   - Created by [durgesh104](https://github.com/durgesh104) on 2026-08-09
   - Last updated on 2026-08-10. (Stars: 0)
 - **[Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)** - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
   - Created by [BushidoUK](https://github.com/BushidoUK) on 2020-01-16
-  - Last updated on 2026-09-07. (Stars: 825)
+  - Last updated on 2026-09-26. (Stars: 829)
 - **[awesome-osint](https://github.com/jivoi/awesome-osint)** - :scream: A curated list of amazingly awesome OSINT
   - Created by [jivoi](https://github.com/jivoi) on 2016-11-30
-  - Last updated on 2026-09-07. (Stars: 29208)
+  - Last updated on 2026-09-27. (Stars: 29793)
+- **[cyber-security-tools](https://github.com/GermanTicketGuy/cyber-security-tools)** - A curated, always-up-to-date list of open-source cyber security tools — from OSINT and recon to malware analysis, red teaming, DFIR and hardening. Every entry links to the original project, not a fork.
+  - Created by [GermanTicketGuy](https://github.com/GermanTicketGuy) on 2026-09-22
+  - Last updated on 2026-09-25. (Stars: 2)
+- **[cybersecurity-framework](https://github.com/5h4d0wn1k/cybersecurity-framework)** - Interactive map of everything in cybersecurity: 27 domains, 776 categories, 1067 curated offensive & defensive tools with effort ratings and when-to-use guidance.
+  - Created by [5h4d0wn1k](https://github.com/5h4d0wn1k) on 2026-09-22
+  - Last updated on 2026-09-26. (Stars: 5)
 - **[gl0bal01](https://github.com/gl0bal01/gl0bal01)** - AppSec, OSINT & DFIR enthusiast developing investigation tools, Discord bots, and security automation systems.
   - Created by [gl0bal01](https://github.com/gl0bal01) on 2024-06-26
-  - Last updated on 2026-09-07. (Stars: 3)
+  - Last updated on 2026-09-25. (Stars: 3)
 - **[osint-recon-hub](https://github.com/pandey-saket/osint-recon-hub)** - A curated collection of free OSINT tools and resources for social media recon, email/IP/phone investigation, GEOINT, reverse image search, threat intelligence, and digital forensics — plus free learning resources to get started with OSINT. For ethical and authorized investigative use only.
   - Created by [pandey-saket](https://github.com/pandey-saket) on 2026-06-17
   - Last updated on 2026-08-24. (Stars: 7)
@@ -72,37 +81,37 @@
   - Last updated on 2026-06-06. (Stars: 0)
 - **[osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)** - A collection of several hundred online tools for OSINT
   - Created by [cipher387](https://github.com/cipher387) on 2021-06-08
-  - Last updated on 2026-09-07. (Stars: 8789)
+  - Last updated on 2026-09-27. (Stars: 8879)
 - **[poiskovie_i_OSINT_instrumenti](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)** - Лучшие инструменты для OSINT, поиска информации, пробива и разведки в Интернете!
   - Created by [osint-and-search](https://github.com/osint-and-search) on 2026-05-26
-  - Last updated on 2026-09-07. (Stars: 53)
+  - Last updated on 2026-09-27. (Stars: 63)
 - **[senior-securityengineer-cybersecuritybookmarks](https://github.com/scottalt/senior-securityengineer-cybersecuritybookmarks)** - A senior security engineer's actual browser bookmarks. 40+ curated cybersecurity resources for recon, OSINT, exploitation, privilege escalation, and malware analysis.
   - Created by [scottalt](https://github.com/scottalt) on 2026-08-10
-  - Last updated on 2026-09-07. (Stars: 55)
+  - Last updated on 2026-09-27. (Stars: 75)
 
 ### Investigation Resources by Geo
 
 - **[OSINT-Resources-by-Countries-GLOBAL](https://github.com/D-XPL01T/OSINT-Resources-by-Countries-GLOBAL)** - A global field guide to OSINT — country-specific tools, public sources, reconnaissance resources, and investigative intelligence.
   - Created by [D-XPL01T](https://github.com/D-XPL01T) on 2026-09-05
-  - Last updated on 2026-09-05. (Stars: 0)
+  - Last updated on 2026-09-26. (Stars: 18)
 
 ### Privacy
 
 - **[awesome-privacy](https://github.com/lissy93/awesome-privacy)** - 🦄  A curated list of privacy & security-focused software and services
   - Created by [lissy93](https://github.com/lissy93) on 2022-07-09
-  - Last updated on 2026-09-07. (Stars: 9850)
+  - Last updated on 2026-09-27. (Stars: 9909)
 
 ### Social Media
 
 - **[Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)** - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
   - Created by [ItIsMeCall911](https://github.com/ItIsMeCall911) on 2021-05-16
-  - Last updated on 2026-09-07. (Stars: 2861)
+  - Last updated on 2026-09-27. (Stars: 2890)
 - **[Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT)** - Social Media OSINT collection containing - tools, techniques & tradecraft.
   - Created by [The-Osint-Toolbox](https://github.com/The-Osint-Toolbox) on 2023-03-19
-  - Last updated on 2026-09-05. (Stars: 999)
+  - Last updated on 2026-09-27. (Stars: 1030)
 - **[social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list)** - Growing list of apps and tools for enhancing social media experiences.
   - Created by [MobileFirstLLC](https://github.com/MobileFirstLLC) on 2020-10-03
-  - Last updated on 2026-09-06. (Stars: 2297)
+  - Last updated on 2026-09-27. (Stars: 2335)
 - **[steam-osint](https://github.com/olegakanom/steam-osint)** - Актуальная подборка OSINT-инструментов для поиска информации по аккаунту Steam: поиск SteamID, история ников и аватаров, статистика игр (TF2, CS:GO, Dota 2, FACEIT), потраченные деньги, взаимодействия и многое другое. OSINT 2025
   - Created by [olegakanom](https://github.com/olegakanom) on 2025-12-18
   - Last updated on 2026-08-31. (Stars: 7)
@@ -111,7 +120,7 @@
 
 - **[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)** - A curated list of Awesome Threat Intelligence resources
   - Created by [hslatman](https://github.com/hslatman) on 2015-12-21
-  - Last updated on 2026-09-07. (Stars: 10606)
+  - Last updated on 2026-09-27. (Stars: 10679)
 - **[awesome-threat-modeling](https://github.com/redshiftzero/awesome-threat-modeling)** - a curated list of useful threat modeling resources
   - Created by [redshiftzero](https://github.com/redshiftzero) on 2018-11-30
   - Last updated on 2026-08-20. (Stars: 174)
@@ -120,16 +129,16 @@
 
 - **[Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape)** - A collection & lists of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more
   - Created by [spmedia](https://github.com/spmedia) on 2025-03-14
-  - Last updated on 2026-09-07. (Stars: 236)
+  - Last updated on 2026-09-27. (Stars: 239)
 - **[WhatsMyName](https://github.com/WebBreacher/WhatsMyName)** - Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.
   - Created by [WebBreacher](https://github.com/WebBreacher) on 2015-10-02
-  - Last updated on 2026-09-07. (Stars: 2831)
+  - Last updated on 2026-09-27. (Stars: 2900)
 
 ### Web Scanner
 
 - **[open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)** - A list of open source web security scanners
   - Created by [psiinon](https://github.com/psiinon) on 2022-01-17
-  - Last updated on 2026-09-05. (Stars: 1615)
+  - Last updated on 2026-09-27. (Stars: 1621)
 
 
 ### Blogs
