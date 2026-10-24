@@ -21,16 +21,16 @@ Repositories with the highest star gain over the last 30 days.
 
 | Rank | Repository | Star Gain | Total Stars |
 |------|-----------|-----------|-------------|
-| 1 | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +25166 ★ | 44,001 |
-| 2 | [worldmonitor](https://github.com/koala73/worldmonitor) | +3549 ★ | 87,472 |
-| 3 | [osiris](https://github.com/simplifaisoul/osiris) | +2192 ★ | 10,054 |
-| 4 | [user-scanner](https://github.com/kaifcodec/user-scanner) | +1739 ★ | 5,018 |
-| 5 | [awesome-osint](https://github.com/jivoi/awesome-osint) | +1526 ★ | 29,793 |
-| 6 | [flowsint](https://github.com/reconurge/flowsint) | +1239 ★ | 8,970 |
-| 7 | [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | +1099 ★ | 3,063 |
-| 8 | [maigret](https://github.com/soxoj/maigret) | +1036 ★ | 38,017 |
-| 9 | [robin](https://github.com/apurvsinghgautam/robin) | +972 ★ | 7,363 |
-| 10 | [MailAccess](https://github.com/KatrielMoses/MailAccess) | +843 ★ | 1,484 |
+| 1 | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +40727 ★ | 59,562 |
+| 2 | [worldmonitor](https://github.com/koala73/worldmonitor) | +3635 ★ | 89,406 |
+| 3 | [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | +3547 ★ | 4,023 |
+| 4 | [osiris](https://github.com/simplifaisoul/osiris) | +2543 ★ | 11,269 |
+| 5 | [flowsint](https://github.com/reconurge/flowsint) | +2107 ★ | 9,913 |
+| 6 | [maigret](https://github.com/soxoj/maigret) | +1971 ★ | 39,327 |
+| 7 | [blackbird](https://github.com/p1ngul1n0/blackbird) | +1269 ★ | 9,236 |
+| 8 | [awesome-osint](https://github.com/jivoi/awesome-osint) | +1235 ★ | 30,443 |
+| 9 | [trufflehog](https://github.com/trufflesecurity/trufflehog) | +971 ★ | 28,682 |
+| 10 | [Osintgram](https://github.com/Datalux/Osintgram) | +884 ★ | 15,195 |
 <!-- MOVERS_END -->
 
 ---
