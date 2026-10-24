@@ -1,12 +1,18 @@
-<!-- Reviewed on 2026-09-27 -->
+<!-- Reviewed on 2026-10-24 -->
 
 ## Geolocation Resources
+
+### Domain Tools
+
+- **[bd-osint](https://github.com/blackhelixunit/bd-osint)** - 🇧🇩 Bangladesh-focused OSINT framework for passive reconnaissance, attack-surface discovery, DNS, subdomains, RDAP, CT logs, TLS, HTTP metadata and defensive cybersecurity research.
+  - Created by [blackhelixunit](https://github.com/blackhelixunit) on 2026-09-18
+  - Last updated on 2026-09-18. (Stars: 1)
 
 ### Investigation Resources by Geo
 
 - **[OSINTArgy_v01](https://github.com/IAZARA/OSINTArgy_v01)** - Plataforma OSINT open source para investigaciones éticas en Argentina y Latinoamérica
   - Created by [IAZARA](https://github.com/IAZARA) on 2025-06-22
-  - Last updated on 2026-09-04. (Stars: 9)
+  - Last updated on 2026-10-01. (Stars: 10)
 - **[OSINT_in_Central_African_Republic](https://github.com/OSINT-for-countries/OSINT_in_Central_African_Republic)** - OSINT methods in Central African Republic, ways to search for data and information on Central African Republic.
   - Created by [OSINT-for-countries](https://github.com/OSINT-for-countries) on 2026-06-25
   - Last updated on 2026-07-01. (Stars: 1)
@@ -36,10 +42,10 @@
   - Last updated on 2026-07-01. (Stars: 1)
 - **[OSINT_in_Ukraine](https://github.com/OSINT-for-countries/OSINT_in_Ukraine)** - OSINT methods in Ukraine, ways to search for data and information on Ukraine.
   - Created by [OSINT-for-countries](https://github.com/OSINT-for-countries) on 2026-06-24
-  - Last updated on 2026-07-01. (Stars: 1)
+  - Last updated on 2026-10-20. (Stars: 2)
 - **[OSINT_in_United_States_of_America](https://github.com/OSINT-for-countries/OSINT_in_United_States_of_America)** - OSINT methods in United States of America, ways to search for data and information on United States of America.
   - Created by [OSINT-for-countries](https://github.com/OSINT-for-countries) on 2026-06-22
-  - Last updated on 2026-07-01. (Stars: 1)
+  - Last updated on 2026-10-21. (Stars: 2)
 - **[OSINT_in_Uruguay](https://github.com/OSINT-for-countries/OSINT_in_Uruguay)** - OSINT methods in Uruguay, ways to search for data and information on Uruguay.
   - Created by [OSINT-for-countries](https://github.com/OSINT-for-countries) on 2026-06-24
   - Last updated on 2026-07-01. (Stars: 1)
@@ -48,22 +54,22 @@
   - Last updated on 2026-07-01. (Stars: 1)
 - **[Wukong](https://github.com/SOsintOps/Wukong)** - China-focused OSINT workstation — a Debian 13 installer for investigating the Chinese-language internet and Chinese corporate due diligence. Standalone fork of the Speculator Project.
   - Created by [SOsintOps](https://github.com/SOsintOps) on 2026-07-05
-  - Last updated on 2026-07-14. (Stars: 2)
+  - Last updated on 2026-10-23. (Stars: 3)
 - **[Zhetikal_OSINT_tracker](https://github.com/jollncoelho/Zhetikal_OSINT_tracker)** - Zhétical OSINT Hub | Expert en investigation numérique & cybersécurité. Créateur de Ghostint-Tools. Passionné par l'OPSEC et la protection des mineurs en ligne
   - Created by [jollncoelho](https://github.com/jollncoelho) on 2026-05-11
-  - Last updated on 2026-09-14. (Stars: 51)
+  - Last updated on 2026-10-24. (Stars: 58)
 - **[cia](https://github.com/Hack23/cia)** - Citizen Intelligence Agency. Open-source intelligence platform analyzing Swedish political activities using AI and data visualization. Tracks politicians, government institutions, and parliamentary data, offering detailed insights, performance metrics, and advanced analytics.
   - Created by [Hack23](https://github.com/Hack23) on 2015-08-01
-  - Last updated on 2026-09-27. (Stars: 235)
+  - Last updated on 2026-10-24. (Stars: 242)
 - **[deepstate-map-data](https://github.com/cyterat/deepstate-map-data)** - DeepState Map | Occupied | GeoJSON Multipolygon | Daily update
   - Created by [cyterat](https://github.com/cyterat) on 2024-07-08
-  - Last updated on 2026-09-27. (Stars: 33)
+  - Last updated on 2026-10-24. (Stars: 38)
 - **[euparliamentmonitor](https://github.com/Hack23/euparliamentmonitor)** - European Parliament Political Intelligence Platform - Radical transparency - Democratic accountability -  AI-generated news in 14 languages
   - Created by [Hack23](https://github.com/Hack23) on 2026-02-16
-  - Last updated on 2026-09-27. (Stars: 15)
+  - Last updated on 2026-10-24. (Stars: 14)
 - **[osint-indonesia-v4](https://github.com/spyschools/osint-indonesia-v4)** - Tools OSINT Indonesia, untuk cek NIK & No HP. Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OSINT publik.
   - Created by [spyschools](https://github.com/spyschools) on 2025-09-04
-  - Last updated on 2026-09-23. (Stars: 15)
+  - Last updated on 2026-09-29. (Stars: 16)
 - **[osint-poisk-informatsii](https://github.com/SherlokBotOsint/osint-poisk-informatsii)** - Каталог статей об OSINT, поиске людей, Telegram, телефонах, username, фото, IP и проверке информации.
   - Created by [SherlokBotOsint](https://github.com/SherlokBotOsint) on 2026-08-01
   - Last updated on 2026-08-06. (Stars: 0)
@@ -75,7 +81,7 @@
 
 - **[gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
   - Created by [bilawalsidhu](https://github.com/bilawalsidhu) on 2026-06-22
-  - Last updated on 2026-09-27. (Stars: 44001)
+  - Last updated on 2026-10-24. (Stars: 59562)
 
 
 ### General OSINT Tools

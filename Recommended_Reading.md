@@ -1,4 +1,4 @@
-<!-- Reviewed on 2026-09-27 -->
+<!-- Reviewed on 2026-10-24 -->
 
 ## GitHub Resources
 
@@ -18,28 +18,28 @@
 
 - **[Master-Darknet](https://github.com/yottajunaid/Master-Darknet)** - The Ultimate Open-Source Guide to the Deep Web, Dark Web, Hidden Networks & Anonymity
   - Created by [yottajunaid](https://github.com/yottajunaid) on 2026-02-22
-  - Last updated on 2026-09-22. (Stars: 5)
+  - Last updated on 2026-10-20. (Stars: 5)
 
 ### Domain Tools
 
 - **[pursue-os](https://github.com/p4inz-code/pursue-os)** - Privacy-first investigation OS for OSINT, digital investigations, intelligence research, evidence collection, Tor research, and professional investigative workflows.
   - Created by [p4inz-code](https://github.com/p4inz-code) on 2026-08-09
-  - Last updated on 2026-09-21. (Stars: 8)
+  - Last updated on 2026-10-18. (Stars: 8)
 
 ### General OSINT Tools
 
 - **[OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE)** - A comprehensive 2026 guide to Open-Source Intelligence (OSINT): tools, methodologies, ethics, and techniques for responsible research and investigation.
   - Created by [frangelbarrera](https://github.com/frangelbarrera) on 2025-12-24
-  - Last updated on 2026-09-27. (Stars: 943)
+  - Last updated on 2026-10-23. (Stars: 983)
 - **[The-Open-Source-Intelligence-Bible](https://github.com/cloudstreet-dev/The-Open-Source-Intelligence-Bible)** - OSINT in 2026
   - Created by [cloudstreet-dev](https://github.com/cloudstreet-dev) on 2026-02-26
   - Last updated on 2026-08-09. (Stars: 6)
 - **[non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide)** - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
   - Created by [OffcierCia](https://github.com/OffcierCia) on 2023-03-24
-  - Last updated on 2026-09-26. (Stars: 1592)
+  - Last updated on 2026-10-24. (Stars: 1605)
 - **[osint-patterns](https://github.com/hellstation/osint-patterns)** - A practical OSINT knowledge base focused on analytical methodology and real workflows across Email OSINT, GEOINT, HUMINT, and Sock Puppet operations.
   - Created by [hellstation](https://github.com/hellstation) on 2026-05-24
-  - Last updated on 2026-09-23. (Stars: 5)
+  - Last updated on 2026-10-21. (Stars: 6)
 - **[wic-resources](https://github.com/WinterGate-IC/wic-resources)** - WinterGate Intelligence Collective (WIC) - Central Resource Hub for Threat Intelligence, OSINT Investigations, Attack Archives, IP Blacklists, MITRE ATT&CK Framework Data, Forensic Evidence, Detection Signatures, and Security Automation Scripts
   - Created by [WinterGate-IC](https://github.com/WinterGate-IC) on 2026-05-03
   - Last updated on 2026-05-04. (Stars: 0)
@@ -48,40 +48,40 @@
 
 - **[OSINT-newsletters](https://github.com/ubikron/OSINT-newsletters)** - List of OSINT newsletters
   - Created by [ubikron](https://github.com/ubikron) on 2026-01-16
-  - Last updated on 2026-09-26. (Stars: 33)
+  - Last updated on 2026-10-12. (Stars: 36)
 
 ### Palantir
 
 - **[palantir-ontology-strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** - A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。
   - Created by [Leading-AI-IO](https://github.com/Leading-AI-IO) on 2026-02-21
-  - Last updated on 2026-09-27. (Stars: 229)
+  - Last updated on 2026-10-24. (Stars: 246)
 
 ### Professionals
 
 - **[OSINT-People](https://github.com/ubikron/OSINT-People)** - List of interesting and active OSINT researchers/bloggers
   - Created by [ubikron](https://github.com/ubikron) on 2026-01-20
-  - Last updated on 2026-09-26. (Stars: 39)
+  - Last updated on 2026-10-13. (Stars: 41)
 
 ### Shodan
 
 - **[shodan-dorks](https://github.com/dootss/shodan-dorks)** - An auto-updating list of shodan dorks with info on the amount of results they return!
   - Created by [dootss](https://github.com/dootss) on 2023-12-05
-  - Last updated on 2026-09-27. (Stars: 449)
+  - Last updated on 2026-10-23. (Stars: 461)
 
 ### Surveillance
 
 - **[Ad-Tech-Surveillance](https://github.com/Ringmast4r/Ad-Tech-Surveillance)** - ADINT: a field guide to ad-tech surveillance. How advertising data (MAID, RTB bidstream, SDK location) becomes warrantless intelligence.
   - Created by [Ringmast4r](https://github.com/Ringmast4r) on 2026-08-14
-  - Last updated on 2026-09-25. (Stars: 12)
+  - Last updated on 2026-10-22. (Stars: 12)
 - **[Surveillance-Industry](https://github.com/Ringmast4r/Surveillance-Industry)** - MERCHANTS OF SURVEILLANCE - country-by-country field guide to the global surveillance industry: 10 dossiers on surveillance/spyware companies + state apparatus (US, Israel, China, UK, France, Germany, Italy, India, Gulf States) + a Palantir deep-dive.
   - Created by [Ringmast4r](https://github.com/Ringmast4r) on 2026-08-09
-  - Last updated on 2026-09-16. (Stars: 17)
+  - Last updated on 2026-10-22. (Stars: 18)
 
 ### Termux
 
 - **[DedSec](https://github.com/dedsec1121fk/DedSec)** - Official DedSec Project GitHub Repository
   - Created by [dedsec1121fk](https://github.com/dedsec1121fk) on 2024-10-20
-  - Last updated on 2026-09-27. (Stars: 1004)
+  - Last updated on 2026-10-22. (Stars: 918)
 
 ### Training
 
@@ -90,19 +90,28 @@
   - Last updated on 2026-08-10. (Stars: 0)
 - **[Python-for-Security-Professionals](https://github.com/armourinfosec/Python-for-Security-Professionals)** - Python for Security Professionals — lab-driven study notes: language fundamentals, the standard library, concurrency and packaging, then building port scanners, log analysers, and recon tooling. 14 modules, 8 labs, 16 projects, 138 flashcards. CC BY 4.0.
   - Created by [armourinfosec](https://github.com/armourinfosec) on 2026-08-19
-  - Last updated on 2026-09-24. (Stars: 26)
+  - Last updated on 2026-10-19. (Stars: 28)
 - **[Shadowtrace-OSINT-investigation-game](https://github.com/davedhruvansh/Shadowtrace-OSINT-investigation-game)** - A cinematic OSINT game featuring 15 story-driven investigations, digital evidence analysis, and multi-source intelligence challenges.
   - Created by [davedhruvansh](https://github.com/davedhruvansh) on 2026-08-12
   - Last updated on 2026-08-12. (Stars: 0)
 - **[android-applicatio-penetration-testing-osint-framework](https://github.com/NitinGavhane/android-applicatio-penetration-testing-osint-framework)** - No description provided.
   - Created by [NitinGavhane](https://github.com/NitinGavhane) on 2026-08-14
   - Last updated on 2026-08-14. (Stars: 1)
+- **[arsenalosint](https://github.com/adce626/arsenalosint)** - Local-first OSINT workspace and field-tool catalog: map, link analysis, timeline, and evidence-grade reporting — all in the browser.
+  - Created by [adce626](https://github.com/adce626) on 2026-10-17
+  - Last updated on 2026-10-17. (Stars: 1)
 - **[cyber-investigation-lab](https://github.com/Vijay7867/cyber-investigation-lab)** - A Python and SQLite based cybersecurity investigation learning lab for OSINT, IP intelligence, device telemetry, synthetic CDR analysis, evidence management, investigation timelines, case forensics, and archive health monitoring.
   - Created by [Vijay7867](https://github.com/Vijay7867) on 2026-09-03
   - Last updated on 2026-09-05. (Stars: 0)
+- **[cyber-investigator-skills](https://github.com/thiefdroppers/cyber-investigator-skills)** - A 90-day, hands-on curriculum for cyber investigation: OSINT, threat intelligence, digital forensics, and fraud investigation, plus AI agent skills that run the same procedures.
+  - Created by [thiefdroppers](https://github.com/thiefdroppers) on 2026-09-30
+  - Last updated on 2026-10-24. (Stars: 1)
 - **[open-investigative-lab](https://github.com/craigmateo/open-investigative-lab)** - Open source tools and learning materials for investigative journalism, public records work, and data-driven accountability reporting.
   - Created by [craigmateo](https://github.com/craigmateo) on 2026-01-28
   - Last updated on 2026-07-30. (Stars: 1)
+- **[osint-lab](https://github.com/mehulpatel23b-pixel/osint-lab)** - OSINT learning path — hands-on security research skills, practiced ethically on your own assets and sanctioned CTF platforms
+  - Created by [mehulpatel23b-pixel](https://github.com/mehulpatel23b-pixel) on 2026-10-18
+  - Last updated on 2026-10-24. (Stars: 2)
 
 
 ### Blogs and Training Content
