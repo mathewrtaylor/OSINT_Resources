@@ -91,6 +91,7 @@
 
 ### Geolocation Tools
 
+- **[Flock Locations](https://flocklocations.com/)** - a public map of Flock Safety and ALPR camera locations. [Methodology](https://flocklocations.com/methodology).
 - **[ArcGIS Living Atlas](https://livingatlas.arcgis.com/livefeeds-status/)** — Satellite imagery, live mapping layers, or global geographic tracking coordinates.
 - **[Copernicus Browser](https://browser.dataspace.copernicus.eu/)** — Satellite imagery, live mapping layers, or global geographic tracking coordinates.
 - **[Dual Maps](https://data.mashedworld.com/dualmaps/map.htm)** — Satellite imagery, live mapping layers, or global geographic tracking coordinates.
@@ -117,4 +118,3 @@
 - **[NASA Worldview](https://worldview.earthdata.nasa.gov)** — Worldview is a fully featured, interactive interface for browsing full-resolution imagery and downloading the underlying data via Earthdata Search.
 - **[World Imagery Wayback](https://livingatlas.arcgis.com/wayback)** — Wayback imagery is a digital archive of the World Imagery basemap, enabling users to access different versions of World Imagery captured over the years.
 - **[Zoom Earth](https://zoom.earth)** — Zoom Earth is an interactive weather map of the world.
-
