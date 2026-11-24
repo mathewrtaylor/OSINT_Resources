@@ -91,6 +91,7 @@
 
 ### Geolocation Tools
 
+- **[H1DR4 Incident Map](https://h1dr4.dev/map)** — Browse public Police.uk incident records in England and Wales. Published coordinates are approximate.
 - **[ArcGIS Living Atlas](https://livingatlas.arcgis.com/livefeeds-status/)** — Satellite imagery, live mapping layers, or global geographic tracking coordinates.
 - **[Copernicus Browser](https://browser.dataspace.copernicus.eu/)** — Satellite imagery, live mapping layers, or global geographic tracking coordinates.
 - **[Dual Maps](https://data.mashedworld.com/dualmaps/map.htm)** — Satellite imagery, live mapping layers, or global geographic tracking coordinates.
